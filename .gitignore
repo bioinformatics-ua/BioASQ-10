@@ -2,5 +2,10 @@ __pycache__
 .ipynb_checkpoints
 .vscode
 
-data/cord-19
 
+py-bioasq
+data/cord-19
+synergy/cache.zip
+
+*.jsonl
+*.cache
