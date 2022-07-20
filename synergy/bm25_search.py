@@ -30,17 +30,18 @@ def run_search(query_file,
     cmd_str = f"java -cp {anserini_jar} io.anserini.search.SearchCollection"
     
     if relevance_feedback_file is not None:
+        # -rm3.outputQuery add this argument to see the augmented rm3 query
         os.system(f'{cmd_str} -index {anserini_index} ' +
                   f'-topicreader TsvString -topics {query_file} -removedups ' +
                   f'-bm25 -bm25.k1 {k1} -bm25.b {b} ' +
-                  f'-rm3 -rm3.fbDocs {fb_docs} -rm3.fbTerms {fb_terms} -rm3.originalQueryWeight {originalQW} -rm3.outputQuery ' +
+                  f'-rm3 -rm3.fbDocs {fb_docs} -rm3.fbTerms {fb_terms} -rm3.originalQueryWeight {originalQW} ' +
                   f'-hits 300  -rf.qrels {relevance_feedback_file} ' +
                   f'-output {output_file} ')
     else:
         os.system(f'{cmd_str} -index {anserini_index} ' +
                   f'-topicreader TsvString -topics {query_file} -removedups ' +
                   f'-bm25 -bm25.k1 {k1} -bm25.b {b} ' +
-                  f'-rm3 -rm3.fbDocs {fb_docs} -rm3.fbTerms {fb_terms} -rm3.originalQueryWeight {originalQW} -rm3.outputQuery ' +
+                  f'-rm3 -rm3.fbDocs {fb_docs} -rm3.fbTerms {fb_terms} -rm3.originalQueryWeight {originalQW} ' +
                   f'-hits 300 ' +
                   f'-output {output_file}')
         

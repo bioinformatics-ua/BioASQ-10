@@ -8,6 +8,7 @@ synergy/data/cord-19
 synergy/data/dataset
 synergy/cache.zip
 synergy/cache
+synergy/runs
 
 *.zip
 *.jsonl

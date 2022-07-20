@@ -398,14 +398,8 @@ def data(synergy_data_path,
                  pool_thread_count,
                  sentence_merging)
     
-    questions=sds.questions()
-    if to_print:
-        print(next(questions))
-    
-    collection=sds.collection()
-    c=list(collection.keys())[0]
-    if to_print:
-        print(c,collection[c])
-        
+    #print("Number of training questions:", len(list(sds.questions())))
+    print(f"Number of articles in {cord_data_path}:", len(sds.collection()))
+
 if __name__ == "__main__":
     data()

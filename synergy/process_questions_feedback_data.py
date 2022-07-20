@@ -178,8 +178,8 @@ if __name__ == "__main__":
     for rnd in rounds:
         write_docs_q_rels(feedback[rnd], f"{base_path}/BioASQ-taskSynergy_2022_documents_feedback_round{rnd}_trecformat.txt")
         write_queries_in_tsv(questions[rnd], f"{base_path}/BioASQ-taskSynergy_2022_testset{rnd}_trecformat.tsv")
-        if rnd<len(rounds):
-            write_goldstandard(questions[rnd], feedback[rnd], feedback[rnd+1], f"BioASQ-taskSynergy_2022_goldstandard_round{rnd}.json")
+        if rnd<max(rounds):
+            write_goldstandard(questions[rnd], feedback[rnd], feedback[rnd+1], f"{base_path}/BioASQ-taskSynergy_2022_goldstandard_round{rnd}.json")
         if rnd>1:
             for f_col in ["merge", "nomerge"]:
                 collection = load_collection_from_jsonl(f"{collection_base_path}/rnd{rnd}/{f_col}/collection.jsonl")
