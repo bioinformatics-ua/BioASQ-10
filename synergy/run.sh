@@ -13,16 +13,16 @@ echo "Preparing the CORD-19 collection for each of the rounds, by default the sc
 ## rnd 2 uncomment this line to preprocess the rnd 1, however be aware that will take a lot of time
 #python data_sterilizer.py --cord_data_path ..data/cord-19/2021-12-20/metadata.csv
 ## rnd 3 
-#python data_sterilizer.py --cord_data_path ..data/cord-19/2022-01-03/metadata.csv
+python data_sterilizer.py --cord_data_path ..data/cord-19/2022-01-03/metadata.csv
 ## rnd 4
-#python data_sterilizer.py --cord_data_path ..data/cord-19/2022-01-31/metadata.csv
+python data_sterilizer.py --cord_data_path ..data/cord-19/2022-01-31/metadata.csv
 
 echo "Indexing using pyserini"
 # by default only rnd 3 and 4 will be indexed. This is also already available in the cache folder
-#python pyserini_indexer.py
+python pyserini_indexer.py
 
 echo "Preparing the dataset (synergy testset and feedback data)"
-#python process_questions_feedback_data.py
+python process_questions_feedback_data.py
 
 echo "Building the runs for rnd 3:"
 echo -e "\t rnd3/bioinfo-0"
