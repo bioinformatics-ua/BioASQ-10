@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:2.7.0-gpu
+FROM tensorflow/tensorflow:2.6.2-gpu
 
 RUN rm /etc/apt/sources.list.d/cuda.list
 

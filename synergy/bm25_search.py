@@ -1,5 +1,6 @@
 import argparse
 import os
+import pyserini
 import json
 from metrics import map_ir
 from collections import defaultdict
@@ -21,19 +22,22 @@ def run_search(query_file,
     
         print("INDEX_NAME", _index_name)
 
-        output_file = "runs/rnd4/" + os.path.splitext(os.path.basename(query_file))[0]+"_" + _index_name + ".txt"
+        output_file = "runs/" + os.path.splitext(os.path.basename(query_file))[0]+"_" + _index_name + ".txt"
     else:
-        output_file = "runs/rnd4/" + name + ".txt"
+        output_file = "runs/" + name + ".txt"
+    
+    anserini_jar = f"{os.path.dirname(pyserini.__file__)}/resources/jars/anserini-0.14.0-fatjar.jar"
+    cmd_str = f"java -cp {anserini_jar} io.anserini.search.SearchCollection"
     
     if relevance_feedback_file is not None:
-        os.system(f'../anserini_target/target/appassembler/bin/SearchCollection -index {anserini_index} ' +
+        os.system(f'{cmd_str} -index {anserini_index} ' +
                   f'-topicreader TsvString -topics {query_file} -removedups ' +
                   f'-bm25 -bm25.k1 {k1} -bm25.b {b} ' +
                   f'-rm3 -rm3.fbDocs {fb_docs} -rm3.fbTerms {fb_terms} -rm3.originalQueryWeight {originalQW} -rm3.outputQuery ' +
                   f'-hits 300  -rf.qrels {relevance_feedback_file} ' +
                   f'-output {output_file} ')
     else:
-        os.system(f'../anserini_target/target/appassembler/bin/SearchCollection -index {anserini_index} ' +
+        os.system(f'{cmd_str} -index {anserini_index} ' +
                   f'-topicreader TsvString -topics {query_file} -removedups ' +
                   f'-bm25 -bm25.k1 {k1} -bm25.b {b} ' +
                   f'-rm3 -rm3.fbDocs {fb_docs} -rm3.fbTerms {fb_terms} -rm3.originalQueryWeight {originalQW} -rm3.outputQuery ' +
