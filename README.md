@@ -22,13 +22,18 @@ $ python -m pip install --upgrade pip
 $ pip install -r requirements.txt
 ```
 
-After this step, run the `setup.sh` script in order to download the reminder larger files that are required for these repositories. Note that this step will probably take a long time since it will download the collections checkpoints, models checkpoints, cache files, datasets and testsets.
+After this step, run the `setup.sh` script in order to download the reminder larger files that are required for this repository. Note that this step will probably take a long time since it will download the collections checkpoints, models checkpoints, cache files, datasets and testsets.
 
 ```
 $ ./setup.sh
 ```
 
 At this point, everything is set up and ready to run. To reproduce our submission runs for both tasks just execute `run.sh`. Furthermore, what this script does is just executing the `run.sh` script present in the synergy and taskb folders. So, if you are just interested in one of the task, just go to the respective folder and execute the local `run.sh` script. 
+
+```
+$ ./run.sh
+```
+
 
 ### Directory structure
 

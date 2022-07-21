@@ -2,8 +2,6 @@
 
 set -e
 
-URL_BASE_CORD="https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases/"
-
 # auxiliary functions for donwloading the data
 CordDownload() {
     
@@ -11,7 +9,7 @@ CordDownload() {
     
     if [ ! -f $1"/metadata.csv" ]; then
         echo "Download and untar $GZ_FILE"
-        wget -c $URL_BASE_CORD$GZ_FILE
+        wget -c "https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases/"$GZ_FILE
         tar -xf $GZ_FILE
         rm $1"/changelog"
         rm $1"/document_parses.tar.gz"
@@ -75,8 +73,14 @@ cd -
 ### BIOASQ 10B
 
 #### Pubmed all jsonl
+mkdir -p taskb/data/pubmed
 cd taskb/data/pubmed
 
 SHARE_BIOINFORMATICS_DOWNLOAD "pubmed_all.jsonl.zip" "d39905990be649cd9987682049688e38" "pubmed_all.jsonl"
 
+cd -
+
+#### bioasq 10 dataset
+cd taskb/data
+SHARE_BIOINFORMATICS_DOWNLOAD "dataset.zip" "e699f2750f404ded95791791e4f5a7a3" "dataset/training10b.json"
 cd -
