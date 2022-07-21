@@ -59,8 +59,12 @@ if __name__ == "__main__":
                 print(filename,output_path)
                 _,synergy_dataset = pickle.load(open(filename,'rb'))
                 indexer(synergy_dataset,output_path,is_doc_index)
-
+            
+            
+            index_path = f"cache/indexes/{short_name}"
+            
+            if not os.path.exists(index_path):
                 print('Calling pyserini')
-                os.system(f'python -m pyserini.index --input {dirname_output_path} --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index cache/indexes/{short_name} --threads 1 --storePositions --storeDocvectors --storeRaw')
+                os.system(f'python -m pyserini.index --input {dirname_output_path} --collection JsonCollection --generator DefaultLuceneDocumentGenerator --index {index_path} --threads 1 --storePositions --storeDocvectors --storeRaw')
             else:
-                print(f"Anserini index already exist in {dirname_output_path}. No action performed")
+                print(f"Anserini index already exist in {index_path}. No action performed")
