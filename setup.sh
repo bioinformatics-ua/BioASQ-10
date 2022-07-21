@@ -81,7 +81,7 @@ cd -
 
 #### Pubmed index
 cd taskb/cache/indexes
-https://share.bioinformatics-ua.pt/share.cgi?ssid=8a451062f81d4f9f9bb15fb53d16f580
+
 SHARE_BIOINFORMATICS_DOWNLOAD "pubmed_all_index.zip" "8a451062f81d4f9f9bb15fb53d16f580" "pubmed/_7_Lucene80_0.dvd"
 
 cd -
