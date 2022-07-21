@@ -17,18 +17,6 @@ last_year=2022
 proc_cnt=15
 basepath=os.path.join(os.path.dirname(os.path.realpath(__file__)),'data','pubmed')
 
-def get_pak_links_latest():
-    url='https://ftp.ncbi.nlm.nih.gov/pubmed/baseline/'
-    output=urlopen(url).read()
-    tree=etree.fromstring(output.decode('utf-8'),etree.HTMLParser())
-
-    ret=list()
-    for i in tree.xpath('/html/body/pre/a'):
-        if re.match(r'.*?\.xml\.gz$',i.text):
-            ret.append(url+i.get('href')) 
-    random.shuffle(ret)
-    return ret
-
 def get_pak_links(year):
     url='https://lhncbc.nlm.nih.gov/ii/information/MBR/Baselines/'+str(year)+'.html'
     output=urlopen(url).read()
@@ -142,11 +130,7 @@ def fax_machine(fax_queue,proc_cnt,pak_cnt,pool_queue):
 def data_destilator():
     links=dict()
     for i in range(first_year,last_year+1):
-        pl=list()
-        if i!=last_year:
-            pl=get_pak_links(i)
-        else:
-            pl=get_pak_links_latest()
+        pl=get_pak_links(i)
         links[i]=pl
         print(i,'-',len(pl))
 
@@ -200,7 +184,7 @@ def baseline_gen():
     #Load all the years from the most recent
     for year in reversed(range(first_year,last_year+1)):
         print('----',year,'----')
-        with open(os.path.join(basepath,f'pubmed{year}.jsonl','r')) as fp:
+        with open(os.path.join(basepath,f'pubmed{year}.jsonl'),'r') as fp:
             l=fp.readline()
             cnt=0
             while l!=None and len(l)!=0:
