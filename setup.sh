@@ -72,15 +72,16 @@ cd -
 
 ### BIOASQ 10B
 
-#### Pubmed all jsonl
-mkdir -p taskb/data/pubmed
-cd taskb/data/pubmed
 
-SHARE_BIOINFORMATICS_DOWNLOAD "pubmed_all.jsonl.zip" "d39905990be649cd9987682049688e38" "pubmed_all.jsonl"
-
-cd -
 
 #### bioasq 10 dataset
 cd taskb/data
 SHARE_BIOINFORMATICS_DOWNLOAD "dataset.zip" "e699f2750f404ded95791791e4f5a7a3" "dataset/training10b.json"
+cd -
+
+#### Pubmed index
+cd taskb/cache/indexes
+
+SHARE_BIOINFORMATICS_DOWNLOAD "pubmed_all_index.zip" "8a451062f81d4f9f9bb15fb53d16f580" "pubmed/_7_Lucene80_0.dvd"
+
 cd -

@@ -1,9 +1,4 @@
 """
-Replication test on 14/07/2022 was sucessfull by Tiago Almeida
-
-Command: python pyserini_indexer.py 
-"""
-"""
 Replication test on 21/07/2022 was sucessfull by Tiago Almeida
 
 Command: python pyserini_indexer.py 
