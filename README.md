@@ -29,3 +29,48 @@ $ ./setup.sh
 ```
 
 At this point, everything is set up and ready to run.
+
+### Directory structure
+
+```
+.
+├── synergy/
+│       Code base related to the synergy challenge.
+│
+└── taskb/
+        Code base related to the taskb challenge (document retrieval and yes or no answering).
+
+```
+
+## System specifications
+
+For computational reference, our experiments were performed on a server machine with the following characteristics:
+
+- Operating system: Ubuntu 18.04
+- CPU: Intel Xeon E5-2630 v4 (40) @ 3.1GHz
+- GPU: NVIDIA Tesla K80
+- 128 GB RAM
+
+## Team
+  * Tiago Almeida<sup id="a1">[1](#f1)</sup>
+  * André Pinho<sup id="a1">[1](#f1)</sup>
+  * Rodrigo Pereira<sup id="a1">[1](#f1)</sup>
+  * Sérgio Matos<sup id="a1">[1](#f1)</sup>
+
+1. <small id="f1"> University of Aveiro, Department of Electronics, Telecommunications and Informatics (DETI), Institute of Electronics and Informatics Engineering of Aveiro (IEETA), Aveiro, Portugal </small> [↩](#a1)
+
+## Reference
+
+Please cite our paper if you use this code in your work:
+
+TODO: Fix this reference when the paper becomes available.
+
+```
+@article{almeida2022a,
+  author    = {Almeida, Tiago and Pinho, André and Pereira, Rodrigo and Matos, S{\'e}rgio},
+  title     = {Deep Learning solutions based on fixed contextualized embeddings from PubMedBERT on BioASQ 10b and traditional IR in Synergy},
+  url       = {https://github.com/bioinformatics-ua/BioASQ-10},
+  volume    = {2022},
+  year      = {2022},
+}
+```
