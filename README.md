@@ -28,7 +28,7 @@ After this step, run the `setup.sh` script in order to download the reminder lar
 $ ./setup.sh
 ```
 
-At this point, everything is set up and ready to run.
+At this point, everything is set up and ready to run. To reproduce our submission runs for both tasks just execute `run.sh`. Furthermore, what this script does is just executing the `run.sh` script present in the synergy and taskb folders. So, if you are just interested in one of the task, just go to the respective folder and execute the local `run.sh` script. 
 
 ### Directory structure
 

@@ -119,4 +119,16 @@ cd -
 ### BIOASQ 10B
 
 #### Pubmed all jsonl
+cd taskb/data/pubmed
 
+DATA_PUBMEDALL_ZIP_FILE="pubmed_all.jsonl.zip"
+URL_DATA_PUBMEDALL_ZIP_FILE="https://share.bioinformatics-ua.pt/share.cgi?ssid=d39905990be649cd9987682049688e38&fid=d39905990be649cd9987682049688e38&filename=$DATA_PUBMEDALL_ZIP_FILE&openfolder=forcedownload&ep="
+
+if [ ! -f "pubmed_all.jsonl" ]; then
+    echo "Download and unzip $DATA_PUBMEDALL_ZIP_FILE"
+    wget -c -O $DATA_PUBMEDALL_ZIP_FILE $URL_DATA_PUBMEDALL_ZIP_FILE
+    unzip -u $DATA_PUBMEDALL_ZIP_FILE
+    rm $DATA_PUBMEDALL_ZIP_FILE
+fi
+
+cd -

@@ -10,6 +10,8 @@ synergy/cache.zip
 synergy/cache
 synergy/runs
 
+taskb/data/pubmed
+
 *.zip
 *.jsonl
 *.cache
