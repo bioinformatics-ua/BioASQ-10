@@ -12,6 +12,7 @@ synergy/runs
 
 taskb/data/pubmed
 taskb/data/dataset
+taskb/cache/indexes/
 
 *.zip
 *.jsonl
