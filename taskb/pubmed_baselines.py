@@ -1,3 +1,9 @@
+"""
+Partial-Replication test (only 2013-2014 was tested) on 25/07/2022 was sucessfull by Tiago Almeida
+
+Command: python pubmed_baselines.py 
+"""
+
 from urllib.request import urlopen
 from multiprocessing import Process,Manager
 from lxml import etree
