@@ -11,6 +11,7 @@ import queue
 import time
 import random
 from itertools import chain
+from pathlib import Path
 
 first_year=2013
 last_year=2022
@@ -206,7 +207,7 @@ def baseline_gen():
                 l=fp.readline()
 
     #Dump entries
-    out=open(os.path.join(basepath,'pubmed_all.jsonl','w'))
+    out=open(os.path.join(basepath,'pubmed_all.jsonl'),'w')
     for pmid in cbl:
         out.write(json.dumps(cbl[pmid])+'\n')
     out.close()
