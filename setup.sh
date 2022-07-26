@@ -2,6 +2,10 @@
 
 set -e
 
+pip install requeriments.txt
+
+python -m spacy download en_core_web_lg
+
 # auxiliary functions for donwloading the data
 CordDownload() {
     
@@ -83,5 +87,11 @@ cd -
 cd taskb/cache/indexes
 
 SHARE_BIOINFORMATICS_DOWNLOAD "pubmed_all_index.zip" "8a451062f81d4f9f9bb15fb53d16f580" "pubmed/_7_Lucene80_0.dvd"
+
+cd -
+
+cd taskb/cache
+
+SHARE_BIOINFORMATICS_DOWNLOAD "parade_model.zip" "173250350c0640939168ce7c6cc717d5" "saved_models/pleasant-deluge-1.h5"
 
 cd -
