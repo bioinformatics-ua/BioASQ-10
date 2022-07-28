@@ -1,4 +1,6 @@
 from collections import defaultdict
+import copy
+import json
 
 def default_to_regular(d):
     """
@@ -195,3 +197,89 @@ def correct_snippet_spans(original_abstract, original_s_text, orignal_span, doc_
         answer = original_abstract[final_span[0]:final_span[1]]
         
     return answer, final_span
+
+
+def load_trec_run_to_bioasq(run_file, relevance_feedback_file):
+    print("LOAD!!!", run_file)
+    bioasq_run = convert_trec_to_bioasq(run_file)
+    
+    if relevance_feedback_file is not None:
+        bioasq_run = remove_docs_from_previous_rounds(bioasq_run, relevance_feedback_file)
+    
+    # filter convert ranked doc_sentence_id to -> doc_id
+    # we assume that the score of the top retrieved sentence represents the document
+    bioasq_run = maybe_convert_to_rank_by_doc_id(bioasq_run)
+    
+    return bioasq_run
+
+def convert_trec_to_bioasq(run_trec_file):
+    
+    bioasq_run = defaultdict(list)
+    
+    with open(run_trec_file, "r") as f:
+        for line in f:
+            line = line.split(" ")
+            # score in line[4]
+            bioasq_run[line[0]].append(line[2])
+            
+    return bioasq_run
+
+def remove_docs_from_previous_rounds(bioasq_run, relevance_feedback_file):
+    qrels = convert_trec_to_bioasq(relevance_feedback_file)
+    
+    for k in bioasq_run.keys():
+        if k in qrels:
+            bioasq_run[k] = [ doc for doc in bioasq_run[k] if doc.split("_")[0] not in qrels[k]]
+    
+    
+    return bioasq_run
+
+def maybe_convert_to_rank_by_doc_id(bioasq_run):
+    
+    _k = list(bioasq_run.keys())[0]
+    
+    if "_" in bioasq_run[_k][0]:    
+        for q_id in bioasq_run.keys():
+            _doc_set = set()
+            new_rank = []
+            for doc in bioasq_run[q_id]:
+                _doc = doc.split("_")[0]
+                if _doc not in _doc_set:
+                    
+                    _doc_set.add(_doc)
+                    new_rank.append(_doc)
+            
+            bioasq_run[q_id] = new_rank
+                
+    return bioasq_run
+
+
+
+def write_as_bioasq(bioasq_queries, bioasq_run, output_file, max_docs=10):
+    
+    final_run = copy.deepcopy(bioasq_queries)
+    
+    for query in final_run:
+        
+        if query["id"] in bioasq_run:
+            query["documents"] = bioasq_run[query["id"]][:max_docs]
+        else: 
+            query["documents"] = []
+        
+        if "snippets" not in query:
+            query["snippets"] = []
+        
+        if "exact_answer" not in query:
+            if query["type"]=="factoid" or query["type"]=="list":
+                query["exact_answer"] = []
+            elif query["type"]=="yesno":
+                query["exact_answer"] = "yes"
+                
+        if "ideal_answer" not in query:
+            query["ideal_answer"] = ""
+        
+    
+    with open(output_file, "w") as f:
+        json.dump({"questions":final_run},f)
+        
+    print("Results on", output_file)

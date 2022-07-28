@@ -12,7 +12,11 @@ synergy/runs
 
 taskb/data/pubmed
 taskb/data/dataset
-taskb/cache/indexes/
+taskb/cache
+taskb/runs
+taskb/logs
+taskb/local-T-UPWM/t-upwm-venv/
+taskb/local-T-UPWM/trained_models/
 
 *.zip
 *.jsonl

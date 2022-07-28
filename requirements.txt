@@ -5,3 +5,4 @@ tensorflow==2.7.2
 fasttext==0.9.2
 trectools==0.0.48
 faiss-cpu==1.7.2
+nltk==3.5

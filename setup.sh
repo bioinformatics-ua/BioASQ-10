@@ -2,9 +2,49 @@
 
 set -e
 
-pip install requeriments.txt
+# create a virtual env
 
-python -m spacy download en_core_web_lg
+python -m venv py-bioasq
+PYTHON=$(readlink -f py-bioasq/bin/python)
+PIP=$(readlink -f py-bioasq/bin/pip)
+
+# upgrade pip
+$PIP install --upgrade pip
+
+$PIP install -r requirements.txt
+
+$PYTHON -m spacy download en_core_web_lg
+
+# prepare the T-UPWM
+cd taskb/local-T-UPWM
+python -m venv t-upwm-venv
+PYTHON=$(readlink -f t-upwm-venv/bin/python)
+PIP=$(readlink -f t-upwm-venv/bin/pip)
+$PIP install --upgrade pip
+
+cd -
+
+cd taskb/local-T-UPWM/nir/
+if [ -d "./dist" ]
+then
+	rm -r ./dist
+fi
+
+$PYTHON setup.py sdist
+$PIP install ./dist/nir-0.0.1.tar.gz
+cd -
+
+cd taskb/local-T-UPWM/mmnrm-lib
+if [ -d "./dist" ]
+then
+	rm -r ./dist
+fi
+
+$PYTHON setup.py sdist
+$PIP install ./dist/mmnrm-0.0.2.tar.gz
+
+cd -
+
 
 # auxiliary functions for donwloading the data
 CordDownload() {
