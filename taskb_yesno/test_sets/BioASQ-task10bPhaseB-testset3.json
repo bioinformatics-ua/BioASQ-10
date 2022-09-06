@@ -1,0 +1,3462 @@
+{
+  "questions": [
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33150406"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We describe a cohort of 53 patients with KMT2B mutations, with detailed delineation of their clinical phenotype and molecular genetic features. We report new disease presentations, including atypical patterns of dystonia evolution and a subgroup of patients with a non-dystonic neurodevelopmental phenotype. In addition to the previously reported systemic features, our study has identified co-morbidities, including the risk of status dystonicus, intrauterine growth retardation, and endocrinopathies. Analysis of this study cohort (n \u003d 53) in tandem with published cases (n \u003d 80) revealed that patients with chromosomal deletions and protein truncating variants had a significantly higher burden of systemic disease (with earlier onset of dystonia) than those with missense variants. Eighteen individuals had detailed longitudinal data available after insertion of deep brain stimulation for medically refractory dystonia. Median age at deep brain stimulation was 11.5 years (range: 4.5-37.0 years). Follow-up after deep brain stimulation ranged from 0.25 to 22 years. Significant improvement of motor function and disability (as assessed by the Burke Fahn Marsden\u0027s Dystonia Rating Scales, BFMDRS-M and BFMDRS-D) was evident at 6 months, 1 year and last follow-up (motor, P \u003d 0.001, P \u003d 0.004, and P \u003d 0.012; disability, P \u003d 0.009, P \u003d 0.002 and P \u003d 0.012). At 1 year post-deep brain stimulation, \u003e50% of subjects showed BFMDRS-M and BFMDRS-D improvements of \u003e30%. In the long-term deep brain stimulation cohort (deep brain stimulation inserted for \u003e5 years, n \u003d 8), improvement of \u003e30% was maintained in 5/8 and 3/8 subjects for the BFMDRS-M and BFMDRS-D, respectively. The greatest BFMDRS-M improvements were observed for trunk (53.2%) and cervical (50.5%) dystonia, with less clinical impact on laryngeal dystonia. Improvements in gait dystonia decreased from 20.9% at 1 year to 16.2% at last assessment; no patient maintained a fully independent gait. Reduction of BFMDRS-D was maintained for swallowing (52.9%). Five patients developed mild parkinsonism following deep brain stimulation. KMT2B-related disease comprises an expanding continuum from infancy to adulthood, with early evidence of genotype-phenotype correlations. Except for laryngeal dysphonia, deep brain stimulation provides a significant improvement in quality of life and function with sustained clinical benefit depending on symptoms distribution.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33150406",
+          "offsetInBeginSection": 521,
+          "offsetInEndSection": 2944
+        }
+      ],
+      "id": "61f97372882a024a10000051",
+      "type": "list",
+      "body": "List clinical phenotypes and molecular genetic features of patients with KMT2B-related disorders"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34521260",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34813050",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33369482"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Time course of efficacy of atogepant for the preventive treatment of migraine: Results from the randomized, double-blind ADVANCE trial.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34521260",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 135
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: Atogepant is an oral, small-molecule, calcitonin gene-related peptide receptor antagonist for the preventive treatment of migraine.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34521260",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 143
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSION: Atogepant demonstrated treatment benefits as early as the first full day after treatment initiation, and sustained efficacy across each 4-week interval during the 12-week treatment period.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34521260",
+          "offsetInBeginSection": 1452,
+          "offsetInEndSection": 1652
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Atogepant (Qulipta™) is an orally administered, small-molecule, calcitonin gene-related peptide (CGRP) receptor antagonist being developed by AbbVie for the prophylaxis of migraine. In September 2021, atogepant was approved in the USA for the preventive treatment of episodic migraine in adults. The drug is also in phase 3 clinical development for the preventive treatment of migraine in various other countries. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34813050",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 414
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "This paper reviews the available data from RCTs to assess the clinical efficacy, safety, and tolerability profile of lasmiditan, rimegepant, and ubrogepant for the acute treatment of migraine and atogepant for the prevention of migraine.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33369482",
+          "offsetInBeginSection": 532,
+          "offsetInEndSection": 769
+        }
+      ],
+      "id": "61f60157882a024a1000001e",
+      "type": "factoid",
+      "body": "What is the use of Atogepant?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34876240",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33710643",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32355542",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32908163"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "All three fibroblast populations were PDGFRα+/CD34 + but were distinct in their expression of Ngfr/Spon2/Angptl7 (F1), Cxcl14/Smoc2/Rgs2 (F2), and Clec3b/Col14a1/Mmp3 (F3), with potential functions in the regulation of immune responses, response to wounding, and organization of extracellular matrix, respectively.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33710643",
+          "offsetInBeginSection": 1222,
+          "offsetInEndSection": 1536
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Deficiency of the SMOC2 matricellular protein impairs bone healing and produces age-dependent bone loss.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32908163",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 104
+        }
+      ],
+      "id": "621b950f3a8413c653000044",
+      "type": "yesno",
+      "body": "Is SMOC2 expressed during wound healing?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34149436",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33787719"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Primaquine Diphosphate, a Known Antimalarial Drug, Blocks Vascular Leakage Acting Through Junction Stabilization.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34149436",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 113
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " PD could be used as a novel drug for vascular leakage by maintaining endothelial integrity",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34149436",
+          "offsetInBeginSection": 1153,
+          "offsetInEndSection": 1244
+        }
+      ],
+      "id": "621ecc3e3a8413c653000060",
+      "type": "list",
+      "body": "What is a potential alternate uses(repositioning) for Primaquine"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34881402"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Atemoya juice significantly inhibited CYP1A2 activity in human liver microsomes, but not the activities of CYP2C9 and CYP3A. In spite of this inhibition, preadministration of atemoya had no effect on the pharmacokinetics of phenacetin, a CYP1A2 substrate, in rats. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34881402",
+          "offsetInBeginSection": 838,
+          "offsetInEndSection": 1103
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The results indicate that a daily intake of atemoya would not change the pharmacokinetics of CYP1A2 substrates such as phenacetin as well as CYP2C9- and CYP3A-substrate drugs.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34881402",
+          "offsetInBeginSection": 1504,
+          "offsetInEndSection": 1679
+        }
+      ],
+      "id": "620580afc9dfcb9c0900002f",
+      "type": "yesno",
+      "body": "Does daily atemoya juice intake change the pharmacokinetics of CYP1A2 substrates?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33782605"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Gain-of-function variants in SYK cause immune dysregulation and systemic inflammation in humans and mice.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33782605",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 105
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Our studies demonstrate that SYK gain-of-function variants result in a potentially treatable form of inflammatory disease.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33782605",
+          "offsetInBeginSection": 625,
+          "offsetInEndSection": 747
+        }
+      ],
+      "id": "61f86b5b882a024a10000043",
+      "type": "summary",
+      "body": "What is caused by gain-of-function variants in SYK?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34871188",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34482355",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32492704",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33347943"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "A new paradigm for antiretroviral delivery: long-acting cabotegravir and rilpivirine for the treatment and prevention of HIV.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34871188",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 125
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "PURPOSE OF REVIEW: Cabotegravir (CAB) and rilpivirine (RPV) is the first long-acting injectable antiretroviral therapy (ART) option approved for virologically suppressed adults with HIV-1. In addition, long-acting CAB is a promising agent for HIV preexposure prophylaxis (PrEP). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34871188",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 279
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "SUMMARY: Clinical trial results support the use of long-acting CAB for HIV PrEP and long-acting CAB and RPV as a switch strategy for adults with HIV-1 who are first virologically suppressed with oral ART. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34871188",
+          "offsetInBeginSection": 1023,
+          "offsetInEndSection": 1228
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "OBJECTIVE: We had previously shown that long-acting cabotegravir (CAB-LA) injections fully protected macaques from vaginal simian HIV (SHIV) infection.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34482355",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 151
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "The Potential Impact of Long-Acting Cabotegravir for HIV Prevention in South Africa: A Mathematical Modeling Study.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32492704",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 115
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Long-acting cabotegravir (CAB LA) is a potential new injectable formulation for human immunodeficiency virus (HIV) PrEP being tested in phase III trials.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32492704",
+          "offsetInBeginSection": 177,
+          "offsetInEndSection": 331
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Design and Testing of a Cabotegravir Implant for HIV Prevention.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33347943",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 64
+        }
+      ],
+      "id": "61f602a3882a024a1000001f",
+      "type": "yesno",
+      "body": "Is Cabotegravir effective for HIV prevention?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34136961",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31822819",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34506649",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34517785",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34564289",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34599615"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "serotonin and dopamine transporters (SERT and DAT).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34136961",
+          "offsetInBeginSection": 696,
+          "offsetInEndSection": 747
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " the transporter proteins for serotonin (SERT) ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31822819",
+          "offsetInBeginSection": 315,
+          "offsetInEndSection": 362
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " serotonin transporter (SERT)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34506649",
+          "offsetInBeginSection": 461,
+          "offsetInEndSection": 490
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "serotonin transporter (SERT)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34517785",
+          "offsetInBeginSection": 418,
+          "offsetInEndSection": 446
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "serotonin receptor (SERT) ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34564289",
+          "offsetInBeginSection": 213,
+          "offsetInEndSection": 239
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "5-HT transporter (SERT) ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34599615",
+          "offsetInBeginSection": 237,
+          "offsetInEndSection": 261
+        }
+      ],
+      "id": "6217e5433a8413c653000032",
+      "type": "factoid",
+      "body": "What is the function of the protein SERT?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34459951",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28620243"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These observations indicate that 6OTD targets GSCs through G4 stabilization and promotion of DNA damage responses. Therefore, G4s are promising therapeutic targets for glioblastoma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28620243",
+          "offsetInBeginSection": 1204,
+          "offsetInEndSection": 1385
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Targeting glioma stem cells in vivo by a G-quadruplex-stabilizing synthetic macrocyclic hexaoxazole.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28620243",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 100
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "G-quadruplex (G4) DNA is a type of quadruple helix structure formed by a continuous guanine-rich DNA sequence. Emerging evidence in recent years authenticated that G4 DNA structures exist both in cell-free and cellular systems, and function in different diseases, especially in various cancers, aging, neurological diseases, and have been considered novel promising targets for drug design.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34459951",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 390
+        }
+      ],
+      "id": "62211b973a8413c65300006c",
+      "type": "yesno",
+      "body": "Are G-quadruplexes(G4) possible drug targets for glioblastoma?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32589708"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "RUNX1T1 rs34269950 is associated with obesity and metabolic syndrome.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32589708",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 69
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Of these SNPs only rs34269950 located in the \u0027RRACH\u0027 motif, the most common N6-methyladenosine (m6A) methylation modification site (recognized by FTO), was significantly associated with obesity risk and metabolic abnormalities. Specifically, compared to AA genotype, rs34269950 del/del genotype was associated with a 1.47 [95% confidence interval (CI): 1.01-2.14, P \u003d 0.042] fold higher rate of obesity risk. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32589708",
+          "offsetInBeginSection": 651,
+          "offsetInEndSection": 1060
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Our study demonstrates that RUNX1T1 rs34269950, located in a potential FTO recognition motif, is significantly associated with waist circumference. T",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32589708",
+          "offsetInBeginSection": 1422,
+          "offsetInEndSection": 1571
+        }
+      ],
+      "id": "622608ea3a8413c653000079",
+      "type": "yesno",
+      "body": "Is RUNX1T1 associate with obesity?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/28145888"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Adamts18 deficiency promotes colon carcinogenesis by enhancing β-catenin and p38MAPK/ERK1/2 signaling in the mouse model of AOM/DSS-induced colitis-associated colorectal cancer.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28145888",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 177
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ADAMTS18 is a novel tumor suppressor and is critical to the pathology of human colorectal cancer. However, the underlying mechanism is not clear. Here we generated an Adamts18-deficient mouse strain as an in vivo model to investigate the role of ADAMTS18 in the pathogenesis of colorectal cancer. In AOM/DSS-induced colitis-associated colorectal cancer, the deficiency of Adamts18 in mice resulted in enhanced tumorigenesis and colon inflammation that could be attributed in part to enhanced nuclear translocation of β-catenin and elevated expression of its downstream target genes, cyclin D1 and c-myc. Moreover, increased p38MAPK and ERK1/2 activities were detected in colon cancer cells from Adamts18-deficient mice. Further studies revealed that ADAMTS18 deficiency reduced intestinal E-cadherin levels in mice, which ultimately led to intestinal barrier dysfunction. These data indicate that Adamts18 deficiency enhances tumorigenesis and intestinal inflammation through elevated Wnt/β-catenin and p38MAPK/ERK1/2 signaling and promotes colon cancer in this mouse model.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28145888",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 1074
+        }
+      ],
+      "id": "61f9cb19c9dfcb9c09000002",
+      "type": "yesno",
+      "body": "Is Adamts18 deficiency associated with cancer?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30672496",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30349847",
+        "http://www.ncbi.nlm.nih.gov/pubmed/25116781"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Human ocular thelaziasis caused by gravid Thelazia callipaeda - A unique and rare case report.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30672496",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 94
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We report the first case of human ocular thelaziasis in Nepal in a 6-month-old child from a Rukum district, Nepal. The infant presented with conjunctivitis, and his visual acuity and dilated fundal examination were normal. A total of 6 worms were removed for identification. Collected nematodes were identified based on morphological keys as Thelazia callipaeda.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30349847",
+          "offsetInBeginSection": 180,
+          "offsetInEndSection": 542
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Thelaziasis is an arthropod-born disease of the eye and adnexa caused by Thelazia callipaeda, a nematode parasite transmitted by drosophilid flies to carnivores and humans. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25116781",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 173
+        }
+      ],
+      "id": "61f5fcb6882a024a1000001b",
+      "type": "factoid",
+      "body": "What causes Ocular Thelaziasis?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32729074",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32729075",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34528388",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34819670",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34819671"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The AID/APOBEC family of enzymes are cytidine deaminases that act upon DNA and RNA.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32729074",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 83
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "APOBEC1 is a member of the AID/APOBECs, a group of deaminases responsible for the editing of C\u003eU in both DNA and RNA.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32729075",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 117
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The human genome contains 11 APOBEC (apolipoprotein B mRNA editing catalytic polypeptide-like) cytidine deaminases classified into four families. These proteins function mainly in innate antiviral immunity and can also restrict endogenous retrotransposable element multiplication. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34528388",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 281
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Activation-induced cytidine deaminase (AID) catalyses the deamination of deoxycytidines to deoxyuracils within immunoglobulin genes to induce somatic hypermutation and class-switch recombination",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34819670",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 194
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Efficient humoral responses rely on DNA damage, mutagenesis and error-prone DNA repair. Diversification of B cell receptors through somatic hypermutation and class-switch recombination are initiated by cytidine deamination in DNA mediated by activation-induced cytidine deaminase (AID)1 and by the subsequent excision of the resulting uracils by uracil DNA glycosylase (UNG) and by mismatch repair proteins1-3. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34819671",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 411
+        }
+      ],
+      "id": "6217d8973a8413c653000020",
+      "type": "factoid",
+      "body": "What is the role of cytidine deaminase in healthy cells?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32266540",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34535635",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34565721",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33219521",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34159894"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Spinocerebellar ataxias (SCAs) are rare dominantly inherited neurodegenerative disorders that lead to severe disability and premature death",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32266540",
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 151
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Spinocerebellar ataxia type 3/Machado-Joseph disease (SCA3/MJD) is a progressive autosomal dominant neurodegenerative disease caused by abnormal CAG repeats in the exon 10 of ATXN3.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34535635",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 181
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Spinocerebellar ataxia type 2 (SCA2) is one of the most common autosomal dominant ataxias in the world. Several reports revealed that CAG repeats in some polyQ-containing genes may affect the age at onset (AAO) of patients with SCA2, however, little studies were conducted among Chinese patients with SCA2.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34565721",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 318
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The CAG repeat in ATXN2 is a major genetic factor for the AAO of patients with SCA2 in China. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34565721",
+          "offsetInBeginSection": 1941,
+          "offsetInEndSection": 2035
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Spinocerebellar ataxia type 3/Machado-Joseph disease (SCA3/MJD) is a dominant neurodegenerative disease caused by the expansion of a CAG repeat tract in ATXN3. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33219521",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 160
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Spinocerebellar Ataxia (SCA) is a heterogeneous adult-onset disorder with an autosomal dominant inheritance pattern mainly caused by triplet repeat expansions.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34159894",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 159
+        }
+      ],
+      "id": "621fca543a8413c653000064",
+      "type": "summary",
+      "body": "Summarize the cause of autosomal dominant Spinocerebellar Ataxia type 3."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34513292"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "FTO-mediated demethylation of GADD45B promotes myogenesis through the activation of p38 MAPK pathway.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34513292",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 101
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Our results indicate that the FTO-mediated m6A modification in GADD45B mRNA drives skeletal muscle differentiation by activating the p38 MAPK pathway, which provides a molecular mechanism for the regulation of myogenesis via RNA methylation.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34513292",
+          "offsetInBeginSection": 1177,
+          "offsetInEndSection": 1418
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Moreover, the expression of GADD45B regulates the expression of myogenic regulatory factors and peroxisome proliferator-activated receptor gamma coactivator 1 alpha by activating the p38 mitogen-activated protein kinase (MAPK) pathway.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34513292",
+          "offsetInBeginSection": 633,
+          "offsetInEndSection": 868
+        }
+      ],
+      "id": "622628b03a8413c65300007d",
+      "type": "factoid",
+      "body": "Through which pathway does the FTO-guided demethylation of GADD46 drive myogenesis?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33909992"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Heterozygous ANKRD17 loss-of-function variants cause a syndrome with intellectual disability, speech delay, and dysmorphism.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33909992",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 124
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Consequently, our data indicate that loss of ANKRD17 is likely the main cause of phenotypes previously associated with large multi-gene chromosomal aberrations of the 4q13.3 region. Protein modeling suggests that most of the missense variants disrupt the stability of the ankyrin repeats through alteration of core structural residues. The major phenotypic characteristic of our cohort is a variable degree of developmental delay/intellectual disability, particularly affecting speech, while additional features include growth failure, feeding difficulties, non-specific MRI abnormalities, epilepsy and/or abnormal EEG, predisposition to recurrent infections (mostly bacterial), ophthalmological abnormalities, gait/balance disturbance, and joint hypermobility. Moreover, many individuals shared similar dysmorphic facial features. Analysis of single-cell RNA-seq data from the developing human telencephalon indicated ANKRD17 expression at multiple stages of neurogenesis, adding further evidence to the assertion that damaging ANKRD17 variants cause a neurodevelopmental disorder.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33909992",
+          "offsetInBeginSection": 576,
+          "offsetInEndSection": 1658
+        }
+      ],
+      "id": "61f81a2d882a024a10000042",
+      "type": "list",
+      "body": "What are the key characteristics of the syndrome caused by ANKRD17 loss-of-function variants?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34587385",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33438008",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34423657"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Ozanimod as Induction and Maintenance Therapy for Ulcerative Colitis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34587385",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 69
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Ozanimod was more effective than placebo as induction and maintenance therapy in patients with moderately to severely active ulcerative colitis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34587385",
+          "offsetInBeginSection": 2204,
+          "offsetInEndSection": 2361
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: There was a high rate of continued study participation and long-term benefit with ozanimod HCl 1 mg daily based on clinical, histological and biomarker measures in patients with moderately to severely active UC in the TOUCHSTONE OLE. [NCT02531126].",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33438008",
+          "offsetInBeginSection": 1398,
+          "offsetInEndSection": 1659
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Ozanimod: A First-in-Class Sphingosine 1-Phosphate Receptor Modulator for the Treatment of Ulcerative Colitis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34423657",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 110
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSION: Ozanimod is another option in the growing arsenal of UC treatment.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34423657",
+          "offsetInBeginSection": 1526,
+          "offsetInEndSection": 1604
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "RELEVANCE TO PATIENT CARE AND CLINICAL PRACTICE: Ozanimod is the first sphingosine 1-phosphate modulator to be approved for UC and is administered orally. Its efficacy profile is comparable with other UC medications.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34423657",
+          "offsetInBeginSection": 1125,
+          "offsetInEndSection": 1341
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Compared with placebo, ozanimod led to clinical remission in a significantly higher proportion of patients in both the induction and maintenance phase. Additionally, for secondary end points of clinical response, endoscopic improvement, corticosteroid-free remission, and mucosal healing, ozanimod performed significantly better than placebo. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34423657",
+          "offsetInBeginSection": 673,
+          "offsetInEndSection": 1016
+        }
+      ],
+      "id": "61f5f89b882a024a10000019",
+      "type": "yesno",
+      "body": "Is Ozanimod effective for Ulcerative Colitis?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34687906",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34766984",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34489534",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34548087"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "the mechanosensitive ion channel Piezo1 ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34687906",
+          "offsetInBeginSection": 35,
+          "offsetInEndSection": 75
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "mechanosensitive Piezo1 channels",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34766984",
+          "offsetInBeginSection": 699,
+          "offsetInEndSection": 731
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "mechanosensitive Piezo1 channels",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34489534",
+          "offsetInBeginSection": 396,
+          "offsetInEndSection": 428
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Mechanosensitive cation channel Piezo1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34548087",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 38
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Piezo1 is a key element of the mechanotransduction process and can transduce mechanical signals into biological signals by mediating Ca2+ influx, which in turn regulates cytoskeletal remodeling and stress alterations.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34548087",
+          "offsetInBeginSection": 127,
+          "offsetInEndSection": 344
+        }
+      ],
+      "id": "621d02f33a8413c653000047",
+      "type": "factoid",
+      "body": "What is the function of the protein PIEZO1?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31020659"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Large molecule biologic antibody (mAb) approaches that are given subcutaneously to neutralize circulating CGRP peptide (fremanezumab, galcanezumab) or block CGRP receptors (erenumab) have shown consistent efficacy and tolerability in multicenter migraine prevention trials and are now approved for clinical use.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31020659",
+          "offsetInBeginSection": 1517,
+          "offsetInEndSection": 1829
+        }
+      ],
+      "id": "601dbeb31cb411341a00004e",
+      "type": "list",
+      "body": "Please list 3 biologic(monoclonal antibody) drugs used to treat migraine headaches."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32589708"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Of these SNPs only rs34269950 located in the \u0027RRACH\u0027 motif, the most common N6-methyladenosine (m6A) methylation modification site (recognized by FTO), was significantly associated with obesity risk and metabolic abnormalities. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32589708",
+          "offsetInBeginSection": 651,
+          "offsetInEndSection": 879
+        }
+      ],
+      "id": "622627103a8413c65300007c",
+      "type": "factoid",
+      "body": "What is the most common N6-methyladenosine (m6A) methylation modification site of RUNX1T1?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34757206"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "As computational modeling becomes more essential to analyze and understand biological regulatory mechanisms, governance of the many databases and knowledge bases that support this domain is crucial to guarantee reliability and interoperability of resources. To address this, the COST Action Gene Regulation Ensemble Effort for the Knowledge Commons (GREEKC, CA15205, www.greekc.org) organized nine workshops in a four-year period, starting September 2016. The workshops brought together a wide range of experts from all over the world working on various steps in the knowledge management process that focuses on understanding gene regulatory mechanisms. The discussions between ontologists, curators, text miners, biologists, bioinformaticians, philosophers and computational scientists spawned a host of activities aimed to standardize and update existing knowledge management workflows and involve end-users in the process of designing the Gene Regulation Knowledge Commons (GRKC). Here the GREEKC consortium describes its main achievements in improving this GRKC.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34757206",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 1066
+        }
+      ],
+      "id": "61f9c990c9dfcb9c09000001",
+      "type": "summary",
+      "body": "Describe GREEKC"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34542221",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34518444",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34819089",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33325008",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33236115"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "The dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist tirzepatide improves cardiovascular risk biomarkers in patients with type 2 diabetes: A post hoc analysis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34542221",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 205
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In a phase 2 trial of once-weekly tirzepatide (1, 5, 10, or 15 mg), dulaglutide (1.5 mg), or placebo, the dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist tirzepatide dose-dependently reduced HbA1c and body weight in patients with type 2 diabetes.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34542221",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 293
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tirzepatide, a glucose-insulin peptide and GLP-1 dual agonist is in phase 3 study for obesity management, and bimagrumab is a new agent in phase 2 with a unique mechanism of action; they are generating much interest. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34518444",
+          "offsetInBeginSection": 1060,
+          "offsetInEndSection": 1277
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Effects of Tirzepatide, a Dual GIP and GLP-1 RA, on Lipid and Metabolite Profiles in Subjects with Type 2 Diabetes.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34608929",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 115
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "The dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist tirzepatide: a novel cardiometabolic therapeutic prospect.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34819089",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 171
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In this framework, the novel dual GIP and GLP-1 receptor agonist tirzepatide seems to be not just a new antidiabetic medication. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34819089",
+          "offsetInBeginSection": 1064,
+          "offsetInEndSection": 1193
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tirzepatide and additional dual GLP-1/GIP receptor agonists that could eventually be developed in the future seem to be a promising furthest advance for the management of several cardiometabolic settings. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34819089",
+          "offsetInBeginSection": 1464,
+          "offsetInEndSection": 1669
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "The Role of Tirzepatide, Dual GIP and GLP-1 Receptor Agonist, in the Management of Type 2 Diabetes: The SURPASS Clinical Trials.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33325008",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 128
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tirzepatide is a novel dual GIP/GLP-1 receptor agonist formulated as a synthetic peptide containing 39 amino acids, based on the native GIP sequence.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33325008",
+          "offsetInBeginSection": 869,
+          "offsetInEndSection": 1018
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Dual GIP and GLP-1 Receptor Agonist Tirzepatide Improves Beta-cell Function and Insulin Sensitivity in Type 2 Diabetes.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33236115",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 119
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONTEXT: Novel dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist (RA) tirzepatide demonstrated substantially greater glucose control and weight loss (WL) compared with selective GLP-1RA dulaglutide.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33236115",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 257
+        }
+      ],
+      "id": "61f6055b882a024a10000021",
+      "type": "list",
+      "body": "Which receptors are targeted by Tirzepatide?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23576690",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22223758",
+        "http://www.ncbi.nlm.nih.gov/pubmed/24957772",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19441788",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20412957",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33303693"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Altered glycoprotein expression has been demonstrated in tissue from patients with Barrett\u0027s esophagus and esophageal cancer but the mechanisms regarding such changes are unknown. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22223758",
+          "offsetInBeginSection": 100,
+          "offsetInEndSection": 280
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Esophageal adenocarcinoma represents a highly morbid and mortal cancer with a defined progression from metaplasia (Barrett\u0027s esophagus) to dysplasia to neoplasia. This disease is highlighted because (1) differences in glycan profiles between the stages of disease progression have been described in the glycoproteomic literature; (2) a glycan biomarker that identifies a given stage may be used as a predictor of disease progression and thus may have significant influence over clinical management; and (3) the differences in glycan profiles between disease and disease-free states in esophageal cancer are more dramatic than in other cancers.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24957772",
+          "offsetInBeginSection": 513,
+          "offsetInEndSection": 1156
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " comparative glycomic profiling of EAC reveals a subset of glycans that can be selected as candidate biomarkers",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19441788",
+          "offsetInBeginSection": 1066,
+          "offsetInEndSection": 1177
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " comparative glycomic profiling of esophageal adenocarcinoma reveals a subset of glycans that can be selected as candidate biomarkers",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20412957",
+          "offsetInBeginSection": 1580,
+          "offsetInEndSection": 1713
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "IgG glycosylation profile was independently associated with esophageal precancerosis beyond inflammation, which could be an early biomarker for esophageal cancer.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33303693",
+          "offsetInBeginSection": 1017,
+          "offsetInEndSection": 1179
+        }
+      ],
+      "id": "621bd38d3a8413c653000046",
+      "type": "yesno",
+      "body": "Is esophageal adenocarcinoma associated with aberrant glycosylation?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30484157",
+        "http://www.ncbi.nlm.nih.gov/pubmed/26492771",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30484150",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15362106"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Molecular chaperones promote the correct folding of proteins in aggregation-prone cellular environments by stabilizing nascent polypeptide chains and providing appropriate folding conditions.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30484150",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 191
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Chaperonins assist in the acquisition of native protein structure in the cell by providing a shielded environment for a folding polypeptide chain, generated by the interior surface of their cylindrical structure.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15362106",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 212
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "he folding chain is isolated from the highly crowded cytoplasm, but at the same time confined within the chaperonin folding cage.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15362106",
+          "offsetInBeginSection": 214,
+          "offsetInEndSection": 343
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In review provides information about the function oft the body of chaperones and their role in the development of pathological processes, including--atherosclerosis and coronary heart disease.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26492771",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 192
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Molecular chaperones are key players in proteostasis, the balance between protein synthesis, folding, assembly and degradation",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30484157",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 126
+        }
+      ],
+      "id": "601f0c161cb411341a00006e",
+      "type": "summary",
+      "body": "What is the function of a chaperonin?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34484859"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "m6A demethylase FTO suppresses pancreatic cancer tumorigenesis by demethylating PJA2 and inhibiting Wnt signaling.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34484859",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 114
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Moreover, FTO demethylated the m6A modification of praja ring finger ubiquitin ligase 2 (PJA2), thereby reducing its mRNA decay, suppressing Wnt signaling, and ultimately restraining the proliferation, invasion, and metastasis of pancreatic cancer cells.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34484859",
+          "offsetInBeginSection": 931,
+          "offsetInEndSection": 1185
+        }
+      ],
+      "id": "622629d13a8413c65300007e",
+      "type": "yesno",
+      "body": "Can FTO promote pancreatic cancer development?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33252155"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1) cause Oguchi disease, a rare subtype of congenital stationary night blindness (CSNB).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33252155",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 151
+        }
+      ],
+      "id": "61f95f9f882a024a1000004e",
+      "type": "factoid",
+      "body": "Which disorder is caused by biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1)?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34551229",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33839690",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34885078",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32273508",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32725406"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Overall Survival Benefit with Tebentafusp in Metastatic Uveal Melanoma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34551229",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 71
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Treatment with tebentafusp resulted in longer overall survival than the control therapy among previously untreated patients with metastatic uveal melanoma. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34551229",
+          "offsetInBeginSection": 1939,
+          "offsetInEndSection": 2108
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "If approved, tebentafusp could become the standard of care for metastatic uveal melanoma-but only for those patients with a particular HLA allele.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33839690",
+          "offsetInBeginSection": 172,
+          "offsetInEndSection": 318
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Recently, a randomized phase III trial reported an overall survival benefit for tebentafusp in patients with untreated metastatic uveal melanoma. The aim of this comprehensive review is to summarize evidence of Gp-100 as a therapeutic target in melanoma, and the preclinical and clinical development of tebentafusp as a novel therapeutic strategy for patients with uveal melanoma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34885078",
+          "offsetInBeginSection": 606,
+          "offsetInEndSection": 986
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Although UM metastases are less responsive than cutaneous melanoma to chemotherapy or immune checkpoint inhibitors, encouraging results have been reported with partial hepatectomy for solitary metastases, with percutaneous hepatic perfusion with melphalan or with tebentafusp.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32273508",
+          "offsetInBeginSection": 917,
+          "offsetInEndSection": 1193
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Several alternative systemic therapeutic approaches have been or are currently being investigated, including two agents that have been taken into registration-intent clinical trials: tebentafusp, a T cell redirecting agent, and IDE196, an oral protein kinase C inhibitor. Treatment of advanced uveal melanoma remains challenging, however, encouraging results from novel agents offer hope for improvement in the near future.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32725406",
+          "offsetInBeginSection": 520,
+          "offsetInEndSection": 943
+        }
+      ],
+      "id": "61f5fb64882a024a1000001a",
+      "type": "factoid",
+      "body": "Which disease is treated with Tebentafusp?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33964291",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34384745",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34431892",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31839581",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32227027",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32081946"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "lysozyme present in the natural tear",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33964291",
+          "offsetInBeginSection": 415,
+          "offsetInEndSection": 451
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Lysozyme (Lyz) is a naturally occurring enzyme that operates against Gram-positive bacteria and leads to cell death. This antimicrobial enzyme forms the part of the innate defense system of nearly all animals and exists in their somatic discharges such as milk, tears, saliva and urine.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34384745",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 286
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "tear lysozyme",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34431892",
+          "offsetInBeginSection": 42,
+          "offsetInEndSection": 55
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "lysozyme in tears, saliva, sweat, and other body fluids, ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31839581",
+          "offsetInBeginSection": 384,
+          "offsetInEndSection": 441
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In this study we quantify lysozyme, the most prevalent protein in tear fluid, ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32227027",
+          "offsetInBeginSection": 186,
+          "offsetInEndSection": 264
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Lysozyme (LZM) is a natural anti-bacterial protein that is found in the saliva, tears and milk of all mammals including humans. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32081946",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 128
+        }
+      ],
+      "id": "621b8dee3a8413c653000042",
+      "type": "yesno",
+      "body": "Is Lysozyme abundant in human tears?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32888314",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31899262",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32013887",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32010240",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32462086"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Since the discovery of neuromedin U (NmU) from porcine spinal cord in 1985, this neuropeptide has been subsequently identified in many other species with multiple physiological and pathophysiological roles detected, ranging from smooth muscle contraction, feeding, energy balance to tumorigenesis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32888314",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 296
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "NmU is also emerging to play pro-inflammatory roles involving immune cell activation and cytokine release in a neuron-dependent or neuron-independent manner.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32888314",
+          "offsetInBeginSection": 312,
+          "offsetInEndSection": 469
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Neuromedin U (NMU) is a highly conserved neuropeptide that has been implicated in the stress response",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31899262",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 101
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Neuromedin U (NMU) is a neuropeptide belonging to the neuromedin family. Recently, significant associations between NMU and several cancers have been reported. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32013887",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 172
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " NMU may serve as a novel prognostic biomarker for HCC patients, although further validation is needed in the future. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32013887",
+          "offsetInBeginSection": 1551,
+          "offsetInEndSection": 1669
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "activation of M2 macrophages and a type-2 inflammatory response may involve in the role of NMU in patients with HCC.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32013887",
+          "offsetInBeginSection": 1673,
+          "offsetInEndSection": 1789
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "An increasing number of studies have demonstrated that neuromedin U (NMU) plays a pleiotropic role in the pathogenesis of asthma. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32010240",
+          "offsetInBeginSection": 246,
+          "offsetInEndSection": 376
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Neuromedin U (NMU) is a bioactive neuropeptide, highly distributed in the gastrointestinal tract and the central nervous system. NMU has various physiological functions related to feeding behavior, energy metabolism, stress responses, circadian rhythmicity and inflammation",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32462086",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 273
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "reports indicate that the central NMU system plays an important role in the reward systems in the brain",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32462086",
+          "offsetInBeginSection": 293,
+          "offsetInEndSection": 396
+        }
+      ],
+      "id": "603e4dc71cb411341a00015f",
+      "type": "summary",
+      "body": "What is Neuromedin U (NmU)"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31785606"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "FTY720 (Fingolimod) is a known sphingosine-1-phosphate (S1P) receptor agonist that exerts strong anti-inflammatory effects and was approved as the first oral drug for the treatment of multiple sclerosis by the US Food and Drug Administration (FDA) in 2010. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31785606",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 257
+        }
+      ],
+      "id": "6052715494d57fd87900000e",
+      "type": "yesno",
+      "body": "Is FTY720 FDA approved?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31116370"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "SPar-K: a method to partition NGS signal data.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31116370",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 46
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We present SPar-K (Signal Partitioning with K-means), a method to search for archetypical chromatin architectures by partitioning a set of genomic regions characterized by chromatin signal profiles around ChIP-seq peaks and other kinds of functional sites. This method efficiently deals with problems of data heterogeneity, limited misalignment of anchor points and unknown orientation of asymmetric patterns.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31116370",
+          "offsetInBeginSection": 9,
+          "offsetInEndSection": 418
+        }
+      ],
+      "id": "61f9cc19c9dfcb9c09000003",
+      "type": "summary",
+      "body": "Describe SPar-K"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34536669",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34489680",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34198582",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34162295"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Considering the recent clinical success of donanemab, which targets AβΝ3pE, small molecule-based QC inhibitors may also provide potential therapeutic options for early-stage AD treatment.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34536669",
+          "offsetInBeginSection": 1022,
+          "offsetInEndSection": 1209
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Recently, passive immunization of AD patients with Donanemab, an antibody directed against the N-terminus of pyroglutamate Aβ, showed beneficial effects in a phase II trial, supporting the concept that N-truncated Aβ is a relevant target for AD therapy. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34489680",
+          "offsetInBeginSection": 439,
+          "offsetInEndSection": 693
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The late-stage agents with positive clinical or biomarker data include four antibodies that engage Aβ oligomers (aducanumab, lecanemab, gantenerumab, and donanemab) and ALZ-801, an oral agent that fully blocks the formation of Aβ oligomers at the clinical dose.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34198582",
+          "offsetInBeginSection": 1066,
+          "offsetInEndSection": 1327
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Donanemab (LY3002813) is a new monoclonal antibody that uniquely targets Aβ(p3-42), a pyroglutamate form of Amyloid-β (Aβ) exclusively found in plaques.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34162295",
+          "offsetInBeginSection": 167,
+          "offsetInEndSection": 319
+        }
+      ],
+      "id": "61f6048e882a024a10000020",
+      "type": "summary",
+      "body": "What is the mechanism of action of donanemab?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32577996",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34593462",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33321564",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34163223"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "cytokeratin fragment antigen 21-1 (CYFRA21-1) in patients with laryngeal squamous cell carcinoma (LSCC) and its correlation with tumorigenesis and progression",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32577996",
+          "offsetInBeginSection": 81,
+          "offsetInEndSection": 239
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " cytokeratin fragment 19 (AUC\u003d0.6882, p\u003c0.0001) proved best in detecting relapse.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34593462",
+          "offsetInBeginSection": 700,
+          "offsetInEndSection": 781
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The immunohistochemistry staining for cancer antigen 19-9, carcinoembryonic antigen, cytokeratin 20, and Ki-67 showed comparable intensities in both groups.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33321564",
+          "offsetInBeginSection": 1134,
+          "offsetInEndSection": 1290
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "evels of inflammatory and tumor markers, including carbohydrate antigen (CA) 19-9, CA125, carcinoembryonic antigen (CEA), CA153, and cytokeratin 19 fragments (CYFRA21-1), ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34163223",
+          "offsetInBeginSection": 442,
+          "offsetInEndSection": 613
+        }
+      ],
+      "id": "621d19cc3a8413c65300004a",
+      "type": "yesno",
+      "body": "Is cytokeratin a tumor marker?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33568427",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34695762",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34469109",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34515617"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " tumor-associated macrophages (TAMs) ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34695762",
+          "offsetInBeginSection": 1041,
+          "offsetInEndSection": 1078
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "tumour-associated macrophages (TAMs)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33568427",
+          "offsetInBeginSection": 599,
+          "offsetInEndSection": 635
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " tumor-associated macrophages (TAMs)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34469109",
+          "offsetInBeginSection": 266,
+          "offsetInEndSection": 302
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "tumor-associated macrophages (TAMs)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34515617",
+          "offsetInBeginSection": 739,
+          "offsetInEndSection": 774
+        }
+      ],
+      "id": "6222257e3a8413c653000077",
+      "type": "factoid",
+      "body": "What are TAMs in cancer therapy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25412662",
+        "http://www.ncbi.nlm.nih.gov/pubmed/25881961"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The effect of FTO on adipogenesis appears to be mediated via enhanced expression of the pro-adipogenic short isoform of RUNX1T1, which enhanced adipocyte proliferation, and is increased in FTO-4 MEFs and reduced in FTO-KO MEFs.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25881961",
+          "offsetInBeginSection": 655,
+          "offsetInEndSection": 882
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "FTO controls exonic splicing of adipogenic regulatory factor RUNX1T1 by regulating m6A levels around splice sites and thereby modulates differentiation. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25412662",
+          "offsetInBeginSection": 830,
+          "offsetInEndSection": 983
+        }
+      ],
+      "id": "62260aa13a8413c65300007a",
+      "type": "summary",
+      "body": "What is the relationship between RUNX1T1 and FTO?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31250907"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "JUCHMME: a Java Utility for Class Hidden Markov Models and Extensions for biological sequence analysis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31250907",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 103
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "JUCHMME is an open-source software package designed to fit arbitrary custom Hidden Markov Models (HMMs) with a discrete alphabet of symbols.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31250907",
+          "offsetInBeginSection": 9,
+          "offsetInEndSection": 149
+        }
+      ],
+      "id": "6200411cc9dfcb9c09000014",
+      "type": "factoid",
+      "body": "Which java utility has been developed for class hidden markov models?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34511939",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34514598",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34537363",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34555986"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Two antibodies (bamlanivimab and etesevimab) have just been approved by the FDA.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34511939",
+          "offsetInBeginSection": 1599,
+          "offsetInEndSection": 1679
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Bamlanivimab and etesevimab are neutralizing antibodies indicated for treatment of coronavirus disease 2019 (COVID-19) in patients with early mild or moderate disease. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34514598",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 168
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The mAbs used were: Bamlanivimab alone (four patients), Bamlanivimab/Etesevimab (23 patients) and Casirivimab/Imdevimab (five patients).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34537363",
+          "offsetInBeginSection": 502,
+          "offsetInEndSection": 638
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Bamlanivimab and etesevimab are monoclonal antibodies to SARS-CoV-2.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34555986",
+          "offsetInBeginSection": 118,
+          "offsetInEndSection": 186
+        }
+      ],
+      "id": "61f5f777882a024a10000018",
+      "type": "summary",
+      "body": "What is the mechanism of action of Etesevimab?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32397857",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32687661",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32730594",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34537014",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34496019",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34543009",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34548332",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34567510"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "TRIB3 pseudokinase",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32397857",
+          "offsetInBeginSection": 272,
+          "offsetInEndSection": 290
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " mixed-lineage kinase domain-like pseudokinase (MLKL) ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32687661",
+          "offsetInBeginSection": 716,
+          "offsetInEndSection": 770
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "pseudokinase Trib1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32730594",
+          "offsetInBeginSection": 4,
+          "offsetInEndSection": 22
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ULK4 pseudokinase",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34537014",
+          "offsetInBeginSection": 1805,
+          "offsetInEndSection": 1822
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "JAK1 pseudokinase",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34496019",
+          "offsetInBeginSection": 603,
+          "offsetInEndSection": 620
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CASK, led to the classification as a pseudokinase",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34543009",
+          "offsetInBeginSection": 276,
+          "offsetInEndSection": 325
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "HER3 is a unique pseudokinase",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34548332",
+          "offsetInBeginSection": 231,
+          "offsetInEndSection": 260
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "tribbles pseudokinase 2 (TRIB2)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34567510",
+          "offsetInBeginSection": 991,
+          "offsetInEndSection": 1022
+        }
+      ],
+      "id": "621b85993a8413c653000041",
+      "type": "list",
+      "body": "List known pseudokinases."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31734952",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31856298",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31970486"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Peyer\u0027s patches (PPs) play a major role in intestinal mucosal immunity",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31734952",
+          "offsetInBeginSection": 20,
+          "offsetInEndSection": 90
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The small intestine hosts specialized lymphoid structures, the Peyer\u0027s patches, that face the gut lumen and are overlaid with unique epithelial cells, called microfold (M) cells. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31856298",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 179
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In the Peyer\u0027s patches of the small intestine, specialized epithelial cells, the membranous (M) cells, sample antigenic matter from the gut lumen and bring it into contact with cells of the immune system, which are then capable of initiating specific immune reactions",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31970486",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 267
+        }
+      ],
+      "id": "601eb3b61cb411341a000057",
+      "type": "factoid",
+      "body": "Where is the body would the Peyer\u0027s patches be found"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31721311"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "The Janus Kinase inhibitor tofacitinib impacts human dendritic cell differentiation and favours M1 macrophage development.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31721311",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 122
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tofacitinib, a small JAK inhibitor, is approved for the treatment of RA and has demonstrated good efficacy in psoriasis phase III clinical trials. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31721311",
+          "offsetInBeginSection": 195,
+          "offsetInEndSection": 342
+        }
+      ],
+      "id": "602596691cb411341a0000ad",
+      "type": "yesno",
+      "body": "Is tofacitinib a JAK inhibitor?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31802016"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "The GenomeAsia 100K Project enables genetic discoveries across Asia.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31802016",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 68
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The underrepresentation of non-Europeans in human genetic studies so far has limited the diversity of individuals in genomic datasets and led to reduced medical relevance for a large proportion of the world\u0027s population. Population-specific reference genome datasets as well as genome-wide association studies in diverse populations are needed to address this issue. Here we describe the pilot phase of the GenomeAsia 100K Project. This includes a whole-genome sequencing reference dataset from 1,739 individuals of 219 population groups and 64 countries across Asia. We catalogue genetic variation, population structure, disease associations and founder effects. We also explore the use of this dataset in imputation, to facilitate genetic studies in populations across Asia and worldwide.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31802016",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 790
+        }
+      ],
+      "id": "61f86f58882a024a10000046",
+      "type": "summary",
+      "body": "Describe the GenomeAsia 100K Project"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33130193",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33098622",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34183144",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34141064"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Furthermore, drug therapies including injectables such as onasemnogene abeparvovec-xioi (ZOLGENSMA®), nusinersen (SPINRAZA®), and an oral-solution, risdiplam (EVRYSDI™), are medications that have been FDA-approved for the treatment of SMA.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33130193",
+          "offsetInBeginSection": 1511,
+          "offsetInEndSection": 1750
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The phenotype of spinal muscular atrophy (SMA) has been changing with the recent availability of three FDA-approved treatments: intrathecal nusinersen, intravenous onasemnogene abeparvovec-xioi, and enteral risdiplam. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33098622",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 218
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The United States\u0027 Food and Drug Administration\u0027s (FDA) approval of nusinersen, onasemnogene abeparvovec, and risdiplam for SMA has challenged existing treatment paradigms with multiple treatment options, a new natural history of the disease, and an emerging understanding of the importance of early and pre-symptomatic treatment.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34183144",
+          "offsetInBeginSection": 149,
+          "offsetInEndSection": 479
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The discovery of small molecule splicing modifiers and the development of risdiplam for the treatment of spinal muscular atrophy (SMA) have firmly established proof of concept for this exciting new platform and transformed a scientific curiosity into a viable technology to target disease. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34141064",
+          "offsetInBeginSection": 133,
+          "offsetInEndSection": 423
+        }
+      ],
+      "id": "61f60735882a024a10000022",
+      "type": "factoid",
+      "body": "Which disease is treated with Risdiplam?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/29189096",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31812495",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31935590",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32003970"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "post-translational modification by palmitoylation",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29189096",
+          "offsetInBeginSection": 336,
+          "offsetInEndSection": 385
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Protein S-palmitoylation, the covalent lipid modification of the side chain of Cys residues with the 16‑carbon fatty acid palmitate, is the most common acylation, and it enhances the membrane stability of ion channels. This post-translational modification (PTM) determines a functional mechanism of ion channel life cycle from maturation and membrane trafficking to localization.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31812495",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 379
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Palmitoylation (S-acylation) is the reversible conjugation of a fatty acid (usually C16 palmitate) to intracellular cysteine residues of proteins via a thioester linkage. Palmitoylation anchors intracellular regions of proteins to membranes because the palmitoylated cysteine is recruited to the lipid bilayer. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31935590",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 311
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Protein S-palmitoylation is an important post-translational modification (PTM) in blood stages of the malaria parasite, Plasmodium falciparum. S-palmitoylation refers to reversible covalent modification of cysteine residues of proteins by saturated fatty acids.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32003970",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 261
+        }
+      ],
+      "id": "604919411cb411341a00016c",
+      "type": "summary",
+      "body": "What is protein palmitoylation?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15302523",
+        "http://www.ncbi.nlm.nih.gov/pubmed/2179633"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Poisons are widespread in plants and animals and humankind has often tried to turn them to its own advantage. Owing to their poisonous properties, some species of Strychnos genus have been employed mainly in hunting and fishing, as an adjunct to weapons used not only in the search of food and clothes, but also for preventing depredation by wild animals. They have been employed for martial and criminal purposes and also as a means of determining guilt or innocence. By their nature, poisons such as strychnine and curare affect the functioning of the victim\u0027s body; ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15302523",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 569
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The ethnobotanical uses of South American species of Strychnos L. (Loganiaceae) are reviewed, with the exception of their major rôle in the preparation of curare, which will be dealt with in detail elsewhere.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/2179633",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 208
+        }
+      ],
+      "id": "60292dc61cb411341a000110",
+      "type": "yesno",
+      "body": "Αre plants from the genus Strychnos the original source of curare?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30550780"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Two antibodies, fremanezumab and galcanezumab, directed towards the CGRP ligand, were approved by the FDA in September 2018. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30550780",
+          "offsetInBeginSection": 323,
+          "offsetInEndSection": 448
+        }
+      ],
+      "id": "6028fad21cb411341a000101",
+      "type": "factoid",
+      "body": "When was galcanezumab approved by FDA?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33245860"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Missense variants in the N-terminal domain of the A isoform of FHF2/FGF13 cause an X-linked developmental and epileptic encephalopathy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33245860",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 135
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Whole-exome sequencing identified hemi- and heterozygous variants in the N-terminal domain of the A isoform of FHF2 (FHF2A). The X-linked FHF2 gene (also known as FGF13) has alternative first exons which produce multiple protein isoforms that differ in their N-terminal sequence. The variants were located at highly conserved residues in the FHF2A inactivation particle that competes with the intrinsic fast inactivation mechanism of Nav channels. Functional characterization of mutant FHF2A co-expressed with wild-type Nav1.6 (SCN8A) revealed that mutant FHF2A proteins lost the ability to induce rapid-onset, long-term blockade of the channel while retaining pro-excitatory properties. These gain-of-function effects are likely to increase neuronal excitability consistent with the epileptic potential of FHF2 variants. Our findings demonstrate that FHF2 variants are a cause of infantile-onset developmental and epileptic encephalopathy and underline the critical role of the FHF2A isoform in regulating Nav channel function.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33245860",
+          "offsetInBeginSection": 390,
+          "offsetInEndSection": 1418
+        }
+      ],
+      "id": "61f9605f882a024a1000004f",
+      "type": "yesno",
+      "body": "Are variants in FHF2 (also known as FGF13) associated with encephalopathy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32640130"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: Tofersen is an antisense oligonucleotide that mediates the degradation of superoxide dismutase 1 (SOD1) messenger RNA to reduce SOD1 protein synthesis. Intrathecal administration of tofersen is being studied for the treatment of amyotrophic lateral sclerosis (ALS) due to SOD1 mutations.METHODS: We conducted a phase 1-2 ascending-dose trial evaluating tofersen in adults with ALS due to SOD1 mutations. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32640130",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 416
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: In adults with ALS due to SOD1 mutations, CSF SOD1 concentrations decreased at the highest concentration of tofersen administered intrathecally over a period of 12 weeks. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32640130",
+          "offsetInBeginSection": 1797,
+          "offsetInEndSection": 1981
+        }
+      ],
+      "id": "602356b81cb411341a000099",
+      "type": "factoid",
+      "body": "Tofersen has been developed for treatment of which disease?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30617948",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31802224",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31904838",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32048961",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32443748"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Lactose intolerance is a common condition caused by lactase deficiency and may result in symptoms of lactose malabsorption (bloating, flatulence, abdominal discomfort, and change in bowel habits). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30617948",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 197
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Adult lactose intolerance (ALI) significantly alters calcium intake and absorption, and thus may promote osteoporosis. ALI is a recessive condition with a geographical north-south gradient characterised by decreased levels of intestinal lactase.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31802224",
+          "offsetInBeginSection": 13,
+          "offsetInEndSection": 259
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Considerations include recognizing that a substantial proportion of the world\u0027s adult population (65%-70%) exhibits lactase nonpersistence, a reduced ability to metabolize lactose to glucose and galactose.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31904838",
+          "offsetInBeginSection": 295,
+          "offsetInEndSection": 500
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Four clinical subtypes of lactose intolerance may be distinguished, namely lactase deficiency in premature infants, congenital lactase deficiency, adult-type hypolactasia and secondary lactase intolerance.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32048961",
+          "offsetInBeginSection": 755,
+          "offsetInEndSection": 961
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Lactose intolerance (LI) is characterized by the presence of primarily gastrointestinal clinical signs resulting from colonic fermentation of lactose, the absorption of which is impaired due to a deficiency in the lactase enzyme. These clinical signs can be modified by several factors, including lactose dose, residual lactase expression, concurrent ingestion of other dietary components, gut-transit time, and enteric microbiome composition.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32443748",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 443
+        }
+      ],
+      "id": "606b2b1994d57fd87900005c",
+      "type": "factoid",
+      "body": "What is the cause of lactose intolerance?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32243020",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33031544",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33169539",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31153990",
+        "http://www.ncbi.nlm.nih.gov/pubmed/25187742",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20110024"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Etizolam is a thienodiazepine derivative, with high affinity for the benzodiazepine site of GABAA receptors. It is often referred to as a new (or novel) psychoactive substance, a \u0027designer\u0027 benzodiazepine or a \u0027street benzodiazepine\u0027.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32243020",
+          "offsetInBeginSection": 8,
+          "offsetInEndSection": 242
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Etizolam is a novel psychoactive substance and novel benzodiazepine of the thienotriazolodiazepine class that has recently seen an increasing trend in use worldwide.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33031544",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 165
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Etizolam is a benzodiazepine analogue that is approved for use in Japan, Italy and India",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33169539",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 88
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Etizolam is a drug from the thienotriazoldiazepine class, widely prescribed as anxiolytic due to its apparently secure toxicological profile. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31153990",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 142
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The prevalence of benzodiazepine consumption in Japan is one of the highest worldwide. Etizolam is the most abused drug of the benzodiazepine class.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25187742",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 148
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Etizolam is an anxiolytic drug with a pharmacologic profile similar to that of the classic benzodiazepines. Neurochemical research suggests that etizolam may have selectivity for the subpopulation of Y-aminobutyric acid type A receptors associated with anxiety (ie, alpha1, beta2, gamma2). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20110024",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 302
+        }
+      ],
+      "id": "60575f5a94d57fd87900002a",
+      "type": "summary",
+      "body": "What is Etizolam?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22197578"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "AZD9668, a neutrophil elastase inhibitor, plus ongoing budesonide/formoterol in patients with COPD.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22197578",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 99
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "AZD9668 is a reversible and selective inhibitor of NE, well tolerated at doses of 60 mg bid during Phase I/IIa development.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22197578",
+          "offsetInBeginSection": 100,
+          "offsetInEndSection": 223
+        }
+      ],
+      "id": "602c26171cb411341a000122",
+      "type": "yesno",
+      "body": "Is AZD9668 a VEGF mRNA drug?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33186545"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "De Novo VPS4A Mutations Cause Multisystem Disease with Abnormal Neurodevelopment.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33186545",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 81
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We thus characterize a distinct multisystem disorder caused by mutations affecting VPS4A and demonstrate that its normal function is required for multiple human developmental and cellular processes.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33186545",
+          "offsetInBeginSection": 1114,
+          "offsetInEndSection": 1312
+        }
+      ],
+      "id": "61f9718f882a024a10000050",
+      "type": "summary",
+      "body": "What is caused by de novo VPS4A mutations?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34482398",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34147650",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33675755",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33730455",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31474439",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34342834",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34445916"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Addressing some of the unmet needs, a long-acting C5 inhibitor, ravulizumab, and a C3 inhibitor, pegcetacoplan have been also now approved with PNH.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34482398",
+          "offsetInBeginSection": 414,
+          "offsetInEndSection": 562
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The FDA approval of pegcetacoplan (Empaveli), a PEGylated compstatin-based C3 therapeutic, as a new treatment for paroxysmal nocturnal hemoglobinuria (PNH) marks a milestone in the history of complement drug discovery. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34147650",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 219
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Pegcetacoplan treatment significantly controlled GA progression even after accounting for these risk factors.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33675755",
+          "offsetInBeginSection": 1530,
+          "offsetInEndSection": 1639
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Pegcetacoplan versus Eculizumab in Paroxysmal Nocturnal Hemoglobinuria.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33730455",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 71
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Pegcetacoplan was superior to eculizumab in improving hemoglobin and clinical and hematologic outcomes in patients with PNH by providing broad hemolysis control, including control of intravascular and extravascular hemolysis. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33730455",
+          "offsetInBeginSection": 1948,
+          "offsetInEndSection": 2187
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Complement C3 Inhibitor Pegcetacoplan for Geographic Atrophy Secondary to Age-Related Macular Degeneration: A Randomized Phase 2 Trial.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31474439",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 135
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Local C3 inhibition with pegcetacoplan resulted in statistically significant reductions in the growth of GA compared with sham treatment.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31474439",
+          "offsetInBeginSection": 2137,
+          "offsetInEndSection": 2287
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Pegcetacoplan is the first C3-targeted paroxysmal nocturnal haemoglobinuria (PNH) therapy to be approved (in May 2021) in the USA, where it is indicated for the treatment of adults with PNH, including those switching from C5 inhibitor therapy with eculizumab and ravulizumab.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34342834",
+          "offsetInBeginSection": 433,
+          "offsetInEndSection": 708
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ONCLUSIONS: Results suggest that among patients previously treated with eculizumab, clinical, hematological, and quality of life endpoints were better for patients who received the C3 complement inhibitor pegcetacoplan vs. patients who received ravulizumab, a C5 complement inhibitor.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34445916",
+          "offsetInBeginSection": 1717,
+          "offsetInEndSection": 2001
+        }
+      ],
+      "id": "61f5f377882a024a10000016",
+      "type": "list",
+      "body": "What is the use of pegcetacoplan?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34493791",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33997889",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31769974",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29178580",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29282902"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Oligosaccharyltransferases (OSTs) mediate the en bloc transfer of N-glycan intermediates onto the asparagine residue in glycosylation sequons (N-X-S/T, X≠P). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29282902",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 158
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Protein glycosylation, or the attachment of sugar moieties (glycans) to proteins, is important for protein stability, activity, and immunogenicity. However, understanding the roles and regulations of site-specific glycosylation events remains a significant challenge due to several technological limitations.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29178580",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 308
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "A particular challenge is the synthesis of oligosaccharyltransferases (OSTs), which catalyze the attachment of glycans to specific amino acid residues in target proteins",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29178580",
+          "offsetInBeginSection": 432,
+          "offsetInEndSection": 601
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Lipid-linked oligosaccharides (LLOs) play an important role in the N-glycosylation pathway as the donor substrate of oligosaccharyltransferases (OSTs), which are responsible for the en bloc transfer of glycan chains onto a nascent polypeptide.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31769974",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 243
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Key to bioconjugation are a group of enzymes known as oligosaccharyltransferases (OTases) that transfer polysaccharides to engineered carrier proteins containing conserved amino acid sequences known as sequons. T",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33997889",
+          "offsetInBeginSection": 187,
+          "offsetInEndSection": 399
+        }
+      ],
+      "id": "621b78e63a8413c65300003f",
+      "type": "factoid",
+      "body": "What is the activity of a Oligosaccharyltransferases ?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22090721",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15266619"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The syndrome is caused by mutations in the MKKS gene mapped onto chromosome 20p12 between D20S162 and D20S894 markers.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22090721",
+          "offsetInBeginSection": 235,
+          "offsetInEndSection": 353
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Both MKS and BBS can be caused by mutations in the MKKS or BBS6 gene on chromosome 20p12 and BBS is also associated with mutations in other genes (BBS1, BBS2, BBS4, and BBS7). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15266619",
+          "offsetInBeginSection": 869,
+          "offsetInEndSection": 1046
+        }
+      ],
+      "id": "601eb56c1cb411341a000058",
+      "type": "factoid",
+      "body": "On what chromosome would the MKKS gene for McKusick-Kaufman(AKA Kaufman-McKusick) syndrome be found?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/28696420"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mothers with a CYP2D6 ultrarapid metabolizer phenotype may expose their infants to risk of adverse events when taking codeine while breastfeeding, by producing more of the active metabolite, morphine. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28696420",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 201
+        }
+      ],
+      "id": "606add0094d57fd879000055",
+      "type": "summary",
+      "body": "Which maternal CYP2D6 related phenotype may expose their infants to risk of adverse events when taking codeine while breastfeeding?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34139436"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "VICTOR: A visual analytics web application for comparing cluster sets.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34139436",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 70
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "To automate this process, in this study, we present VICTOR, the first fully interactive and dependency-free visual analytics web application which allows the visual comparison of the results of various clustering algorithms. VICTOR can handle multiple cluster set results simultaneously and compare them using ten different metrics. Clustering results can be filtered and compared to each other with the use of data tables or interactive heatmaps, bar plots, correlation networks, sankey and circos plots. We demonstrate VICTOR\u0027s functionality using three examples. In the first case, we compare five different network clustering algorithms on a Yeast protein-protein interaction dataset whereas in the second example, we test four different parameters of the MCL clustering algorithm on the same dataset. Finally, as a third example, we compare four different meta-analyses with hierarchically clustered differentially expressed genes found to be involved in myocardial infarction. VICTOR is available at http://victor.pavlopouloslab.info or http://bib.fleming.gr:3838/VICTOR.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34139436",
+          "offsetInBeginSection": 570,
+          "offsetInEndSection": 1647
+        }
+      ],
+      "id": "62004003c9dfcb9c09000013",
+      "type": "summary",
+      "body": "Describe the web application VICTOR"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34525286",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30053014",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28976850"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ETHODS: In this phase 1, open-label clinical trial, we evaluated the safety and immunogenicity of a synthetic, consensus DNA vaccine (GLS-5700) encoding the ZIKV premembrane and envelope proteins in two groups of 20 participants each.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34525286",
+          "offsetInBeginSection": 248,
+          "offsetInEndSection": 482
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Methods: Male IFNAR-/- mice, knockout for type I interferon receptor, were immunized with GLS-5700, a deoxyribonucleic acid-based vaccine, before a subcutaneous ZIKV challenge with 6 × 105 plaque-forming units at 13 weeks of age.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30053014",
+          "offsetInBeginSection": 188,
+          "offsetInEndSection": 417
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Methods In this phase 1, open-label clinical trial, we evaluated the safety and immunogenicity of a synthetic, consensus DNA vaccine (GLS-5700) encoding the ZIKV premembrane and envelope proteins in two groups of 20 participants each. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28976850",
+          "offsetInBeginSection": 247,
+          "offsetInEndSection": 482
+        }
+      ],
+      "id": "61f5fe43882a024a1000001c",
+      "type": "summary",
+      "body": "What is GLS-5700?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32647372",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33155136",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32826850"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Reciprocal H3.3 gene editing identifies K27M and G34R mechanisms in pediatric glioma including NOTCH signaling.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32647372",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 111
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Well-known oncohistones, with mutations on both H3.1 and H3.3, include H3K36M in chondroblastoma, H3K27M in glioma",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33155136",
+          "offsetInBeginSection": 589,
+          "offsetInEndSection": 703
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Diffuse intrinsic pontine gliomas (DIPG) are the most aggressive brain tumors in children with 5-year survival rates of only 2%. About 85% of all DIPG are characterized by a lysine-to-methionine substitution in histone 3, which leads to global H3K27 hypomethylation accompanied by H3K27 hyperacetylation. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32826850",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 305
+        }
+      ],
+      "id": "603400051cb411341a00014e",
+      "type": "yesno",
+      "body": "Is histone variant H3.3K27M associated with gliomas?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30845834",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31513041",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31478935"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Report the outcomes of laser in situ keratomileusis (LASIK) for high myopia correction after long-term follow-up",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30845834",
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 123
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "laser in-situ keratomileusis (LASIK)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31513041",
+          "offsetInBeginSection": 391,
+          "offsetInEndSection": 427
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Laser in situ keratomileusis (LASIK) ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31478935",
+          "offsetInBeginSection": 9,
+          "offsetInEndSection": 46
+        }
+      ],
+      "id": "601ef0571cb411341a000067",
+      "type": "factoid",
+      "body": "What is another name for  keratomileusis?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32589708"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Of these SNPs only rs34269950 located in the \u0027RRACH\u0027 motif, the most common N6-methyladenosine (m6A) methylation modification site (recognized by FTO), was significantly associated with obesity risk and metabolic abnormalities.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32589708",
+          "offsetInBeginSection": 651,
+          "offsetInEndSection": 878
+        }
+      ],
+      "id": "62260afb3a8413c65300007b",
+      "type": "factoid",
+      "body": "In which motif of the RUNX1T1 protein is the rs34269950 SNP located?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33308444"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "SCUBE3 loss-of-function causes a recognizable recessive developmental disorder due to defective bone morphogenetic protein signaling.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33308444",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 133
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here we report that bi-allelic inactivating variants in SCUBE3 have pleiotropic consequences on development and cause a previously unrecognized syndromic disorder. Eighteen affected individuals from nine unrelated families showed a consistent phenotype characterized by reduced growth, skeletal features, distinctive craniofacial appearance, and dental anomalies. In vitro functional validation studies demonstrated a variable impact of disease-causing variants on transcript processing, protein secretion and function, and their dysregulating effect on bone morphogenetic protein (BMP) signaling. We show that SCUBE3 acts as a BMP2/BMP4 co-receptor, recruits the BMP receptor complexes into raft microdomains, and positively modulates signaling possibly by augmenting the specific interactions between BMPs and BMP type I receptors. Scube3-/- mice showed craniofacial and dental defects, reduced body size, and defective endochondral bone growth due to impaired BMP-mediated chondrogenesis and osteogenesis, recapitulating the human disorder. Our findings identify a human disease caused by defective function of a member of the SCUBE family, and link SCUBE3 to processes controlling growth, morphogenesis, and bone and teeth development through modulation of BMP signaling.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33308444",
+          "offsetInBeginSection": 206,
+          "offsetInEndSection": 1481
+        }
+      ],
+      "id": "61f86db9882a024a10000045",
+      "type": "summary",
+      "body": "What is caused by SCUBE3 loss of function?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32053133",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32399998",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32588749",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33023657",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32994804"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Objective: To assess the noninferiority and toxic effects of 3 vs 6 months of FOLFOX (fluorouracil, leucovorin, and oxaliplatin) or CAPOX (capecitabine plus oxaliplatin) adjunct chemotherapy among patients with high-risk stage II resected colorectal cancer enrolled in the TOSCA trial.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32053133",
+          "offsetInBeginSection": 434,
+          "offsetInEndSection": 719
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Influence of ABCB-1, ERCC-1 and ERCC-2 gene polymorphisms on response to capecitabine and oxaliplatin (CAPOX) treatment in colorectal cancer (CRC) patients of South India.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32399998",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 171
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "WHAT IS KNOWN AND OBJECTIVE: High interindividual response variability was reported with capecitabine and oxaliplatin (CAPOX) regimen in colorectal cancer (CRC). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32399998",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 162
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Currently, adjuvant colorectal cancer treatment primarily includes chemotherapeutic regimens such as FOLFOX6 (5-fluorouracil, leucovorin, oxaliplatin) or CAPOX (capecitabine, oxaliplatin), as well as alternative regimens such as TOMOX (raltitrexed, oxaliplatin). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32588749",
+          "offsetInBeginSection": 78,
+          "offsetInEndSection": 341
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " The proportion of patients showing CR was low in the carboplatin (CBDCA)- and oxaliplatin-based chemotherapy groups, especially among women. We showed that the CR rates in men were high in the CBDCA (AUC5) + etoposide (ETP) (80%), capecitabine plus oxaliplatin (CAPOX) (78%), and CBDCA+ paclitaxel (PTX) groups for lung cancer (73%). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33023657",
+          "offsetInBeginSection": 735,
+          "offsetInEndSection": 1070
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Methods: Using the validated PATTERN Markov cohort model, which simulates the disease progression of stage II CC patients from diagnosis to death, we first evaluated a reference strategy in which high-risk patients were treated with chemotherapy for 6 months. In the second strategy, treatment duration was shortened to 3 months. Both strategies were evaluated for CAPOX (capecitabine plus oxaliplatin) and FOLFOX (fluorouracil, leucovorin and oxaliplatin). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32994804",
+          "offsetInBeginSection": 194,
+          "offsetInEndSection": 652
+        }
+      ],
+      "id": "602820fb1cb411341a0000f7",
+      "type": "list",
+      "body": "Which drugs are included in the CAPOX chemotherapy regimen for colorectal cancer?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32612187",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33184939",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30483787"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Hsp90 co-chaperones Pp5 and FKBPs",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32612187",
+          "offsetInBeginSection": 62,
+          "offsetInEndSection": 95
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The co-chaperone FK506-binding protein 51 (FKBP51)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33184939",
+          "offsetInBeginSection": 137,
+          "offsetInEndSection": 187
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "co‑chaperone FKBP52 ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30483787",
+          "offsetInBeginSection": 2162,
+          "offsetInEndSection": 2182
+        }
+      ],
+      "id": "6081a83f4e6a4cf630000007",
+      "type": "yesno",
+      "body": "Is FKBP52 encoding a chaperone ?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32071244",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32303866",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33141148"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " comprising the vast majority of vertebrate species, remains unclear. To address this issue, we evaluated the involvement of an oxytocin homolog (isotocin, referred herein as oxt)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32071244",
+          "offsetInBeginSection": 293,
+          "offsetInEndSection": 472
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "However, in fishes, the effect of isotocin, the homologue of oxytocin, on social behaviour is less clear",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32303866",
+          "offsetInBeginSection": 92,
+          "offsetInEndSection": 196
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "isotocin may have a homologous role to oxytocin",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32303866",
+          "offsetInBeginSection": 874,
+          "offsetInEndSection": 921
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " The present study examined the possible involvement of isotocin (Ist), an oxytocin-like neuropeptide, ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33141148",
+          "offsetInBeginSection": 224,
+          "offsetInEndSection": 327
+        }
+      ],
+      "id": "603bc2801cb411341a00015a",
+      "type": "factoid",
+      "body": "Isotocin is an homolog of what hormone?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30776422"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Pharmacologically, fingolimod was characterized as a non-selective agonist of all of the S1P receptors (S1PR), with the exception of S1P2, and in addition, as a selective S1P1 functional antagonist by induction of irreversible S1P1 internalization and degradation.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30776422",
+          "offsetInBeginSection": 1111,
+          "offsetInEndSection": 1375
+        }
+      ],
+      "id": "6052729c94d57fd879000011",
+      "type": "factoid",
+      "body": "Fingolimod is a selective antagonist for which molecule?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/29501724"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "αCGRP, another amyloidogenic member of the CGRP family.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29501724",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 55
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Therefore, in this work, we investigated the amyloidogenic profile of αCGRP, a 37-residue-long peptide hormone, utilizing both biophysical experimental techniques and Molecular Dynamics simulations. These efforts unravel a novel amyloidogenic member of the CGRP family and provide insights into the mechanism underlying the αCGRP polymerization.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29501724",
+          "offsetInBeginSection": 528,
+          "offsetInEndSection": 873
+        }
+      ],
+      "id": "62004357c9dfcb9c09000015",
+      "type": "yesno",
+      "body": "Does αCGRP have amyloidogenic properties?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31912800"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Istiratumab failed to improve the efficacy of SOC chemotherapy in this patient setting. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31912800",
+          "offsetInBeginSection": 1862,
+          "offsetInEndSection": 1963
+        }
+      ],
+      "id": "60282c3f1cb411341a0000fe",
+      "type": "yesno",
+      "body": "Is istiratumab effective for pancreatic cancer?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34047392",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34767442",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34539228",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34472376",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32118252",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32967423"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Top-down proteomics is emerging as a preferred approach to investigate biological systems, with objectives ranging from the detailed assessment of a single protein therapeutic, to the complete characterization of every possible protein including their modifications, which define the human proteoform.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34047392",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 301
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "intact mass data are readily deconvoluted using well-known software options, the analysis of fragmentation data that result from a tandem MS experiment - essential for proteoform characterization - is not yet standardized",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34539228",
+          "offsetInBeginSection": 508,
+          "offsetInEndSection": 729
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Background ApoAI (apolipoproteins AI) and apoAII (apolipoprotein AII) are structural and functional proteins of high-density lipoproteins (HDL) which undergo post-translational modifications at specific residues, creating distinct proteoforms.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34472376",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 243
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": ". Characterizing proteoforms involves identifying and locating primary structure alterations (PSAs) in proteoforms, which is of practical importance for the advancement of the medical profession. With the development of mass spectrometry (MS) technology, the characterization of proteoforms based on top-down MS technology has become possible. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32118252",
+          "offsetInBeginSection": 223,
+          "offsetInEndSection": 567
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Proteoforms are the workhorses of the cell, and subtle differences between their amino acid sequences or post-translational modifications (PTMs) can change their biological function.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32967423",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 182
+        }
+      ],
+      "id": "621b99973a8413c653000045",
+      "type": "summary",
+      "body": "What is the human proteoform project?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34285374"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Telomestatin is a natural macrocyclic compound derived from Streptomyces anulatus 3533-SV4",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34285374",
+          "offsetInBeginSection": 388,
+          "offsetInEndSection": 478
+        }
+      ],
+      "id": "622118a43a8413c65300006a",
+      "type": "factoid",
+      "body": "Telomestatin is derived from what organism?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24925412"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The first chromone in clinical use, khellin, was extracted from the seeds of the plant Ammi visnaga, and had been used for centuries as a diuretic and as a smooth muscle relaxant. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24925412",
+          "offsetInBeginSection": 142,
+          "offsetInEndSection": 322
+        }
+      ],
+      "id": "6206d06ec9dfcb9c09000041",
+      "type": "factoid",
+      "body": "Which plant is khellin extracted from?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32468552"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "ANTISOMA: A Computational Pipeline for the Reduction of the Aggregation Propensity of Monoclonal Antibodies.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32468552",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 108
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ANTISOMA is a pipeline for the reduction of the aggregation tendency of mAbs through the decrease in their intrinsic aggregation propensity, based on an automated amino acid substitution approach. The method takes into consideration the special features of mAbs and aims at proposing specific point mutations that could lead to the redesign of those promising therapeutics, without affecting their epitope-binding ability. The method is available online at http://bioinformatics.biol.uoa.gr/ANTISOMA .",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32468552",
+          "offsetInBeginSection": 462,
+          "offsetInEndSection": 963
+        }
+      ],
+      "id": "620058b3c9dfcb9c09000016",
+      "type": "summary",
+      "body": "Describe ANTISOMA"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34297496",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34714969"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Abelacimab is a monoclonal antibody that binds to factor XI and locks it in the zymogen (inactive precursor) conformation.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34297496",
+          "offsetInBeginSection": 108,
+          "offsetInEndSection": 230
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Factor XI inhibition with a single intravenous dose of abelacimab after total knee arthroplasty was effective for the prevention of venous thromboembolism and was associated with a low risk of bleeding. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34297496",
+          "offsetInBeginSection": 1576,
+          "offsetInEndSection": 1779
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Pharmacokinetics and pharmacodynamics of Abelacimab (MAA868), a novel dual inhibitor of Factor XI and Factor XIa.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34714969",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 113
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Abelacimab (MAA868) is a novel fully human monoclonal antibody that targets the catalytic domain and has dual activity against the inactive zymogen Factor XI and the activated FXI.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34714969",
+          "offsetInBeginSection": 155,
+          "offsetInEndSection": 335
+        }
+      ],
+      "id": "61f5f0e1882a024a10000014",
+      "type": "list",
+      "body": "Which factors are inhibited by Abelacimab?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32363801",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32784449"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Besides the canonical gene transfer mechanisms transformation, transduction and conjugation, DNA transfer involving extracellular vesicles is still under appreciated. However, this widespread phenomenon has been observed in the three domains of life. Here, we propose the term \u0027Vesiduction\u0027 as a fourth mode of intercellular DNA transfer.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32363801",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 338
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In this review, we first summarize the major pathways of HGT in bacteria, including conjugation, transformation, transduction and vesiduction. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32784449",
+          "offsetInBeginSection": 885,
+          "offsetInEndSection": 1028
+        }
+      ],
+      "id": "603219c21cb411341a000133",
+      "type": "factoid",
+      "body": "What is vesiduction?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25872007",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31276209",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32462362",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32511868",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32386861"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In vertebrates, parathyroid hormone (PTH) is important for skeletogenesis and Ca(2+) homeostasis. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25872007",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 98
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " little is known about the molecular mechanisms by which PTH regulates skeleton formation and Ca(2+) balance during early development.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25872007",
+          "offsetInBeginSection": 106,
+          "offsetInEndSection": 240
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Parathyroid hormone (PTH) is a main systemic mediator of calcium and phosphate homeostasis in the bone. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31276209",
+          "offsetInBeginSection": 10,
+          "offsetInEndSection": 115
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Parathyroid hormone (PTH), PTH-related peptide (PTHrP), PTHR, and their cognate G protein-coupled receptor play defining roles in the regulation of extracellular calcium and phosphate metabolism and in controlling skeletal growth and repair. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32462362",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 242
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Parathyroid glands (PTGs) are important endocrine organs being mainly responsible for the secretion of parathyroid hormone (PTH) to regulate the balance of calcium (Ca) /phosphorus (P) ions in the body.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32511868",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 202
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Abnormalities of parathyroid hormone (PTH) and fibroblast growth factor 23 (FGF23) secretion may cause calcium-phosphate (Ca-P) metabolism disorders in nephrolithiasis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32386861",
+          "offsetInBeginSection": 19,
+          "offsetInEndSection": 187
+        }
+      ],
+      "id": "604e7ce494d57fd879000006",
+      "type": "yesno",
+      "body": "Is parathyroid hormone involved in the regulation of potassium?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32266704"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Eptinezumab, delivered by intravenous (IV) administration, is being developed by Lundbeck Seattle BioPharmaceuticals for the prevention of migraine.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32266704",
+          "offsetInBeginSection": 267,
+          "offsetInEndSection": 415
+        }
+      ],
+      "id": "6026f0251cb411341a0000d6",
+      "type": "factoid",
+      "body": "What is the route of administration of eptinezumab?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34145047"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Combining clinical, radiological and genetic approaches to pneumothorax management.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34145047",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 83
+        }
+      ],
+      "id": "61f81912882a024a10000041",
+      "type": "list",
+      "body": "What kind of approaches you need to combine in order to manage Familial spontaneous pneumothorax?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32458378",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32222134",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32749493",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33032741",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33030703"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Metabolism and Pharmacokinetic Drug-Drug Interaction Profile of Vericiguat, A Soluble Guanylate Cyclase Stimulator: Results From Preclinical and Phase I Healthy Volunteer Studies.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32458378",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 179
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: Vericiguat is a stimulator of soluble guanylate cyclase currently under investigation as a first-in-class therapy for worsening chronic heart failure (NCT02861534). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32458378",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 177
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: The effect of vericiguat, a novel oral soluble guanylate cyclase stimulator, in patients with heart failure and reduced ejection fraction who had recently been hospitalized or had received intravenous diuretic therapy is unclear.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32222134",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 241
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "More recently, sodium-glucose cotransporter 2 (SGLT2) inhibitors have further improved disease outcomes, significantly reducing cardiovascular and all-cause mortality irrespective of diabetes status, and vericiguat, a soluble guanylate cyclase stimulator, reduces heart failure hospitalization in high-risk patients with HFrEF.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32749493",
+          "offsetInBeginSection": 1461,
+          "offsetInEndSection": 1788
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Following the positive results of the phase 3 VICTORIA (A Study of Vericiguat in Participants With Heart Failure With Reduced Ejection Fraction) trial on the sGC stimulator vericiguat in HFrEF, the main open questions are the efficacy of the sacubitril/valsartan-vericiguat combination in HFrEF and of vericiguat in HFpEF.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33032741",
+          "offsetInBeginSection": 923,
+          "offsetInEndSection": 1245
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: Vericiguat, a direct stimulator of soluble guanylate cyclase, has been developed as a first-in-class therapy for symptomatic chronic heart failure (HF) and ejection fraction \u003c 45%.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33030703",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 192
+        }
+      ],
+      "id": "601cbbf11cb411341a00002a",
+      "type": "summary",
+      "body": "What is the mechanism of action of Vericiguat?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32409089",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32384969",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30702281",
+        "http://www.ncbi.nlm.nih.gov/pubmed/25658113"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "oropharyngeal carcinoma (HEp-2)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32409089",
+          "offsetInBeginSection": 245,
+          "offsetInEndSection": 276
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "oropharyngeal cancer cells (HEp-2)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32384969",
+          "offsetInBeginSection": 376,
+          "offsetInEndSection": 410
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " human larynx epidermoid carcinoma cell line (HEp-2) ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30702281",
+          "offsetInBeginSection": 351,
+          "offsetInEndSection": 404
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "HEp-2 laryngeal cancer cells ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25658113",
+          "offsetInBeginSection": 334,
+          "offsetInEndSection": 363
+        }
+      ],
+      "id": "606b648394d57fd879000069",
+      "type": "factoid",
+      "body": "What is the origin of  HEp-2 cells?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31809714",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28121640",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31673206"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "bleomycin-induced pulmonary fibrosis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31809714",
+          "offsetInBeginSection": 32,
+          "offsetInEndSection": 68
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "bleomycin (BLM)-induced pulmonary ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31809714",
+          "offsetInBeginSection": 436,
+          "offsetInEndSection": 470
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Pulmonary toxicity is a devastating complication of bleomycin chemotherapy. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28121640",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 76
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Bleomycin containing regimen is routinely employed in the treatment of HL. Pulmonary toxicity due to this drug is the most feared side effect in these regimens where the mortality rate is approximately 2%-3%. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31673206",
+          "offsetInBeginSection": 126,
+          "offsetInEndSection": 335
+        }
+      ],
+      "id": "601efda31cb411341a000069",
+      "type": "yesno",
+      "body": "Does bleomycin cause lung toxicity?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32690797"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Long-term safety and tolerability of bimagrumab (BYM338) in sporadic inclusion body myositis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32690797",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 93
+        }
+      ],
+      "id": "602c1b141cb411341a00011c",
+      "type": "factoid",
+      "body": "What is another name for bimagrumab"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31672995"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "STATegra, a comprehensive multi-omics dataset of B-cell differentiation in mouse.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31672995",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 81
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here we present the STATegra multi-omics dataset that combines measurements from up to 10 different omics technologies applied to the same biological system, namely the well-studied mouse pre-B-cell differentiation. STATegra includes high-throughput measurements of chromatin structure, gene expression, proteomics and metabolomics, and it is complemented with single-cell data. To our knowledge, the STATegra collection is the most diverse multi-omics dataset describing a dynamic biological system.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31672995",
+          "offsetInBeginSection": 646,
+          "offsetInEndSection": 1146
+        }
+      ],
+      "id": "6060e30a94d57fd87900004a",
+      "type": "summary",
+      "body": "What is STATegra?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32601915",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30710642",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30766008",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30852344",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30983160"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Baloxavir marboxil (Xofluza®; hereafter referred to as baloxavir), the prodrug of baloxavir acid, is a first-in-class, small molecule inhibitor of the polymerase acidic (PA) protein subunit of the influenza virus polymerase complex.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32601915",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 232
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Xofluza (baloxavir marboxil) for influenza approved in Japan under the SAKIGAKE Designation System is a good example of clinical trials including Japan.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30710642",
+          "offsetInBeginSection": 294,
+          "offsetInEndSection": 446
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Arikayce (amikacin liposome inhalation suspension) for Mycobacterium avium complex lung disease; Xofluza (baloxavir marboxil) for acute uncomplicated influenza; and Nuzyra (omadacycline) for community-acquired bacterial pneumonia and/or acute bacterial skin and skin structure infections.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30766008",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 288
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The latest approved antiviral is baloxavir marboxil (trade name, Xofluza) which targets the endonuclease function of the viral PA polymerase subunit and prevents the transcription of viral mRNA. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30852344",
+          "offsetInBeginSection": 92,
+          "offsetInEndSection": 287
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Baloxavir marboxil (Xofluza®), recently approved for clinical use, inhibits cap-snatching endonuclease.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30983160",
+          "offsetInBeginSection": 439,
+          "offsetInEndSection": 542
+        }
+      ],
+      "id": "6023501a1cb411341a000096",
+      "type": "factoid",
+      "body": "What is the generic name of the Xofluza?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32821457",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23857752",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23917590"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Keutel syndrome (OMIM 245150) is a very rare syndrome ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32821457",
+          "offsetInBeginSection": 88,
+          "offsetInEndSection": 142
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Keutel syndrome is a rare autosomal-recessive condition characterized by abnormal cartilage calcification.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23917590",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 118
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "MGP-deficiency in humans leads to Keutel syndrome, a rare genetic disease hallmarked by abnormal soft tissue calcification. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23857752",
+          "offsetInBeginSection": 93,
+          "offsetInEndSection": 217
+        }
+      ],
+      "id": "6082f4374e6a4cf63000000f",
+      "type": "yesno",
+      "body": "Is Keutel syndrome a common genetic disorder?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31843654",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32371121",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32455086",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32257468"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Invasive infections with Fusobacterium necrophorum including Lemierre\u0027s syndrome: an 8-year Swedish nationwide retrospective study.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31843654",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 131
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Lemierre\u0027s syndrome is defined as an oropharyngeal infection due to Fusobacterium necrophorum,",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32371121",
+          "offsetInBeginSection": 14,
+          "offsetInEndSection": 108
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Lemierre\u0027s syndrome is a rare but life-threatening condition characterized by an oropharyngeal infection typically secondary to Fusobacterium necrophorum resulting in septic thrombophlebitis of the internal jugular vein. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32455086",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 221
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Lemierre\u0027s syndrome is a rare condition that results from oropharyngeal infection with the gram-negative, anaerobic Fusobacterium necrophorum.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32257468",
+          "offsetInBeginSection": 36,
+          "offsetInEndSection": 179
+        }
+      ],
+      "id": "601d724a1cb411341a000035",
+      "type": "yesno",
+      "body": "Is fusobacterium associated with Lemierre\u0027s syndrome?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31758661"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ubrogepant (MK-1602) is a novel, oral, calcitonin gene-related peptide receptor antagonist in clinical development with positive phase III outcomes for acute treatment of migraine. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31758661",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 181
+        }
+      ],
+      "id": "6026d8641cb411341a0000cd",
+      "type": "factoid",
+      "body": "What is the synonym of MK-1602?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34758253"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The U.K. 100,000 Genomes Project is in the process of investigating the role of genome sequencing in patients with undiagnosed rare diseases after usual care and the alignment of this research with health care implementation in the U.K. National Health Service. Other parts of this project focus on patients with cancer and infection.METHODS: We conducted a pilot study involving 4660 participants from 2183 families, among whom 161 disorders covering a broad spectrum of rare diseases were present.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34758253",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 511
+        }
+      ],
+      "id": "61f919cc882a024a10000048",
+      "type": "factoid",
+      "body": "How many families did the 100,000 Genomes Pilot enrol?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34511592",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33332286",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34379916"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": ". On August 26, 2021, the findings from a phase 1 trial on a new monoclonal antibody to PfCSP, CIS43LS, showed that a single dose of the CIS43LS monoclonal antibody resulted in protection against malaria. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34511592",
+          "offsetInBeginSection": 976,
+          "offsetInEndSection": 1181
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Based on these data, CIS43LS has advanced to phase I clinical trials, and AAV delivery provides a potential next-generation approach for malaria prevention.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33332286",
+          "offsetInBeginSection": 1150,
+          "offsetInEndSection": 1306
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "METHODS: We conducted a two-part, phase 1 clinical trial to assess the safety and pharmacokinetics of CIS43LS, an antimalarial monoclonal antibody with an extended half-life, and its efficacy against infection with Plasmodium falciparum. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34379916",
+          "offsetInBeginSection": 104,
+          "offsetInEndSection": 342
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Among adults who had never had malaria infection or vaccination, administration of the long-acting monoclonal antibody CIS43LS prevented malaria after controlled infection.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34379916",
+          "offsetInBeginSection": 1910,
+          "offsetInEndSection": 2095
+        }
+      ],
+      "id": "61f5ffc8882a024a1000001d",
+      "type": "summary",
+      "body": "What is CIS43LS?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33148508",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34196217",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33688765",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33989615",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34056256",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33861845",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34350957"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "PTHrP targets salt-inducible kinases, HDAC4 and HDAC5,",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33148508",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 54
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": ". SIKs (salt-inducible kinases) are a subfamily of the AMP-activated protein kinase family that play a critical role in metabolic diseases including hepatic lipogenesis and glucose metabolism",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34196217",
+          "offsetInBeginSection": 372,
+          "offsetInEndSection": 563
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Salt-inducible kinases (SIKs) represent a subfamily of AMPK family kinases. SIK1 has been shown to act as a mediator during the cellular adaptation to variations in intracellular sodium in a variety of cell types. SIK2, as an isoform of the SIK family, modulates various biological functions and acts as a signal transmitter in various pathways. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33688765",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 346
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Type 1 salt-inducible kinases (SIK1) has been shown to act as a mediator during the cellular adaptation to variations in intracellular sodium in a variety of cell types. Type 2 SIK (SIK2) modulates various biological functions and acts as a signal transmitter in various pathways. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33989615",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 281
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Salt-inducible kinases (SIKs) are calcium/calmodulin-dependent protein kinase (CAMK)-like (CAMKL) family members implicated in insulin signal transduction, metabolic regulation, inflammatory response, and other processes. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34056256",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 222
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The salt-inducible kinases, SIK1, SIK2 and SIK3, most closely resemble the AMP-activated protein kinase (AMPK) and other AMPK-related kinases, and like these family members they require phosphorylation by LKB1 to be catalytically active.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33861845",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 237
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The first is the activation of the salt-inducible kinases (SIKs; SIK2 and SIK3) by Na+ stress",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34350957",
+          "offsetInBeginSection": 313,
+          "offsetInEndSection": 406
+        }
+      ],
+      "id": "621b806c3a8413c653000040",
+      "type": "list",
+      "body": "List the main salt-inducible kinases."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33526437",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34694620",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34694619",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34694621"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mapping the position and quantifying the level of 5-methylcytosine (m5C) as a modification in different types of cellular RNA is an important objective in the field of epitranscriptomics.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34694621",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 187
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "N6-methyladenosine (m6A) is the most abundant internal modification on messenger RNAs (mRNAs) and long noncoding RNAs (lncRNAs) in eukaryotes",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34694619",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 141
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Recent studies have uncovered that cellular mRNAs contain a diverse epitranscriptome comprising chemically modified bases which play important roles in gene expression regulation. Among these is m6A, which is a highly prevalent modification that contributes to several aspects of RNA regulation and cellular function. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34694620",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 318
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Gluten-induced RNA methylation changes regulate intestinal inflammation via allele-specific XPO1 translation in epithelial cells.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33526437",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 129
+        }
+      ],
+      "id": "621fd6083a8413c653000066",
+      "type": "yesno",
+      "body": "Unlike DNA, RNA is not methylated, yes or no?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31349061"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "FISH-positive samples were also analyzed with next-generation sequencing (Oncomine Dx Target Test Panel, Thermo Fisher Scientific).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31349061",
+          "offsetInBeginSection": 861,
+          "offsetInEndSection": 992
+        }
+      ],
+      "id": "606bfeb494d57fd879000074",
+      "type": "factoid",
+      "body": "What methodology does the Oncomine Dx target test use?"
+    }
+  ]
+}

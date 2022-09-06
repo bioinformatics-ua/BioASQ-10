@@ -1,0 +1,3591 @@
+{
+  "questions": [
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33594368"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Disruption of nuclear architecture as a cause of COVID-19 induced anosmia.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33594368",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 74
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here, using molecular evaluation of human olfactory epithelium (OE) from subjects succumbing to COVID-19 and a hamster model of SARS-CoV-2 infection, we discovered widespread downregulation of olfactory receptors (ORs) as well as key components of their signaling pathway. OR downregulation likely represents a non-cell autonomous effect, since SARS-CoV-2 detection in OSNs is extremely rare both in human and hamster OEs. A likely explanation for the reduction of OR transcription is the striking reorganization of nuclear architecture observed in the OSN lineage, which disrupts multi-chromosomal compartments regulating OR expression in humans and hamsters. Our experiments uncover a novel molecular mechanism by which a virus with a very selective tropism can elicit persistent transcriptional changes in cells that evade it, contributing to the severity of COVID-19.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33594368",
+          "offsetInBeginSection": 284,
+          "offsetInEndSection": 1155
+        }
+      ],
+      "id": "620155b6c9dfcb9c09000024",
+      "type": "yesno",
+      "body": "Is covid-19 induced anosmia caused by disruption of nuclear architecture?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34521188",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34532490",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34603452",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34504425",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32943323"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "METHODS: Patients with advanced non-small cell lung cancer who were hospitalized in The Affiliated Cancer Hospital of Nanjing Medical University from October 2018 to August 2019 were selected to receive anti-PD-1 (pembrolizumab, sintilimab or toripalimab) monotherapy or combination regimens. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34521188",
+          "offsetInBeginSection": 490,
+          "offsetInEndSection": 783
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here, we have presented a case of refractory ACC with lung metastases that was reduced after combinatorial treatment using the immune checkpoint inhibitor (ICI) toripalimab and anti-angiogenesis agent anlotinib. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34532490",
+          "offsetInBeginSection": 778,
+          "offsetInEndSection": 990
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Toripalimab is a type of anti-PD-1 monoclonal antibody produced by Junshi Biosciences in China. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34603452",
+          "offsetInBeginSection": 646,
+          "offsetInEndSection": 742
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Case summary: Herein, we described for the first time a case report of SBSR induced by anti-PD-1 therapy in a cervical cancer patient. In addition, we revised existing literature on anti-PD-1 induced cutaneous reactions. We reported a cervical cancer patient who was treated with four successive cycles of Sintilimab and Toripalimab injections and developed systemic rashes, bullae, and epidermal desquamation, which worsened and led to infection, eventually causing death after being unresponsive to aggressive treatments. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34504425",
+          "offsetInBeginSection": 302,
+          "offsetInEndSection": 826
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Successful treatment of advanced pulmonary sarcomatoid carcinoma with the PD-1 inhibitor toripalimab: A case report.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32943323",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 116
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Toripalimab (JS001) is IgG4 monoclonal antibody targeting PD-1, which has been approved for treatment of patients with metastatic melanoma after previous systemic therapy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32943323",
+          "offsetInBeginSection": 399,
+          "offsetInEndSection": 570
+        }
+      ],
+      "id": "61f7d6db882a024a10000037",
+      "type": "summary",
+      "body": "What is the mechanism of action of Toripalimab?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32377534",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28789367",
+        "http://www.ncbi.nlm.nih.gov/pubmed/24091795",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21042709"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Αlpha-Taxilin (α-Taxilin) has been found as one of the novel, significantly up regulated protein in RA",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32377534",
+          "offsetInBeginSection": 770,
+          "offsetInEndSection": 872
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Expression of α-taxilin has been implicated in the development of human glioblastoma, hepatocellular carcinoma and renal cell carcinoma. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28789367",
+          "offsetInBeginSection": 101,
+          "offsetInEndSection": 238
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "α-Taxilin, a binding partner of the syntaxin family, is a candidate tumor marker. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24091795",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 82
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Expression of α-taxilin in hepatocellular carcinoma correlates with growth activity and malignant potential of the tumor.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21042709",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 121
+        }
+      ],
+      "id": "622dd1433a8413c6530000a5",
+      "type": "yesno",
+      "body": "Is taxilin a cancer marker?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10528385",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15260094"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Incidental durotomy can cause postural headaches, nausea, vomiting, dizziness, photophobia, tinnitus, and vertigo. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/10528385",
+          "offsetInBeginSection": 268,
+          "offsetInEndSection": 383
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Despite the frequency of dural tears in spinal surgery, meningitis is a rare complication reported to occur with a frequency of 0.18%.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15260094",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 134
+        }
+      ],
+      "id": "6238a32a3a8413c6530000b9",
+      "type": "list",
+      "body": "What are the symptoms of an incidental durotomy (ID)."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34620745"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In this work, we investigated the role and regulatory mechanism of lncRNA prostate cancer-associated transcript 6 (PCAT6) in breast cancer progression.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34620745",
+          "offsetInBeginSection": 240,
+          "offsetInEndSection": 391
+        }
+      ],
+      "id": "622668313a8413c653000087",
+      "type": "yesno",
+      "body": "Is PCAT6 a microRNA?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34450641"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "HDAC1 is required for GATA-1 transcription activity, global chromatin occupancy and hematopoiesis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34450641",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 98
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "GATA-12RA knock-in (KI) mice suffer mild anemia and thrombocytopenia with accumulation of immature erythrocytes and megakaryocytes in bone marrow and spleen. Single cell RNA-seq analysis of Lin- cKit+ (LK) cells further reveal a profound change in cell subpopulations and signature gene expression patterns in HSC, myeloid progenitors, and erythroid/megakaryocyte clusters in KI mice. Thus, GATA-1 deacetylation and its interaction with HDAC1 modulates GATA-1 chromatin binding and transcriptional activity that control erythroid/megakaryocyte commitment and differentiation.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34450641",
+          "offsetInBeginSection": 764,
+          "offsetInEndSection": 1339
+        }
+      ],
+      "id": "6201a4edc9dfcb9c09000028",
+      "type": "yesno",
+      "body": "Is HDAC1 required for GATA-1 transcriptional activity?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34151243",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34621052",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31931543",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32982112"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Aramchol attenuates NASH in mouse models and decreases steatosis by downregulating the fatty acid synthetic enzyme stearoyl CoA desaturase 1 (SCD1) in hepatocytes. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34151243",
+          "offsetInBeginSection": 190,
+          "offsetInEndSection": 354
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Aramchol, a partial inhibitor of hepatic stearoyl-CoA desaturase (SCD1) improved steatohepatitis and fibrosis in rodents and reduced steatosis in an early clinical trial. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34621052",
+          "offsetInBeginSection": 209,
+          "offsetInEndSection": 380
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Although the primary end point of a reduction in liver fat did not meet the prespecified significance level with Aramchol 600 mg, the observed safety and changes in liver histology and enzymes provide a rationale for SCD1 modulation as a promising therapy for NASH and fibrosis and are being evaluated in an ongoing phase 3 program.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34621052",
+          "offsetInBeginSection": 1633,
+          "offsetInEndSection": 1965
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "A number of phase 3 clinical trials are currently ongoing including Elafibranor, a dual PPAR α/δ agonist, Cenicriviroc, a CCR2/CCR5 chemokine antagonist, the nuclear bile acid receptor FXR agonist obeticholic acid, Aramchol, a fatty acid bile acid conjugate that modulates SCD-1, and Resmetrion, a liver-specific THR-β agonist. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31931543",
+          "offsetInBeginSection": 621,
+          "offsetInEndSection": 949
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: Arachidyl amido cholanoic acid (Aramchol) is a potent downregulator of hepatic stearoyl-CoA desaturase 1 (SCD1) protein expression that reduces liver triglycerides and fibrosis in animal models of steatohepatitis. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32982112",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 226
+        }
+      ],
+      "id": "61f7d683882a024a10000036",
+      "type": "factoid",
+      "body": "Which enzyme is inhibited by Aramchol?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32620751",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32630050",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32643123"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Diamond Blackfan Anemia (DBA) is a congenital bone marrow failure syndrome associated with ribosomal gene mutations that lead to ribosomal insufficiency.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32620751",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 153
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Diamond-Blackfan anemia is an autosomal dominant syndrome, characterized by anemia and a predisposition for malignancies. Ribosomal proteins are responsible for this syndrome, and the incidence of colorectal cancer in patients with this syndrome is higher than the general population.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32643123",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 284
+        }
+      ],
+      "id": "622d17b83a8413c6530000a2",
+      "type": "factoid",
+      "body": "What is the cause of the Diamond Blackfan Anemia?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33021960",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34166611",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34162892",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34148284",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34285374"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "G-quadruplexes (G4s) was demonstrated. G4s are alternative nucleic acid structures, which influence many cellular pathways on a transcriptional and post-transcriptional level.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33021960",
+          "offsetInBeginSection": 189,
+          "offsetInEndSection": 364
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Guanine quadruplexes (G4s) are non-canonical nucleic acid structures commonly found in regulatory genomic regions.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34166611",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 114
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "DNA G-quadruplex (G4)-folded regions in cells were reported to be associated with either increased or decreased transcriptional activity. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34162892",
+          "offsetInBeginSection": 155,
+          "offsetInEndSection": 293
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "G-Quadruplex, a unique secondary structure in nucleic acids found throughout human genome, elicited widespread interest in the field of therapeutic research. Being present in key regulatory regions of oncogenes, RNAs and telomere, G-Quadruplex structure regulates transcription, translation, splicing, etc.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34148284",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 306
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "G-quadruplexes (G4s) are higher-order structures formed by guanine-rich sequences of nucleic acids, such as the telomeric 5\u0027-TTAGGG-3\u0027/5\u0027-UUAGGG-3\u0027 repeats and those in gene regulatory regions. G4s regulate various biological events, including replication, transcription, and translation. Imbalanced G4 dynamics is associated with diseases, such as cancer and neurodegenerative diseases.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34285374",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 387
+        }
+      ],
+      "id": "6220ce4c3a8413c653000068",
+      "type": "list",
+      "body": "What are the functions of DNA and RNA G-quadruplexes?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30738695"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Epiregulin (EREG) is a novel family member of EGF-like ligands and have elevated expression in a variety of human cancers. EREG expression promotes tumor progression and metastasis and reduces patient survival. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30738695",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 211
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We found that EREG expression was significantly higher in GC tissues than in matched adjacent noncancerous tissues. High EREG protein expression in GC was significantly associated with TNM stage including tumor size, lymph node metastases and distant metastases as well as poor overall survival. These finding demonstrate that EREG is an independent prognostic biomarker for GC.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30738695",
+          "offsetInBeginSection": 625,
+          "offsetInEndSection": 1003
+        }
+      ],
+      "id": "6237aa3c3a8413c6530000b5",
+      "type": "summary",
+      "body": "What is the effect of epiregulin expression in tumors?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34512734",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34864884"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "SCDRHA: A scRNA-Seq Data Dimensionality Reduction Algorithm Based on Hierarchical Autoencoder.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34512734",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 94
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "To address this issue, in this paper, we propose a scRNA-seq data dimensionality reduction algorithm based on a hierarchical autoencoder, termed SCDRHA. The proposed SCDRHA consists of two core modules, where the first module is a deep count autoencoder (DCA) that is used to denoise data, and the second module is a graph autoencoder that projects the data into a low-dimensional space. Experimental results demonstrate that SCDRHA has better performance than existing state-of-the-art algorithms on dimension reduction and noise reduction in five real scRNA-seq datasets. Besides, SCDRHA can also dramatically improve the performance of data visualization and cell clustering.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34512734",
+          "offsetInBeginSection": 244,
+          "offsetInEndSection": 922
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "CellVGAE: an unsupervised scRNA-seq analysis workflow with graph attention networks.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34864884",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 84
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "With the help of several case studies, we show that our model, named CellVGAE, can be effectively used for exploratory analysis even on challenging datasets, by extracting meaningful features from the data and providing the means to visualise and interpret different aspects of the model.RESULTS: We show that CellVGAE is more interpretable than existing scRNA-seq variational architectures by analysing the graph attention coefficients.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34864884",
+          "offsetInBeginSection": 497,
+          "offsetInEndSection": 934
+        }
+      ],
+      "id": "621e5cf53a8413c65300004e",
+      "type": "list",
+      "body": "Name scRNA-seq workflows which harness graph attention networks"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33689480",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33777941",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34042314",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33806595",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34750553",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31494233"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These inhibitors include four Syk inhibitors, Bay 61-3606, R406 (fostamatinib), entospletinib, TAK-659; four irreversible BTK inhibitors, ibrutinib, acalabrutinib, ONO-4059 (tirabrutinib), AVL-292 (spebrutinib); and four reversible BTK inhibitors, CG-806, BMS-935177, BMS-986195, and fenebrutinib. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33689480",
+          "offsetInBeginSection": 600,
+          "offsetInEndSection": 898
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "However, an increasing number of trials instead addresses autoimmunity and inflammation in multiple sclerosis, rheumatoid arthritis, pemphigus and systemic lupus erythematosus with the use of either irreversibly binding inhibitors, e.g., evobrutinib and tolebrutinib, or reversibly binding inhibitors, like fenebrutinib. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33777941",
+          "offsetInBeginSection": 782,
+          "offsetInEndSection": 1103
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "OBJECTIVE: Fenebrutinib (GDC-0853) is a noncovalent, oral, and highly selective inhibitor of Bruton\u0027s tyrosine kinase (BTK).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34042314",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 124
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In contrast, no bleeding has been reported in clinical trials of other BTKi. These include the brain-penetrant irreversible tolebrutinib and evobrutinib (against multiple sclerosis), the irreversible branebrutinib, the reversible BMS-986142 and fenebrutinib (targeting rheumatoid arthritis and lupus erythematodes), and the reversible covalent rilzabrutinib (against pemphigus and immune thrombocytopenia).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33806595",
+          "offsetInBeginSection": 607,
+          "offsetInEndSection": 1013
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Bruton\u0027s tyrosine kinase (BTK) is crucial for FcεRI-mediated mast cell activation and essential for autoantibody production by B cells in chronic spontaneous urticaria (CSU). Fenebrutinib, an orally administered, potent, highly selective, reversible BTK inhibitor, may be effective in CSU. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34750553",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 290
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "New therapeutics under investigation include IgG1 anti-IgE monoclonal antibodies (ligelizumab), chemoattractant rector-homologous molecule expressed on TH2 cells antagonists (AZD1981), Bruton tyrosine kinase inhibitors (fenebrutinib), anti-siglec-8 monoclonal antibody (AK002), and topical spleen tyrosine kinase inhibitors (GSK2646264). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31494233",
+          "offsetInBeginSection": 973,
+          "offsetInEndSection": 1311
+        }
+      ],
+      "id": "61f7d5a0882a024a10000035",
+      "type": "factoid",
+      "body": "Which molecule is targeted by Fenebrutinib?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34553266",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34489457",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34572892",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34588172"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Cereblon (CRBN) is a substrate recognition protein in the E3-ligase ubiquitin complex. The binding target of CRBN varies according to tissues and cells, and the protein regulates various biological functions by regulating tissue-specific targets. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34553266",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 247
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "The E3 ubiquitin ligase component, Cereblon, is an evolutionarily conserved regulator of Wnt signaling.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34489457",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 103
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "the cereblon (CRBN) protein was discovered as a direct target of IMiDs.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34572892",
+          "offsetInBeginSection": 591,
+          "offsetInEndSection": 662
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Rapid Progress in the Use of Immunomodulatory Drugs and Cereblon E3 Ligase Modulators in the Treatment of Multiple Myeloma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34572892",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 123
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "cereblon, a substrate receptor of the cullin-4 RING E3 ligase",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34588172",
+          "offsetInBeginSection": 1001,
+          "offsetInEndSection": 1062
+        }
+      ],
+      "id": "622d04da3a8413c65300009f",
+      "type": "summary",
+      "body": "What is Cereblon?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17503572",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30624377",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29320211",
+        "http://www.ncbi.nlm.nih.gov/pubmed/8861162",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11320737",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16060187"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The authors report on their experience with the management of multiple trauma, through the study of 617 clinical cases. Patients were evaluated with the Revised Trauma Score (RTS), Injury Severity Score (ISS) and Abbreviated Injury Scale (AIS).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16060187",
+          "offsetInBeginSection": 366,
+          "offsetInEndSection": 610
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Various trauma scoring systems were developed in order to assess injury severity and aid in decision making regarding further therapy and probable outcome.ANATOMIC INJURY SEVERITY SCALES: AIS--Abbreviated Injury Scale is a summary of all the values (from 1-9) for each organ or body part that is injured.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11320737",
+          "offsetInBeginSection": 14,
+          "offsetInEndSection": 318
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "One of the more often used measures of multiple injuries is the injury severity score (ISS). Determination of the ISS is based on the abbreviated injury scale (AIS). T",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8861162",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 167
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mortality and morbidity of patients with chest injury depend on the actual combination of multiple body systems injury. The severity of total injury can be predicted using objective scoring systems (Abbreviated Injury Scale\u003dAIS; Injury Severity Score\u003dISS). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29320211",
+          "offsetInBeginSection": 762,
+          "offsetInEndSection": 1019
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The injury and trauma severity was measured using the Abbreviated Injury Scale (AIS) and the Injury Severity Score (ISS), respectively. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30624377",
+          "offsetInBeginSection": 495,
+          "offsetInEndSection": 631
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "There is no specific injury among fatally injured frontal car-occupants in frontal car collisions, used in forensic expertise. We tried to point out the usefulness of the Abbreviated Injury Scale (AIS) and Injury Severity Score (ISS) for the expertise in such cases.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17503572",
+          "offsetInBeginSection": 14,
+          "offsetInEndSection": 280
+        }
+      ],
+      "id": "623648513a8413c6530000ae",
+      "type": "summary",
+      "body": "What is Abbreviated Injury Scale (AIS) used to determine?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32700456"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "EREG (epiregulin), a member of the epidermal growth factor (EGF) family, plays a role in inflammation, wound healing, normal physiology and malignancies. However, little is known about its function on hair growth.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32700456",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 225
+        }
+      ],
+      "id": "6237a8343a8413c6530000b2",
+      "type": "factoid",
+      "body": "Which protein family is epiregulin a member of?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34078885"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Using the Cap Analysis of Gene Expression (CAGE) technology, the FANTOM5 consortium provided one of the most comprehensive maps of transcription start sites (TSSs) in several species. Strikingly, ~72% of them could not be assigned to a specific gene and initiate at unconventional regions, outside promoters or enhancers. Here, we probe these unassigned TSSs and show that, in all species studied, a significant fraction of CAGE peaks initiate at microsatellites, also called short tandem repeats (STRs). To confirm this transcription, we develop Cap Trap RNA-seq, a technology which combines cap trapping and long read MinION sequencing. We train sequence-based deep learning models able to predict CAGE signal at STRs with high accuracy. These models unveil the importance of STR surrounding sequences not only to distinguish STR classes, but also to predict the level of transcription initiation. Importantly, genetic variants linked to human diseases are preferentially found at STRs with high transcription initiation level, supporting the biological and clinical relevance of transcription initiation at STRs. Together, our results extend the repertoire of non-coding transcription associated with DNA tandem repeats and complexify STR polymorphism.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34078885",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 1255
+        }
+      ],
+      "id": "6202fa3cc9dfcb9c0900002c",
+      "type": "summary",
+      "body": "Describe Cap Trap RNA-seq"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34548412",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32965634",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34108196",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33987067",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32348267",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32373348",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32805098"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "PURPOSE: Although, Canadian C-spine rule and the National Emergency X-Radiography Utilization Study (NEXUS) criteria in ruling out clinically important cervical spine injuries have been validated using large prospective studies, no consensus exist as to which rule should be endorsed.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32965634",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 284
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "OBJECTIVE: The Canadian C-Spine Rule (CCR) and the National Emergency X-Radiography Utilization Study (NEXUS) criteria are two commonly used clinical decision rules which use midline cervical spine (c-spine) tenderness on palpation as an indication for c-spine imaging post-trauma. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34548412",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 282
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: A consistent approach to cervical spine injury (CSI) clearance for patients 65 and older remains a challenge. Clinical clearance algorithms like the National Emergency X-Radiography Utilisation Study (NEXUS) criteria have variable accuracy and the Canadian C-spine rule excludes older patients. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34108196",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 307
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": ". Clinical decision rules such as the Canadian C-Spine Rule are frequently used to risk-stratify patients needing radiography. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33987067",
+          "offsetInBeginSection": 725,
+          "offsetInEndSection": 852
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Pragmatic Strategy Empowering Paramedics to Assess Low-Risk Trauma Patients With the Canadian C-Spine Rule and Selectively Transport Them Without Immobilization: Protocol for a Stepped-Wedge Cluster Randomized Trial.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32348267",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 216
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The high sensitivity of the Canadian C-spine Rule (CCR) prevents missing C-spine injuries while limiting the amount of unnecessary radiologic examinations.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32373348",
+          "offsetInBeginSection": 1174,
+          "offsetInEndSection": 1329
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The Canadian C-spine rule clinically clears cervical spine fracture without imaging.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32805098",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 84
+        }
+      ],
+      "id": "6200879ac9dfcb9c09000021",
+      "type": "summary",
+      "body": "What is the use of the Canadian C-Spine Rule?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11731451",
+        "http://www.ncbi.nlm.nih.gov/pubmed/8149916",
+        "http://www.ncbi.nlm.nih.gov/pubmed/8217842"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "As the only class I helix-loop-helix transcription factor in Drosophila, Daughterless (Da) has generally been regarded as a ubiquitously expressed binding partner for other developmentally regulated bHLH transcription factors. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11731451",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 227
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The daughterless (da) gene in Drosophila encodes a broadly expressed transcriptional regulator whose specific functions in the control of sex determination and neurogenesis have been extensively examined. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8149916",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 205
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The daughterless (da) gene in Drosophila functions in the regulation of at least three significant developmental pathways: sex determination, neurogenesis and oogenesis. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8217842",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 170
+        }
+      ],
+      "id": "622d1ed13a8413c6530000a3",
+      "type": "factoid",
+      "body": "What is the Daughterless gene?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11878947",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12917635",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15283144"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Telomestatin is a natural product isolated from Streptomyces anulatus 3533-SV4 and has been shown to be a very potent telomerase inhibitor.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11878947",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 139
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Telomestatin, a potent telomerase inhibitor that interacts quite specifically with the human telomeric intramolecular g-quadruplex.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11878947",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 131
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Activity of a novel G-quadruplex-interactive telomerase inhibitor, telomestatin (SOT-095), ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12917635",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 91
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " G-quadruplex-interactive telomerase inhibitor, telomestatin (SOT-095),",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12917635",
+          "offsetInBeginSection": 149,
+          "offsetInEndSection": 220
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " We found that treatment with telomestatin reproducibly inhibited telomerase activity in the BCR-ABL-positive leukemic cell lines",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12917635",
+          "offsetInBeginSection": 380,
+          "offsetInEndSection": 509
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "A novel telomerase inhibitor, telomestatin, isolated from Streptomyces anulatus is the most potent telomerase inhibitor so far.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15283144",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 127
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Telomerase inhibitor, telomestatin, a specific mechanism to interact with telomere structure",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15283144",
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 93
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Telomestatin specifically inhibited telomerase without affecting reverse transcriptases and polymerases.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15283144",
+          "offsetInBeginSection": 128,
+          "offsetInEndSection": 232
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In addition, telomestatin induced telomere shortening, but its ratio was extremely faster than that observed in physiological telomere shortening.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15283144",
+          "offsetInBeginSection": 233,
+          "offsetInEndSection": 379
+        }
+      ],
+      "id": "623a24d6f0baec9a1b000002",
+      "type": "yesno",
+      "body": "Is telomestatin, a novel statin drug used to treat high cholesterol?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34893673"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Amphiregulin (AREG) is an epidermal growth factor receptor (EGFR) ligand.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34893673",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 73
+        }
+      ],
+      "id": "6237a8a33a8413c6530000b3",
+      "type": "factoid",
+      "body": "What is amphiregulin a ligand of?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34741163"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We conducted a genome-wide association study with 53,400 cases and 433,201 controls and replicated significant associations in a 23andMe panel (205,252 cases and 1,384,055 controls). Our study identified and confirmed six genetic susceptibility loci for IBS. Implicated genes included NCAM1, CADM2, PHF2/FAM120A, DOCK9, CKAP2/TPTE2P3 and BAG6. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34741163",
+          "offsetInBeginSection": 299,
+          "offsetInEndSection": 643
+        }
+      ],
+      "id": "6206743ac9dfcb9c09000037",
+      "type": "list",
+      "body": "Which genetic susceptibility loci are implicated in irritable bowel syndrome (IBS)?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34560365",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34538679",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34548920"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "AstraZeneca COVID-19 vaccine and Guillain- Barré Syndrome in Tasmania: A causal link?",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34560365",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 85
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Nearly all reported cases of post-COVID-19 vacciation inflammatory demyelinating polyneuropathy are linked to AstraZeneca vaccination and a variant with bifacial weakness is the most reported form of GBS globally.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34560365",
+          "offsetInBeginSection": 518,
+          "offsetInEndSection": 731
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Guillain-Barré Syndrome Presenting as Facial Diplegia after COVID-19 Vaccination: A Case Report.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34538679",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 96
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CASE REPORT: We report a case of atypical GBS occurring after Coronavirus disease 2019 (COVID-19) vaccination in an otherwise healthy 38-year-old man.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34538679",
+          "offsetInBeginSection": 489,
+          "offsetInEndSection": 639
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "It is critical for emergency physicians to be aware of the manifold presentations of GBS for early recognition and treatment. This may be of particular importance in the context of a worldwide vaccination campaign in response to the COVID-19 pandemic.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34538679",
+          "offsetInBeginSection": 1238,
+          "offsetInEndSection": 1489
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Guillain-Barré syndrome following ChAdOx1 nCoV-19 COVID-19 vaccination: A case series.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34548920",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 86
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We report three patients who developed Guillain-Barré syndrome following ChAdOx1 nCoV-19 vaccination, who did not have active or prior COVID-19 infection. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34548920",
+          "offsetInBeginSection": 171,
+          "offsetInEndSection": 326
+        }
+      ],
+      "id": "61f7d4da882a024a10000033",
+      "type": "yesno",
+      "body": "Is there an association between Guillain–Barré syndrome and covid vaccine?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34495528",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33360823",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34472223",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32733014"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Subsequently, the N-glycosylated nascent proteins enter the folding step, in which N-glycans contribute largely to attaining the correct protein fold by recruiting the lectin-like chaperones, calnexin, and calreticulin. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34495528",
+          "offsetInBeginSection": 718,
+          "offsetInEndSection": 938
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The lectin chaperones calnexin (CNX) and calreticulin (CRT) localized in the endoplasmic reticulum play important roles in glycoprotein quality control. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33360823",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 153
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Calreticulin (CRT), an endoplasmic reticulum-resident protein generally overexpressed in cancer cells, is associated with radiation resistance.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34472223",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 155
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Calreticulin (CALR) is an endoplasmic reticulum (ER)-resident protein involved in a spectrum of cellular processes. In healthy cells, CALR operates as a chaperone and Ca2+ buffer to assist correct protein folding within the ER.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32733014",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 227
+        }
+      ],
+      "id": "623dfd2ef0baec9a1b000004",
+      "type": "factoid",
+      "body": "What is the function of the protein calreticulin?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32623537",
+        "http://www.ncbi.nlm.nih.gov/pubmed/2645074"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Atlanto-axial instability (AAI) is common in the connective tissue disorders, such as rheumatoid arthritis, and increasingly recognized in the heritable disorders of Stickler, Loeys-Dietz, Marfan, Morquio, and Ehlers-Danlos (EDS) syndromes, where it typically presents as a rotary subluxation due to incompetence of the alar ligament.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32623537",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 334
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Grisel\u0027s syndrome is a unilateral or bilateral subluxation of C1 on C2, associated with an infectious condition in the head or neck.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/2645074",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 132
+        }
+      ],
+      "id": "6235f0e93a8413c6530000ad",
+      "type": "list",
+      "body": "Atlanto-axial rotary instability (Fielding type 1) is common to what diseases?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30400011"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Epiregulin induces leptin secretion and energy expenditure in high-fat diet-fed mice.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30400011",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 85
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " EREG increased leptin production and secretion in a dose-dependent manner in iAb fat explants via the EGFR/MAPK pathway. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30400011",
+          "offsetInBeginSection": 723,
+          "offsetInEndSection": 845
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Our data revealed a new role of EREG in induction of leptin secretion leading to the energy expenditure state. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30400011",
+          "offsetInBeginSection": 1522,
+          "offsetInEndSection": 1633
+        }
+      ],
+      "id": "6237ab873a8413c6530000b6",
+      "type": "factoid",
+      "body": "What is the effect of epiregulin on leptin secretion?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34850907"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "JASPAR 2022: the 9th release of the open-access database of transcription factor binding profiles.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34850907",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 98
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "JASPAR (http://jaspar.genereg.net/) is an open-access database containing manually curated, non-redundant transcription factor (TF) binding profiles for TFs across six taxonomic groups. In this 9th release, we expanded the CORE collection with 341 new profiles (148 for plants, 101 for vertebrates, 85 for urochordates, and 7 for insects), which corresponds to a 19% expansion over the previous release. We added 298 new profiles to the Unvalidated collection when no orthogonal evidence was found in the literature. All the profiles were clustered to provide familial binding profiles for each taxonomic group. Moreover, we revised the structural classification of DNA binding domains to consider plant-specific TFs. This release introduces word clouds to represent the scientific knowledge associated with each TF. We updated the genome tracks of TFBSs predicted with JASPAR profiles in eight organisms; the human and mouse TFBS predictions can be visualized as native tracks in the UCSC Genome Browser. Finally, we provide a new tool to perform JASPAR TFBS enrichment analysis in user-provided genomic regions. All the data is accessible through the JASPAR website, its associated RESTful API, the R/Bioconductor data package, and a new Python package, pyJASPAR, that facilitates serverless access to the data.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34850907",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 1313
+        }
+      ],
+      "id": "6202f600c9dfcb9c0900002b",
+      "type": "factoid",
+      "body": "Which JASPAR release is JASPAR 2022?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31940698",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34030616"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: High-dose erythropoietin has been shown to have a neuroprotective effect in preclinical models of neonatal brain injury, and phase 2 trials have suggested possible efficacy; however, the benefits and safety of this therapy in extremely preterm infants have not been established.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31940698",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 290
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "There was no significant difference between the erythropoietin group and the placebo group in the incidence of death or severe neurodevelopmental impairment at 2 years of age (97 children [26%] vs. 94 children [26%]; relative risk, 1.03; 95% confidence interval, 0.81 to 1.32; P \u003d 0.80). There were no significant differences between the groups in the rates of retinopathy of prematurity, intracranial hemorrhage, sepsis, necrotizing enterocolitis, bronchopulmonary dysplasia, or death or in the frequency of serious adverse events.CONCLUSIONS: High-dose erythropoietin treatment administered to extremely preterm infants from 24 hours after birth through 32 weeks of postmenstrual age did not result in a lower risk of severe neurodevelopmental impairment or death at 2 years of age.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31940698",
+          "offsetInBeginSection": 1448,
+          "offsetInEndSection": 2232
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Based on existing evidence, it is still too early to recommend Epo as the standard treatment for preterm brain injury.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34030616",
+          "offsetInBeginSection": 936,
+          "offsetInEndSection": 1054
+        }
+      ],
+      "id": "61fa904fc9dfcb9c09000004",
+      "type": "yesno",
+      "body": "Is Erythropoietin effective for neuroprotection of Preterm Infants."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34551432",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33348378",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33183910",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34189469"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "we explored the role of Spartan (SPRTN), a metalloprotease associated with DNA replication, which removes proteins forming DPCs.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34551432",
+          "offsetInBeginSection": 384,
+          "offsetInEndSection": 512
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Repair of covalent DNA-protein crosslinks (DPCs) by the metalloprotease SPRTN prevents genome instability, premature aging and carcinogenesis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33348378",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 142
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The protease SPRTN emerged as the essential enzyme for DNA-protein crosslink proteolysis repair",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33183910",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 95
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Covalent DNA-protein crosslinks (DPCs) have emerged as pervasive sources of genome instability. DPCs are targeted for repair by DNA-dependent proteases of the Wss1/SPRTN family.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34189469",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 177
+        }
+      ],
+      "id": "622deabc3a8413c6530000a6",
+      "type": "factoid",
+      "body": "What is the SPRTN protein function?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33261250",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23101243",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22764663",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22996855"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "the right pedicle of L4, moved inside the vertebral canal (bridging the cauda equina) stopping just in front of the body of S2. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33261250",
+          "offsetInBeginSection": 218,
+          "offsetInEndSection": 346
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Thermoesthesia-and-algesthesia status in the dermatomes of cauda equina roots in patients with lumbar spine osteochondrosis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23101243",
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 124
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Thermoesthesia-and-algesthesia disorders have been registered in the dermatomes of cauda equina roots of patients with lumbar spine osteochondrosis in all the cases. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23101243",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 166
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Magnetic resonance images of the lumbar spine showed an intradural cystic lesion displacing and compressing the lower cord and cauda equina.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22764663",
+          "offsetInBeginSection": 581,
+          "offsetInEndSection": 722
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Cauda equina syndrome is a well described state of neurologic compromise due to lumbosacral root compression.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22996855",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 109
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Acute cauda equina syndrome secondary to a lumbar synovial cyst",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22996855",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 63
+        }
+      ],
+      "id": "6238a0033a8413c6530000b8",
+      "type": "factoid",
+      "body": "What part of the body is associated with Cauda equina"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32589708"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Runt-related transcription factor 1 (RUNX1T1) isoforms are involved in adipogenesis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32589708",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 96
+        }
+      ],
+      "id": "62265b4a3a8413c653000083",
+      "type": "factoid",
+      "body": "What does RUNX1T1 stand for?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34864868"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In this work, we introduce a new R package InteractiveComplexHeatmap that brings interactivity to the widely used ComplexHeatmap package. InteractiveComplexHeatmap is designed with an easy-to-use interface where static complex heatmaps can be directly exported to an interactive Shiny web application only with one additional line of code. InteractiveComplexHeatmap also provides flexible functionalities for integrating interactive heatmap widgets to build more complex and customized Shiny web applications.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34864868",
+          "offsetInBeginSection": 134,
+          "offsetInEndSection": 643
+        }
+      ],
+      "id": "621e5dcf3a8413c65300004f",
+      "type": "summary",
+      "body": "Describe InteractiveComplexHeatmap"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/29740743",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33817641"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "PURPOSE/OBJECTIVE(S): Brain metastasis velocity (BMV) is a metric that describes the rate of development of new brain metastases (BM) after initial stereotactic radiosurgery (SRS). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29740743",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 181
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Background: Brain metastasis velocity (BMV) predicts outcomes after initial distant brain failure (DBF) following upfront stereotactic radiosurgery (SRS). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33817641",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 155
+        }
+      ],
+      "id": "620086aac9dfcb9c09000020",
+      "type": "summary",
+      "body": "What is the use of Brain Metastasis Velocity (BMV) Model?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34500336",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34485872",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33357449",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33508854"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Cell competition involves a conserved fitness-sensing process during which fitter cells eliminate neighbouring less-fit but viable cells1. Cell competition has been proposed as a surveillance mechanism to ensure normal development and tissue homeostasis, and has also been suggested to act as a barrier to interspecies chimerism2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33508854",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 329
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Cell competition is a social cellular phenomenon in which unfit cells are selectively eliminated to maintain tissue homeostasis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33357449",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 127
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "At the initial stage of carcinogenesis, cell competition often occurs between newly emerging transformed cells and the neighboring normal cells, leading to the elimination of transformed cells from the epithelial layer. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34485872",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 220
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Cell competition represents one of the operating arms of such quality control mechanisms and relies on fitness comparison among individual cells. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34500336",
+          "offsetInBeginSection": 209,
+          "offsetInEndSection": 355
+        }
+      ],
+      "id": "622df6663a8413c6530000a7",
+      "type": "summary",
+      "body": "What is \"cell competition\"?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32633023",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28030433",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28027062"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Imminent death donation (IDD) is described as living organ donation prior to a planned withdrawal of life-sustaining care in an imminently dying patient",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32633023",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 152
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Imminent death donation (IDD) is a proposal to procure organs from patients prior to the withdrawal of life support, which is anticipated to lead to death",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28030433",
+          "offsetInBeginSection": 19,
+          "offsetInEndSection": 173
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Imminent death donation (IDD) has been proposed as a separate category of organ donation: distinct from living donation and donation after cardiac death",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28027062",
+          "offsetInBeginSection": 206,
+          "offsetInEndSection": 358
+        }
+      ],
+      "id": "623648723a8413c6530000af",
+      "type": "summary",
+      "body": "What is IDD in relation to organ transplantation?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34535671"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here we report decreased expression of the m6A \"writer\" METTL3 in tumor-infiltrating NK cells, and a positive correlation between protein expression levels of METTL3 and effector molecules in NK cells.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34535671",
+          "offsetInBeginSection": 200,
+          "offsetInEndSection": 401
+        }
+      ],
+      "id": "62265c953a8413c653000084",
+      "type": "factoid",
+      "body": "Is METTL3 an m6A writer, reader or eraser?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/28905911"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The 4D Nucleome Network aims to develop and apply approaches to map the structure and dynamics of the human and mouse genomes in space and time with the goal of gaining deeper mechanistic insights into how the nucleus is organized and functions. The project will develop and benchmark experimental and computational approaches for measuring genome conformation and nuclear organization, and investigate how these contribute to gene regulation and other genome functions. Validated experimental technologies will be combined with biophysical approaches to generate quantitative models of spatial genome organization in different biological states, both in cell populations and in single cells.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28905911",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 692
+        }
+      ],
+      "id": "6201a06fc9dfcb9c09000026",
+      "type": "summary",
+      "body": "What is the 4D nucleome project?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30342297"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "METHODS: TIPS-3 is a 2x2x2 factorial randomized controlled trial that will examine the effect of a FDC polypill on major CV outcomes in a primary prevention population. This study aims to determine whether the Polycap (comprised of atenolol, ramipril, hydrochlorothiazide, and a statin) reduces CV events in persons without a history of CVD, but who are at least at intermediate CVD risk. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30342297",
+          "offsetInBeginSection": 467,
+          "offsetInEndSection": 856
+        }
+      ],
+      "id": "61f7d017882a024a1000002f",
+      "type": "list",
+      "body": "Which drugs were included in the polypill that was tested in TIPS-3 trial?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33336218",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34198582",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34155411"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Gantenerumab significantly reduced amyloid plaques, cerebrospinal fluid total tau, and phospho-tau181 and attenuated increases of neurofilament light chain. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34155411",
+          "offsetInBeginSection": 1026,
+          "offsetInEndSection": 1183
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The late-stage agents with positive clinical or biomarker data include four antibodies that engage Aβ oligomers (aducanumab, lecanemab, gantenerumab, and donanemab) and ALZ-801, an oral agent that fully blocks the formation of Aβ oligomers at the clinical dose.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34198582",
+          "offsetInBeginSection": 1066,
+          "offsetInEndSection": 1327
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Reduction in Amyloid Burden with Subcutaneous Gantenerumab.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33336218",
+          "offsetInBeginSection": 77,
+          "offsetInEndSection": 136
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These results demonstrate that prolonged gantenerumab treatment, at doses up to 1200 mg, reduces amyloid plaque levels below the amyloid positivity threshold. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33336218",
+          "offsetInBeginSection": 770,
+          "offsetInEndSection": 929
+        }
+      ],
+      "id": "622dfb133a8413c6530000a8",
+      "type": "factoid",
+      "body": "What is the drug  gantenerumab targeting?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32659412",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34510060",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34599642",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34594553",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34511355",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32484411"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ameloblastoma is a benign odontogenic tumor which undergoes malignant transformation to ameloblastic carcinoma. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32659412",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 112
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ameloblastomas are benign tumors that most commonly affecting the mandible. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34510060",
+          "offsetInBeginSection": 10,
+          "offsetInEndSection": 86
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ameloblastoma is a neoplasm arising in the craniofacial skeleton.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34599642",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 65
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ameloblastoma is an invasive odontogenic tumor, and for reconstruction, i",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34594553",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 73
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ameloblastoma is a locally aggressive, benign epithelial odontogenic neoplasm currently classified to include conventional, unicystic, and extraosseous/peripheral subtypes. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34511355",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 173
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ameloblastoma (AM) is a slow growing and aggressive benign tumor with an odontogenic epithelial origin arising from the mandible or maxilla.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32484411",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 140
+        }
+      ],
+      "id": "6226317a3a8413c653000080",
+      "type": "yesno",
+      "body": "Is Ameloblastoma (AB) a common benign tumor occurring in the brain?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34515345"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here, we summarize the current state of m6 A methylation researches, focusing on how these modifications modulate the fate decisions of innate and adaptive immune cells and regulate immune responses in immune-associated diseases, including viral infections and cancer. These studies showed that m6 A modifications and m6 A modifying proteins play a critical role in pathogen recognition, immune cell activation, immune cell fate decisions, and immune reactions. m6 A is a novel regulator of immune system homeostasis and activation.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34515345",
+          "offsetInBeginSection": 400,
+          "offsetInEndSection": 932
+        }
+      ],
+      "id": "622664fa3a8413c653000086",
+      "type": "list",
+      "body": "In which aspects of the immune response is m6A methylation implicated?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34788790"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "nextNEOpi: a comprehensive pipeline for computational neoantigen prediction.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34788790",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 76
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here, we present nextNEOpi, a comprehensive and fully-automated bioinformatic pipeline to predict tumor neoantigens from raw DNA and RNA sequencing data. In addition, nextNEOpi quantifies neoepitope- and patient-specific features associated with tumor immunogenicity and response to immunotherapy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34788790",
+          "offsetInBeginSection": 451,
+          "offsetInEndSection": 748
+        }
+      ],
+      "id": "621e991a3a8413c653000052",
+      "type": "summary",
+      "body": "Describe nextNEOpi"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33550837",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29274754",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29030869",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28363682",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29560065"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Many parameters included in the Anticoagulation and Risk Factors in Atrial Fibrillation (ATRIA) and CHA2DS2-VASc (congestive heart failure, hypertension, age ≥75 years, diabetes mellitus, stroke, vascular disease, age 65-74 years, sex category) scores also predict coronary artery disease (CAD). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33550837",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 296
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "The HAS-BLED, ATRIA, and ORBIT Bleeding Scores in Atrial Fibrillation Patients Using Non-Vitamin K Antagonist Oral Anticoagulants.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29274754",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 130
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "METHODS: Using the Danish registries, we evaluated and compared the risk classification properties of the Hypertension, Age, Stroke, Bleeding tendency/predisposition, Labile international normalized ratios, Elderly age/frailty, Drugs such as concomitant aspirin/nonsteroidal anti-inflammatory drugs or alcohol excess (HAS-BLED), Anticoagulation and Risk Factors in Atrial Fibrillation (ATRIA), and Outcomes Registry for Better Informed Treatment of Atrial Fibrillation (ORBIT) scores for predicting major bleeding in 57,930 atrial fibrillation patients (44.6% female; mean age 73.5 years, standard deviation 11.4 years; mean CHA2DS2-VASc score 3.2, standard deviation 1.8).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29274754",
+          "offsetInBeginSection": 259,
+          "offsetInEndSection": 932
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "All the BRSs show a satisfactory calibration for major and CRB events. Among these BRSs, only HEMORR2 HAGES (C-statistic \u003d 0.71, 95% CI 0.60-0.82, P \u003c .001) and ATRIA score (C-statistic \u003d 0.70, 95% CI 0.58-0.82, P \u003c .001) show acceptable discrimination performance for major bleeding events. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29030869",
+          "offsetInBeginSection": 1608,
+          "offsetInEndSection": 1900
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Patients were then sorted into two groups at non-low and low risk of bleeding, as defined by an ATRIA score \u003e3 and ≤3 respectively, and compared regarding major adverse cardiac and vascular events (MACVE) and bleeding.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28363682",
+          "offsetInBeginSection": 705,
+          "offsetInEndSection": 923
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Methods: This prospective study included non-anticoagulated adults at high risk for ischemic stroke (ATRIA score ≥7) who received emergency AF/FL care and were discharged home from seven community EDs between May 2011 and August 2012. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29560065",
+          "offsetInBeginSection": 309,
+          "offsetInEndSection": 544
+        }
+      ],
+      "id": "62008577c9dfcb9c0900001f",
+      "type": "summary",
+      "body": "What is the use of the ATRIA score?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34532642",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33468562"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "HER2-targeting agents such as Herceptin®, Kadcyla® and ENHERTU® have been approved by the FDA for the treatment of breast cancer,",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34532642",
+          "offsetInBeginSection": 218,
+          "offsetInEndSection": 347
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Herceptin toward ErbB2-positive breast cancer cells",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33468562",
+          "offsetInBeginSection": 799,
+          "offsetInEndSection": 851
+        }
+      ],
+      "id": "622b99f73a8413c653000093",
+      "type": "factoid",
+      "body": "Which protein is targeted by Herceptin?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32312535",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32648194",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32524528",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33273410"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "A total of 157 ancillary tests were performed, including electroencephalogram (62%), computed tomography angiography (22%), transcranial Doppler ultrasound (6%), cerebral blood flow nuclear study (5%), cerebral angiography (4%), and other (1%). Forty-seven patients (53% of patients with AT) with confirmatory AT still underwent additional ancillary for BD confirmation",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32312535",
+          "offsetInBeginSection": 979,
+          "offsetInEndSection": 1348
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Only 21 patients (12% of all patients) were declared brain-dead using confirmatory ATs alone without ancillary testing.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32312535",
+          "offsetInBeginSection": 1349,
+          "offsetInEndSection": 1469
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Our study highlights the variability in practice in regard to the AT and supports the use of ancillary tests to determine BD in patients",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32312535",
+          "offsetInBeginSection": 1588,
+          "offsetInEndSection": 1724
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Details provided on the performance and interpretation of ancillary tests for determination of BD/DNC were variably provided and inconsistent. Approximately half of all protocols that included each ancillary test provided details about study performance: 63% of protocols that included conventional cerebral angiography, 55% of protocols that included electroencephalography, 50% of protocols that included somatosensory evoked potentials, 48% of protocols that included transcranial Doppler ultrasonography, 43% of protocols that included nuclear medicine flow study and 41% of protocols that included brainstem auditory evoked potentials.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32648194",
+          "offsetInBeginSection": 407,
+          "offsetInEndSection": 1047
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Diagnostic requirements for ancillary testing in BD/DNC determination vary around the world. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32648194",
+          "offsetInBeginSection": 1566,
+          "offsetInEndSection": 1660
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Apnea is one of the three cardinal findings in brain death (BD). Apnea testing (AT) is physiologically and practically complex.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32524528",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 127
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Apnea Testing for the Determination of Brain Death:",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32524528",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 51
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " When conducting the neurologic examination and apnea test required for death by neurologic criteria determination in patients with suspected or confirmed coronavirus",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33273410",
+          "offsetInBeginSection": 1584,
+          "offsetInEndSection": 1750
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "To discuss the challenges of conducting a death by neurologic criteria or brain death evaluation in the coronavirus disease 2019 era and provide guidance to mitigate viral transmission",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33273410",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 196
+        }
+      ],
+      "id": "6235ee453a8413c6530000ac",
+      "type": "list",
+      "body": "What are the main clinical components of the brain death exam?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34893673"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In SNU-C4 and Caco-2 cells which were relatively sensitive to cetuximab among the seven CRC cell lines tested, AREG significantly decreased the anti-proliferative effect of cetuximab (p \u003c 0.05) via AKT and ERK activation. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34893673",
+          "offsetInBeginSection": 837,
+          "offsetInEndSection": 1059
+        }
+      ],
+      "id": "6237a94f3a8413c6530000b4",
+      "type": "summary",
+      "body": "How does amphiregulin decrease the anti-proliferative effect of cetuximab?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34864895"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "RCandy: an R package for visualising homologous recombinations in bacterial genomes.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34864895",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 84
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here, we present RCandy, a platform-independent R package for rapid, simple, and flexible visualisation of recombination events in bacterial genomes.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34864895",
+          "offsetInBeginSection": 419,
+          "offsetInEndSection": 568
+        }
+      ],
+      "id": "621e5aa53a8413c65300004d",
+      "type": "summary",
+      "body": "Describe RCandy"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32860431",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33573696",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33729130"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Patients were assessed according to HScore, SOFA (Sequential Organ Failure Assessment Score \u003d SOFA), MuLBSTA Score (multilobular infiltration, hypo-lymphocytosis, bacterial coinfection, smoking history, hyper-tension, and age), Brescia-COVID respiratory severity scale (BCRSS). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32860431",
+          "offsetInBeginSection": 456,
+          "offsetInEndSection": 734
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "MuLBSTA score for viral pneumonia (multinodular infiltration, hypo-lymphocytosis, bacterial co infection, Total Leucocyte Count (TLC ≤ 0.8 x 109/L), smoking history, hyper-tension and age) score.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33573696",
+          "offsetInBeginSection": 2619,
+          "offsetInEndSection": 2814
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "There were significantly differences in ages (years old: 43±13 vs. 57±13), the proportion of patients with one chronic disease (17.7% vs. 55.6%), C-reactive protein [CRP (mg/L): 7.3 (2.3, 21.0) vs. 40.1 (18.8, 62.6)], lymphocyte count [LYM (×109/L): 1.3 (1.0, 1.8) vs. 0.8 (0.7, 1.1)], the neutrophil/lymphocyte ratio [NLR: 2.1 (1.6, 3.0) vs. 3.1 (2.2, 8.8)] and multilobularinltration, hypo-lymphocytosis, bacterial coinfection, smoking history, hyper-tension and age [MuLBSTA score: 5.0 (3.0, 5.0) vs. 5.0 (5.0, 7.0)] between mild/common group and severe/critical group (all P \u003c 0.05). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33729130",
+          "offsetInBeginSection": 1406,
+          "offsetInEndSection": 1994
+        }
+      ],
+      "id": "61fbca4bc9dfcb9c09000011",
+      "type": "list",
+      "body": "What variables are included in the MuLBSTA score?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31552661",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31642470",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32185395",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29069413",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29761466"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The nematode C. elegans is a useful model organism for studying neuronal development and function due to its extremely simple, well-defined nervous system, translucence, short life cycle, and abundance of genetic tools (WormBase. http://wormbase.org , 2018; WormBook.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31552661",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 267
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "WormBase (https://wormbase.org/) is a mature Model Organism Information Resource supporting researchers using the nematode Caenorhabditis elegans as a model system for studies across a broad range of basic biological processes. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31642470",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 228
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "WormBase (WB), the authoritative repository for research data on Caenorhabditis elegans and other nematodes, uses text mining (TM) to semi-automate its curation pipeline.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32185395",
+          "offsetInBeginSection": 423,
+          "offsetInEndSection": 593
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "WormBase continues to advance its practices on data acquisition, curation and retrieval to most effectively deliver comprehensive knowledge about Caenorhabditis elegans, and genomic information about other nematodes and parasitic flatworms.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29069413",
+          "offsetInBeginSection": 183,
+          "offsetInEndSection": 423
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "WormBase ( www.wormbase.org ) provides the nematode research community with a centralized database for information pertaining to nematode genes and genomes.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29761466",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 156
+        }
+      ],
+      "id": "622cebe13a8413c65300009d",
+      "type": "list",
+      "body": "Which organisms are the focus of the Wormbase?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31674718",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32712102"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ameloblastic carcinoma (AC) is defined as a rare primary epithelial odontogenic malignant neoplasm and the malignant counterpart of benign epithelial odontogenic tumor of ameloblastoma (AB) by the WHO classification",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31674718",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 215
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "AC develops pulmonary metastasis in about one third of the patients and reveals a poor prognosis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31674718",
+          "offsetInBeginSection": 217,
+          "offsetInEndSection": 313
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ameloblastomas are benign but locally invasive neoplasms which may grow to massive proportions and cause significant morbidity. Although some types of ameloblastoma can be treated predictably with aggressive surgical treatment, recurrent ameloblastoma and metastasising ameloblastoma are still difficult to treat.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32712102",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 313
+        }
+      ],
+      "id": "622901d23a8413c65300008c",
+      "type": "yesno",
+      "body": "Is Ameloblastoma (AB) a benign tumor that never metastasizes?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34620745"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In this work, we investigated the role and regulatory mechanism of lncRNA prostate cancer-associated transcript 6 (PCAT6) in breast cancer progression.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34620745",
+          "offsetInBeginSection": 240,
+          "offsetInEndSection": 391
+        }
+      ],
+      "id": "622668b13a8413c653000088",
+      "type": "factoid",
+      "body": "What does PCAT6 stand for?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30626972"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Chromatin conformation capture using in situ Hi-C on fluorescence-activated cell-sorted olfactory sensory neurons and their progenitors shows that olfactory receptor gene clusters from 18 chromosomes make specific and robust interchromosomal contacts that increase with differentiation of the cells. These contacts are orchestrated by intergenic olfactory receptor enhancers, the \u0027Greek islands\u0027, which first contribute to the formation of olfactory receptor compartments and then form a multi-chromosomal super-enhancer that associates with the single active olfactory receptor gene. The Greek-island-bound transcription factor LHX2 and adaptor protein LDB1 regulate the assembly and maintenance of olfactory receptor compartments, Greek island hubs and olfactory receptor transcription, providing mechanistic insights into and functional support for the role of trans interactions in gene expression.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30626972",
+          "offsetInBeginSection": 367,
+          "offsetInEndSection": 1269
+        }
+      ],
+      "id": "620157bec9dfcb9c09000025",
+      "type": "yesno",
+      "body": "Is there any role of the \u0027Greek islands\u0027 in olfactory receptor choice?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34431455",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31706753",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32208843",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30077603",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28236594"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "RESULTS: : Among all the scales, the ASTRAL score had the best accuracy for predicting 2-year prognosis in Chinese patients with ischemic stroke. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34431455",
+          "offsetInBeginSection": 724,
+          "offsetInEndSection": 870
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSION: : The ASTRAL score had higher efficacy than the SPAN-100 and THRIVE scores in predicting 2-year adverse outcomes among Chinese patients with ischemic stroke, suggesting that it could be a valuable risk assessment tool for the 2-year prognosis of such patients.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34431455",
+          "offsetInBeginSection": 1356,
+          "offsetInEndSection": 1628
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: The ASTRAL score was an independent predictor of 3-month functional outcome and showed high predictive accuracy in patients with ESUS.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31706753",
+          "offsetInBeginSection": 1160,
+          "offsetInEndSection": 1307
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We first validated point-based stroke prognostic scores (preadmission comorbidities, level of consciousness, age, and neurological deficit [PLAN] score, ischemic stroke predictive risk score [IScore], and acute stroke registry and analysis of Lausanne [ASTRAL] score in all patients; Houston intraarterial recanalization therapy [HIAT] score, totaled health risks in vascular events [THRIVE] score, and stroke prognostication using age and National Institutes of Health Stroke Scale-100 [SPAN-100] in patients who received reperfusion therapy) in our cohort. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32208843",
+          "offsetInBeginSection": 501,
+          "offsetInEndSection": 1060
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "The Prognostic Value of the THRIVE Score, the iScore Score and the ASTRAL Score in Chinese Patients With Acute Ischemic Stroke.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30077603",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 127
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Many prediction tools have been developed to predict the risk of poor outcomes in patients after AIS, such as the THRIVE score, the iScore score, and the ASTRAL score. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30077603",
+          "offsetInBeginSection": 83,
+          "offsetInEndSection": 251
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: The iScore score and the ASTRAL score reliably predict 1-year poor outcomes in Chinese patients with AIS, and the iScore score can accurately predict 1-year mortality and severe disability in Chinese AIS patients.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30077603",
+          "offsetInBeginSection": 1786,
+          "offsetInEndSection": 2012
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "The Prognostic Value of the iScore, the PLAN Score, and the ASTRAL Score in Acute Ischemic Stroke.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28236594",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 98
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In this study, we evaluated the ability of 3 prognostic models including the iScore, the PLAN score, and the ASTRAL score in predicting clinical poor outcomes or mortality at 6 months in patients with acute ischemic stroke.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28236594",
+          "offsetInBeginSection": 244,
+          "offsetInEndSection": 467
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: The results of this study suggest that the iScore, the PLAN score, and the ASTRAL score were equal in predicting 6-month poor prognosis and mortality in patients with acute ischemic stroke. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28236594",
+          "offsetInBeginSection": 1148,
+          "offsetInEndSection": 1351
+        }
+      ],
+      "id": "62008456c9dfcb9c0900001e",
+      "type": "summary",
+      "body": "What is ASTRAL Score?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32193744",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30609675",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22807029"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Western blotting assays presented upregulated expressions of TNF receptor-activating factor 6 (TRAF6) and integrin β3 induced by gingipains and RANKL compared to RANKL alone. Enhanced integrin-related signaling was also demonstrated by elevated phosphorylations of FAK and paxillin compared to control. Moreover, the pit resorption assays showed that gingipains augmented bone resorptive function of osteoclasts induced by RANKL. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32193744",
+          "offsetInBeginSection": 899,
+          "offsetInEndSection": 1329
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "paxillin levels induced by RANKL in murine bone marrow cells.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30609675",
+          "offsetInBeginSection": 1192,
+          "offsetInEndSection": 1253
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "RANKL promotes paxillin serine and tyrosine phosphorylation,",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22807029",
+          "offsetInBeginSection": 716,
+          "offsetInEndSection": 776
+        }
+      ],
+      "id": "622dc4b63a8413c6530000a4",
+      "type": "yesno",
+      "body": "Is paxillin affected by RANKL?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34115670",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32350585",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32589068",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32686748"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The Gleason score is an important parameter for clinical outcome in prostate cancer patients",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32686748",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 92
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Gleason score 8 prostate cancer patients.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32686748",
+          "offsetInBeginSection": 83,
+          "offsetInEndSection": 124
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Gleason score 8 prostate cancer patients. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32686748",
+          "offsetInBeginSection": 348,
+          "offsetInEndSection": 390
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Controversies and uncertainty persist in prostate cancer grading.OBJECTIVE.—: To update grading recommendations.DATA SOURCES.—: Critical review of the literature along with pathology and clinician surveys.CONCLUSIONS.—: Percent Gleason pattern 4 (",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32589068",
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 258
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Men with Gleason score 9-10 prostate cancer have worse outcomes compared to those with Gleason 8 disease.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32350585",
+          "offsetInBeginSection": 9,
+          "offsetInEndSection": 114
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "When multiple cores are biopsied from a single magnetic resonance imaging (MRI)-targeted lesion, Gleason grade may be assigned for each core separately or for all cores of the lesion in aggregate.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34115670",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 196
+        }
+      ],
+      "id": "622b9d593a8413c653000095",
+      "type": "factoid",
+      "body": "What organ is associated with a Gleason pattern or Gleason Score?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34484859"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "m6A demethylase FTO suppresses pancreatic cancer tumorigenesis by demethylating PJA2 and inhibiting Wnt signaling.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34484859",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 114
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Reduced expression of the m6A demethylase, fat mass and obesity-associated protein (FTO), was responsible for the high levels of m6A RNA modification in pancreatic cancer. Moreover, FTO demethylated the m6A modification of praja ring finger ubiquitin ligase 2 (PJA2), thereby reducing its mRNA decay, suppressing Wnt signaling, and ultimately restraining the proliferation, invasion, and metastasis of pancreatic cancer cells.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34484859",
+          "offsetInBeginSection": 759,
+          "offsetInEndSection": 1185
+        }
+      ],
+      "id": "62262b353a8413c65300007f",
+      "type": "summary",
+      "body": "How does FTO suppress pancreatic tumorigenesis?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34864901"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "GLYCO: a tool to quantify glycan shielding of glycosylated proteins.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34864901",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 68
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here, we developed an in silico approach, GLYCO (GLYcan COverage), to quantify the glycan shielding of a protein surface. The software provides insights into glycan-dense/sparse regions of the entire protein surface or a subset of the protein surface. GLYCO calculates glycan shielding from a single coordinate file or from multiple coordinate files, for instance, as obtained from molecular dynamics simulations or by nuclear magnetic resonance spectroscopy structure determination, enabling analysis of glycan dynamics.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34864901",
+          "offsetInBeginSection": 389,
+          "offsetInEndSection": 910
+        }
+      ],
+      "id": "621e59ce3a8413c65300004c",
+      "type": "factoid",
+      "body": "Which tool has been developed to identify the glycan shielding of glycosylated proteins?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33567191",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33713299",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34783452",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34349652"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: The tubulin polymerization and Src kinase signaling inhibitor tirbanibulin is being investigated as a topical treatment for actinic keratosis, a precursor of squamous-cell carcinoma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33567191",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 194
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tirbanibulin (Klisyri®) is a first-in-class Src kinase signaling inhibitor and tubulin polymerisation inhibitor being developed by Athenex in conjunction with global partners for the topical treatment of actinic keratosis, and psoriasis. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33713299",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 238
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tirbanibulin is a novel tubulin polymerization and Src kinase signaling inhibitor.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34783452",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 82
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tirbanibulin (KX-01) is the first clinical Src inhibitor of the novel peptidomimetic class that targets the peptide substrate site of Src providing more specificity toward the Src kinase. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34349652",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 188
+        }
+      ],
+      "id": "61f7ceeb882a024a1000002e",
+      "type": "list",
+      "body": "What are the targets of Tirbanibulin?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33484131",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33199363",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34575030"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Systematic Quantification of Neurotrophic Adipokines RBP4, PEDF, and Clusterin in Human Cerebrospinal Fluid and Serum.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33484131",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 118
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Retinol-binding protein 4 (RBP4) is a prominent adipokine i",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33199363",
+          "offsetInBeginSection": 91,
+          "offsetInEndSection": 150
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Fetuin-A and retinol-binding protein 4 (RBP4) are secreted as both hepatokine and adipokine. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34575030",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 105
+        }
+      ],
+      "id": "622b95dc3a8413c653000092",
+      "type": "yesno",
+      "body": "Is retinol binding protein 4 an adipokine?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34482423",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34605540",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33373621",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33503260",
+        "http://www.ncbi.nlm.nih.gov/pubmed/8887638",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17701549"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Regulatory mechanisms of heme regulatory protein BACH1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34482423",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 54
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "(BACH1) is the first mammalian heme-binding transcription factor that belongs to the basic region leucine zipper (bZIP) family and a member of CNC (cap \u0027n\u0027 collar)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34482423",
+          "offsetInBeginSection": 143,
+          "offsetInEndSection": 306
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACH1 is a ubiquitous master regulator of the cellular response to oxidative stress",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34605540",
+          "offsetInBeginSection": 530,
+          "offsetInEndSection": 613
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Bach1 is a known transcriptional repressor of the heme oxygenase-1 (HO-1) gene. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33373621",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 80
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here, we report a transcription factor BACH1,",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33503260",
+          "offsetInBeginSection": 300,
+          "offsetInEndSection": 345
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Bach proteins belong to a novel family of BTB-basic leucine zipper transcription factors that interact with MafK and regulate transcription through the NF-E2 site.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8887638",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 163
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "we have identified two novel bZip transcription factors, Bach1 and Bach2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8887638",
+          "offsetInBeginSection": 364,
+          "offsetInEndSection": 436
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Bach1, a heme-dependent transcription factor, reveals presence of multiple heme binding sites with distinct coordination structure.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17701549",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 131
+        }
+      ],
+      "id": "622cbb4e3a8413c65300009a",
+      "type": "summary",
+      "body": "What is the function of BACH1"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34667080"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We found that epidermal growth factor (EGF)-deficient cells exhibited lower basal ERK activity than the cells deficient in heparin-binding EGF (HBEGF), transforming growth factor alpha (TGFα) or epiregulin (EREG), but all cell lines deficient in a single EGFR ligand retained the ERK activation waves.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34667080",
+          "offsetInBeginSection": 268,
+          "offsetInEndSection": 569
+        }
+      ],
+      "id": "6237a5513a8413c6530000b0",
+      "type": "factoid",
+      "body": "What does the gene symbol EREG stand for?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27048983"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "MBPpred: Proteome-wide detection of membrane lipid-binding proteins using profile Hidden Markov Models.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/27048983",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 103
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here we report a profile Hidden Markov Model based method capable of detecting Membrane Binding Proteins (MBPs) from information encoded in their amino acid sequence, called MBPpred. The method identifies MBPs that contain one or more of the Membrane Binding Domains (MBDs) that have been described to date, and further classifies these proteins based on their position in respect to the membrane, either as peripheral or transmembrane. MBPpred is available online at http://bioinformatics.biol.uoa.gr/MBPpred. This method was applied in selected eukaryotic proteomes, in order to examine the characteristics they exhibit in various eukaryotic kingdoms and phyla.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/27048983",
+          "offsetInBeginSection": 355,
+          "offsetInEndSection": 1018
+        }
+      ],
+      "id": "62005e02c9dfcb9c09000018",
+      "type": "factoid",
+      "body": "Which tool has been developed for proteome-wide detection of membrane lipid-binding proteins?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34473462",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34484454",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34553355",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33164993",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34224265",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33596356"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Current therapies are often effective in inducing and maintaining remission but are associated with a range of toxicities. Several new therapies are in development for ANCA vasculitis. Avacopan, an orally administered inhibitor of the complement fragment 5a (C5a) receptor, has been assessed in a phase 3 clinical trial and may play a role in reducing the cumulative glucocorticoid dose. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34473462",
+          "offsetInBeginSection": 1009,
+          "offsetInEndSection": 1397
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "New treatment approaches, such as the C5a receptor inhibitor avacopan could enable a minimized steroid treatment in the future.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34484454",
+          "offsetInBeginSection": 846,
+          "offsetInEndSection": 973
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "GPA/MPA INDUCTION OF REMISSION:  As demonstrated in the ADVOCATE-trial avacopan allows for a substantial reduction of glucocorticoid (GC) use during induction of remission. A future role of avacopan in the treatment of GPA and MPA is likely.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34553355",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 241
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Avacopan has shown significant promise in ANCA-associated vasculitis as part of a glucocorticoid-free induction regimen in a recently completed phase 3 trial.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33164993",
+          "offsetInBeginSection": 1058,
+          "offsetInEndSection": 1216
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "In ANCA-associated vasculitis, avacopan was superior to prednisone taper for sustained remission",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34224265",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 96
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "SOURCE CITATION: Jayne DRW, Merkel PA, Schall TJ, et al. Avacopan for the treatment of ANCA-associated vasculitis. N Engl J Med. 2021;384:599-609. 33596356.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34224265",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 156
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Avacopan for the Treatment of ANCA-Associated Vasculitis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33596356",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 57
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: The C5a receptor inhibitor avacopan is being studied for the treatment of antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33596356",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 151
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: In this trial involving patients with ANCA-associated vasculitis, avacopan was noninferior but not superior to prednisone taper with respect to remission at week 26 and was superior to prednisone taper with respect to sustained remission at week 52. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33596356",
+          "offsetInBeginSection": 1886,
+          "offsetInEndSection": 2149
+        }
+      ],
+      "id": "61f7c883882a024a10000026",
+      "type": "factoid",
+      "body": "What disease can be treated with Avacopan?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17683645",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17296793"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Hydin was recently identified as an axonemal protein; however, its function is as yet unknown.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17683645",
+          "offsetInBeginSection": 198,
+          "offsetInEndSection": 292
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "precise axonemal location of hydin, a protein that, when mutated, causes hydrocephalus, and defined a unique role for hydin in ciliary motility.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17296793",
+          "offsetInBeginSection": 747,
+          "offsetInEndSection": 891
+        }
+      ],
+      "id": "622ce21d3a8413c65300009c",
+      "type": "yesno",
+      "body": "Is HYDIN (Hydrocephalus-inducing protein homolog) an axonemal protein?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/29101454",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22085520",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11803718"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ankylosing spondylitis (Bechterew\u0027s disease) is the most typical form of axial SpA whereby sacroiliitis can be found on X-rays of the SI joints.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22085520",
+          "offsetInBeginSection": 229,
+          "offsetInEndSection": 373
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "[Special considerations in therapy of injuries of the cervical spine in ankylosing spondylitis (Bechterew disease)]",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11803718",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 115
+        }
+      ],
+      "id": "622b9e743a8413c653000097",
+      "type": "factoid",
+      "body": "What disease is also known as Bechterew\u0027s Disease?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30400011"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "EREG increased leptin production and secretion in a dose-dependent manner in iAb fat explants via the EGFR/MAPK pathway. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30400011",
+          "offsetInBeginSection": 724,
+          "offsetInEndSection": 845
+        }
+      ],
+      "id": "6237ac143a8413c6530000b7",
+      "type": "factoid",
+      "body": "Through which pathway does epiregulin promote leptin secretion?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34849585"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "spiralize: an R package for Visualizing Data on Spirals.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34849585",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 56
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Spiral layout has two major advantages for data visualization. First, it is able to visualize data with long axes, which greatly improves the resolution of visualization. Second, it is efficient for time series data to reveal periodic patterns. Here we present the R package spiralize that provides a general solution for visualizing data on spirals. spiralize implements numerous graphics functions so that self-defined high-level graphics can be easily implemented by users. The flexibility and power of spiralize are demonstrated by five examples from real-world datasets.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34849585",
+          "offsetInBeginSection": 9,
+          "offsetInEndSection": 584
+        }
+      ],
+      "id": "621e62c33a8413c653000050",
+      "type": "yesno",
+      "body": "Are there any R packages that help with visualizing data on spirals?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33761206",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34029515",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32554928"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "During the 24-month follow-up, HIV-1 infection was diagnosed in 138 participants in the vaccine group and in 133 in the placebo group (hazard ratio, 1.02; 95% confidence interval, 0.81 to 1.30; P \u003d 0.84).CONCLUSIONS: The ALVAC-gp120 regimen did not prevent HIV-1 infection among participants in South Africa despite previous evidence of immunogenicity. (HVTN 702 ClinicalTrials.gov number, NCT02968849.).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33761206",
+          "offsetInBeginSection": 1258,
+          "offsetInEndSection": 1662
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The advanced-phase HIV prevention vaccine trials done in South Africa (HVTN 702) and in Thailand (RV144), which both investigated canarypox vectors and adjuvanted gp120 proteins, gave rise to different results. The South African trial did not find vaccine efficacy, whereas the Thai trial had modest, but statistically significant, success with the modified intention-to-treat analysis prespecified in the protocols of both studies. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34029515",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 433
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "However, with the recent failure of the HVTN 702 clinical trial, comprehensive profiling of humoral immune responses may provide insight for these disappointing results. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32554928",
+          "offsetInBeginSection": 280,
+          "offsetInEndSection": 450
+        }
+      ],
+      "id": "61faa3bac9dfcb9c0900000b",
+      "type": "yesno",
+      "body": "Was ALVAC-HIV effective for HIV prevention in the HVTN 702 trial?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33409873",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29587878",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30220025",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30247793",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28877915"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The plasma glycoprotein afamin has been previously identified as an alternative carrier protein for vitamin E in extravascular fluids such as plasma and cerebrospinal, ovarian follicular, and seminal fluids.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33409873",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 207
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "afamin, a vitamin E-binding protein in human plasma",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29587878",
+          "offsetInBeginSection": 128,
+          "offsetInEndSection": 179
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "the human vitamin E-binding protein afamin",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30220025",
+          "offsetInBeginSection": 130,
+          "offsetInEndSection": 172
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Afamin is a plasma vitamin E-binding glycoprotein",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30247793",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 61
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The human vitamin E-binding glycoprotein afamin is primarily expressed in the liver and has been associated with prevalent and incident metabolic syndrome",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28877915",
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 165
+        }
+      ],
+      "id": "622baf3f3a8413c653000099",
+      "type": "yesno",
+      "body": "Do Afamin bind Vitamin E?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34412079",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31608721",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32573856",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34509865",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34599631"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Maternal systemic and placental inflammatory responses participate in the pathogenesis of hypertensive disorders of pregnancy including preeclampsia, a pregnancy-specific syndrome, although the role of inflammation remains unclear. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34412079",
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 244
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Our results indicate these proteins are new factors that play important roles in the immunological pathomechanism of preeclampsia.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31608721",
+          "offsetInBeginSection": 588,
+          "offsetInEndSection": 718
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Inflammation and oxidative stress at the maternal-fetal interface characterize the placental dysfunction that underlies the pregnancy disorder preeclampsia.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32573856",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 156
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The abnormal expression of Tim-3 on MDSC might be involved in the pathogenesis of PE, and could be a marker to evaluate the immune function in PE.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34509865",
+          "offsetInBeginSection": 1119,
+          "offsetInEndSection": 1265
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Maternal immune tolerance is important for maintaining pregnancy, and researchers have increasingly focused on the critical roles of cytokines in the pathogenesis of PE in recent years.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34599631",
+          "offsetInBeginSection": 223,
+          "offsetInEndSection": 408
+        }
+      ],
+      "id": "622632483a8413c653000081",
+      "type": "yesno",
+      "body": "Is disruption of immune regulation mechanisms associated with adverse pregnancy outcomes, including preeclampsia (PE)?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34692467"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "A Novel Prognostic Prediction Model for Colorectal Cancer Based on Nine Autophagy-Related Long Noncoding RNAs",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34692467",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 109
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "A prognostic prediction model of CRC was built based on nine ARlncRNAs (NKILA, LINC00174, AC008760.1, LINC02041, PCAT6, AC156455.1, LINC01503, LINC00957, and CD27-AS1). The 5-year overall survival rate was significantly lower in the high-risk group than in the low-risk group among train set, validation set, and all patients (all p \u003c 0.001). The model had high sensitivity and accuracy in predicting the 1-year overall survival rate (area under the curve \u003d 0.717). The prediction model risk score was an independent predictor of CRC. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34692467",
+          "offsetInBeginSection": 1347,
+          "offsetInEndSection": 1882
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The new ARlncRNA-based model predicts CRC patient prognosis and provides new research ideas regarding potential mechanisms regulating the biological behavior of CRC. ARlncRNAs may play important roles in personalized cancer treatment.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34692467",
+          "offsetInBeginSection": 2284,
+          "offsetInEndSection": 2518
+        }
+      ],
+      "id": "62266c353a8413c65300008a",
+      "type": "yesno",
+      "body": "Can autophagy related lncRNAs be used for colorectal cancer prognosis?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31552185"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Several landmark studies have shown that cohesin mutations perturb the balance between self-renewal and differentiation of hematopoietic stem and progenitor cells (HSPC). Emerging data now begin to uncover the molecular mechanisms that underpin this phenotype. Among these mechanisms is a role for cohesin in the control of inflammatory responses in HSPCs and myeloid cells. Inflammatory signals limit HSPC self-renewal and drive HSPC differentiation. Consistent with this, cohesin mutations promote resistance to inflammatory signals, and may provide a selective advantage for AML progression. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31552185",
+          "offsetInBeginSection": 741,
+          "offsetInEndSection": 1336
+        }
+      ],
+      "id": "621e9aa13a8413c653000053",
+      "type": "yesno",
+      "body": "Are there roles for cohesin mutations in AML?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34520956",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34504076",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34558391",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34553354",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34607583",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34607832"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Encouragingly, the KRASG12C inhibitor AMG510 (sotorasib), which has been approved for treating NSCLC and CRC recently, makes directly targeting KRAS the most promising strategy for cancer therapy. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34520956",
+          "offsetInBeginSection": 425,
+          "offsetInEndSection": 622
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Finally, we show that a selective PI4KA inhibitor augments the antineoplastic activity of the KRASG12C inhibitor sotorasib, suggesting a clinical path to exploit this pathway. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34504076",
+          "offsetInBeginSection": 705,
+          "offsetInEndSection": 881
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "However, clinical candidates targeting the KRAS G12C protein have recently been developed. MRTX849 and recently approved Sotorasib are covalent binders targeting the mutated cysteine 12, occupying Switch II pocket.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34558391",
+          "offsetInBeginSection": 597,
+          "offsetInEndSection": 811
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Sotorasib with efficacy in kRAS-G12C mutation of NSCLC",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34553354",
+          "offsetInBeginSection": 682,
+          "offsetInEndSection": 736
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Two such inhibitors, sotorasib (AMG 510) and adagrasib (MRTX849), were recently evaluated in phase I-III trials for the treatment of non-small cell lung cancer with KRAS-G12C mutations, heralding a new era of precision oncology. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34607583",
+          "offsetInBeginSection": 725,
+          "offsetInEndSection": 954
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The findings, along with data on the KRASG12C inhibitor sotorasib, were presented at the 2021 European Society for Medical Oncology Congress.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34607832",
+          "offsetInBeginSection": 475,
+          "offsetInEndSection": 616
+        }
+      ],
+      "id": "61f7c60c882a024a10000025",
+      "type": "factoid",
+      "body": "What is the target of Sotorasib?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24598821",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32755577",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23946870",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23869254",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20222959"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Asf1, a key histone H3-H4 chaperone required for this process, is phosphorylated by Tousled-like kinases (TLKs). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24598821",
+          "offsetInBeginSection": 118,
+          "offsetInEndSection": 231
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The Tousled-like kinases 1 and 2 (TLK1/2) control histone deposition through the ASF1 histone chaperone",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32755577",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 103
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The Tousled-like kinases (TLKs) are involved in chromatin assembly, DNA repair, and transcription. Two TLK genes exist in humans, and their expression is often dysregulated in cancer. TLKs phosphorylate Asf1 ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23946870",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 208
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "TLKs interact specifically (and phosphorylate) with the chromatin assembly factor Asf1, a histone H3-H4 chaperone",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23869254",
+          "offsetInBeginSection": 151,
+          "offsetInEndSection": 264
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "TLK1 substrates were identified as the histone H3 and Asf1 (a histone H3/H4 chaperone)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20222959",
+          "offsetInBeginSection": 183,
+          "offsetInEndSection": 269
+        }
+      ],
+      "id": "622d0aa63a8413c6530000a0",
+      "type": "yesno",
+      "body": "Is ASF1 phopshorylated by  the Tousled-like kinases?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34717250",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32081041",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32694396",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34460026"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Recently, many studies have reported the anticancer properties of flavonoid luteolin against a variety of tumors, but there is still a lack in the description of its mechanism of action",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32081041",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 185
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Luteolin, a polyphenolic flavonoid, has potent anti-inflammatory properties. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32694396",
+          "offsetInBeginSection": 242,
+          "offsetInEndSection": 319
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Luteolin is a falconoid compound that has an antioxidant effect, but its mechanism in I/R injury in vivo and in vitro is still under explored.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34460026",
+          "offsetInBeginSection": 123,
+          "offsetInEndSection": 265
+        }
+      ],
+      "id": "6226335d3a8413c653000082",
+      "type": "factoid",
+      "body": "What is Luteolin?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33189864"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "S1P-induced FOXO1 and EREG gene expression suggests that the activation of S1P-S1PR axis may cooperate with gonadotropins in modulating follicle development.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33189864",
+          "offsetInBeginSection": 1971,
+          "offsetInEndSection": 2128
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "S1P-dependent CREB phosphorylation induced FOXO1 and the EGF-like epiregulin-encoding gene (EREG), confirming the exclusive role of gonadotropins and interleukins in this process, but did not affect steroidogenesis. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33189864",
+          "offsetInBeginSection": 1411,
+          "offsetInEndSection": 1627
+        }
+      ],
+      "id": "6237a6e93a8413c6530000b1",
+      "type": "yesno",
+      "body": "Does sphingosine-1 phosphoate suppress epiregulin?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34788791"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "PheneBank: a literature-based database of phenotypes.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34788791",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 53
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "PheneBank is a Web-portal for retrieving human phenotype-disease associations that have been text-mined from the whole of Medline. Our approach exploits state-of-the-art machine learning for concept identification by utilising an expert annotated rare disease corpus from the PMC Text Mining subset. Evaluation of the system for entities is conducted on a gold-standard corpus of rare disease sentences and for associations against the Monarch initiative data.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34788791",
+          "offsetInBeginSection": 312,
+          "offsetInEndSection": 772
+        }
+      ],
+      "id": "621e63a43a8413c653000051",
+      "type": "factoid",
+      "body": "Which is the literature-based database of phenotypes?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34461271",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34527606",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34256668",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34145225",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33626253"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "B-cell maturation antigen (BCMA) has become a key target for antibody-drug conjugates, bispecific antibodies, chimeric antigen receptor T-cell therapies, and other immunotherapies in multiple myeloma. Some of these agents such as belantamab mafodotin and idecabtagene vicleucel have already received regulatory approval in the United States. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34461271",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 342
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These include isatuximab (also anti-CD38) and, in the past year, the antibody-drug conjugate (ADC) belantamab mafodotin and the chimeric antigen receptor (CAR) T-cell product idecabtagene vicleucel (ide-cel).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34527606",
+          "offsetInBeginSection": 1113,
+          "offsetInEndSection": 1321
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Matching-adjusted indirect comparison of efficacy outcomes for ciltacabtagene autoleucel in CARTITUDE-1 versus idecabtagene vicleucel in KarMMa for the treatment of patients with relapsed or refractory multiple myeloma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34256668",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 219
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "KarMMa-RW: comparison of idecabtagene vicleucel with real-world outcomes in relapsed and refractory multiple myeloma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34145225",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 117
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Idecabtagene vicleucel (ide-cel, bb2121), a BCMA-directed CAR T-cell therapy, demonstrated efficacy in triple-class exposed RRMM patients in the KarMMa trial (NCT03361748). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34145225",
+          "offsetInBeginSection": 233,
+          "offsetInEndSection": 406
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Idecabtagene Vicleucel in Relapsed and Refractory Multiple Myeloma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33626253",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 67
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Ide-cel induced responses in a majority of heavily pretreated patients with refractory and relapsed myeloma; MRD-negative status was achieved in 26% of treated patients. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33626253",
+          "offsetInBeginSection": 1917,
+          "offsetInEndSection": 2100
+        }
+      ],
+      "id": "61f7ce26882a024a1000002d",
+      "type": "factoid",
+      "body": "Idecabtagene vicleucel can be used for treatment of which disease?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34105151",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34741346"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Therefore, understanding of mechanisms regulating the modulation of lncRNAs will be a substantial breakthrough in effective treatment therapies for TNBC. This review highlights the association of several lncRNAs in TNBC progression and treatment, along with their possible functions and mechanisms.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34105151",
+          "offsetInBeginSection": 1177,
+          "offsetInEndSection": 1475
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": ": The m6 A-lncRNA prognostic model accurately and effectively predicted the prognostic survival of LIHC. Immune cells, immune checkpoints (ICs), and m6 A enzyme genes could act as novel therapeutic targets for LIHC.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34741346",
+          "offsetInBeginSection": 1674,
+          "offsetInEndSection": 1889
+        }
+      ],
+      "id": "623345bf3a8413c6530000ab",
+      "type": "factoid",
+      "body": "LINC00339 is a diagnostic, prognostic and treatment efficacy biomarker for what disease?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34885209"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "LncRNA PCAT6 was involved in the progression of multiple human cancers. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31676070",
+          "offsetInBeginSection": 92,
+          "offsetInEndSection": 164
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Emerging evidence has shown that PCAT6, a newly discovered carcinogenic lncRNA, is abnormally elevated in various human malignant tumors. Until now, PCAT6 has been found to sponge various miRNAs to activate the signaling pathways, which further affects tumor cell proliferation, migration, invasion, cycle, apoptosis, radioresistance, and chemoresistance. Moreover, PCAT6 has been shown to exert biological functions beyond ceRNAs. In this review, we summarize the biological characteristics of PCAT6 in a variety of human malignancies and describe the biological mechanisms by which PCAT6 can facilitate tumor progression. Finally, we discuss its diagnostic and prognostic values and clinical applications in various human malignancies.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34885209",
+          "offsetInBeginSection": 77,
+          "offsetInEndSection": 814
+        }
+      ],
+      "id": "622669363a8413c653000089",
+      "type": "summary",
+      "body": "What is the role of PCAT6 in human cancers?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34732400"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Whole genome sequencing is a useful diagnostic test in patients with suspected mitochondrial disorders, yielding a diagnosis in a further 31% after exclusion of common causes. Most diagnoses were non-mitochondrial disorders and included developmental disorders with intellectual disability, epileptic encephalopathies, other metabolic disorders, cardiomyopathies, and leukodystrophies. These would have been missed if a targeted approach was taken, and some have specific treatments.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34732400",
+          "offsetInBeginSection": 1410,
+          "offsetInEndSection": 1893
+        }
+      ],
+      "id": "62068e67c9dfcb9c09000038",
+      "type": "yesno",
+      "body": "Can whole genome sequencing be used for diagnosis of mitochondrial disease?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34552008",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34580817",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32972961",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33307872",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33453089",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33465704",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33301227"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In vitro studies tested the efficacy of MRP-1 inhibitors (nilotinib, ripretinib, selumetinib, and avapritinib) in sarcoma cell lines. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34552008",
+          "offsetInBeginSection": 673,
+          "offsetInEndSection": 807
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In this review, we briefly outline the history of treatment for systemic mastocytosis and subsequently focus on the clinical development and potential applications of avapritinib (previously known as BLU-285), a potent and selective oral inhibitor of the tyrosine kinase most commonly mutated in this condition.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34580817",
+          "offsetInBeginSection": 338,
+          "offsetInEndSection": 649
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Avapritinib is a novel, potent KIT/PDGFRA inhibitor with substantial clinical activity in patients with the D842V genotype. To date, only a minority of PDGFRA-mutant patients treated with avapritinib have developed secondary resistance. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32972961",
+          "offsetInBeginSection": 164,
+          "offsetInEndSection": 401
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Clearly, better knowledge of the molecular mechanisms underlying the resistance to imatinib as well as the development of a new class of broad-spectrum tyrosine kinase inhibitors such as avapritinib and ripretinib will provide new individualized therapeutic strategies for GIST patients.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33307872",
+          "offsetInBeginSection": 1095,
+          "offsetInEndSection": 1382
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "NAVIGATOR is a two-part, single-arm, dose escalation and expansion study designed to evaluate safety and antineoplastic activity of avapritinib, a selective, potent inhibitor of KIT and PDGFRA, in patients with unresectable or metastatic GIST.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33453089",
+          "offsetInBeginSection": 210,
+          "offsetInEndSection": 453
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSION: Targeting PDGFRA D842V-mutant GIST with avapritinib resulted in an unprecedented, durable clinical benefit, with a manageable safety profile. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33465704",
+          "offsetInBeginSection": 1624,
+          "offsetInEndSection": 1778
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: Avapritinib, a novel inhibitor of KIT/PDGFRA, is approved in the U.S. for the treatment of adults with PDGFRA exon 18-mutant unresectable or metastatic gastrointestinal stromal tumors (U/M GISTs). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33301227",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 209
+        }
+      ],
+      "id": "61f7d535882a024a10000034",
+      "type": "list",
+      "body": "What are the targets of avapritinib?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33337637",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33043556",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32510747",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30543463",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29967357"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Jackhammer esophagus (JE) is a recently recognized esophageal motility disorder that is characterized by hypercontractile peristalsis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33337637",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 134
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Hypercontractile esophagus (HE), also known as jackhammer esophagus, is an esophageal motility disorder.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33043556",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 104
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Jackhammer esophagus (JE) is a hypercontractile esophageal motor disorder defined by at least two swallows with a distal contractile integral (DCI) \u003e8000 mm Hg.s.cm during high-resolution manometry (HRM).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32510747",
+          "offsetInBeginSection": 16,
+          "offsetInEndSection": 221
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Jackhammer esophagus (JE) is a hypercontractile disorder, the pathogenesis of which is incompletely understood.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30543463",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 111
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Jackhammer esophagus (JE), a novel hypercontractile disorder associated with progression to achalasia and limited outcomes following anti-reflux surgery in patients with typical symptoms of GERD and responsiveness to proton pump inhibitor (PPI) therapy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29967357",
+          "offsetInBeginSection": 72,
+          "offsetInEndSection": 325
+        }
+      ],
+      "id": "622cbec13a8413c65300009b",
+      "type": "summary",
+      "body": "What is Jackhammer esophagus?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34505967"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "METTL3-Mediated lncRNA m6A Modification in the Osteogenic Differentiation of Human Adipose-Derived Stem Cells Induced by NEL-Like 1 Protein.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34505967",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 140
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "This study aimed to explore the regulatory mechanism of methyltransferase3 (METTL3) -mediated long non-coding RNA (lncRNA) N6-methyladenosine (m6A) modification in the osteogenic differentiation of human adipose-derived stem cells (hASCs) induced by NEL-like 1 protein (NELL-1).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34505967",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 290
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "This study shows, for the first time, that METTL3 can activate the MAPK signaling pathway by regulating the m6A modification and expression of a lncRNA, thereby enhancing the osteogenic differentiation of hASCs.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34505967",
+          "offsetInBeginSection": 1918,
+          "offsetInEndSection": 2129
+        }
+      ],
+      "id": "622662e13a8413c653000085",
+      "type": "yesno",
+      "body": "Can METTL3 methylate long noncoding RNAs?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33559681"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "An ancestral 10-bp repeat expansion in VWA1 causes recessive hereditary motor neuropathy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33559681",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 89
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In summary, we estimate that biallelic variants in VWA1 may be responsible for up to 1% of unexplained hereditary motor neuropathy cases in Europeans. The detailed clinical characterization provided here will facilitate targeted testing on suitable patient cohorts. This novel disease gene may have previously evaded detection because of high GC content, consequential low coverage and computational difficulties associated with robustly detecting repeat-expansions. Reviewing previously unsolved exomes using lower QC filters may generate further diagnoses.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33559681",
+          "offsetInBeginSection": 2510,
+          "offsetInEndSection": 3068
+        }
+      ],
+      "id": "61f86c03882a024a10000044",
+      "type": "factoid",
+      "body": "Which disease is caused by repeat expansion in VWA1?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33250474",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33721198",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33683710",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34067551",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34041090"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "For PONV, anesthesia duration and Apfel score were independent risk factors.CONCLUSIONS: Our results indicate that desflurane was the main cause of ePONV. However, during the delayed phase, a higher Apfel score was the strongest predictor. In the early and delayed phases, long anesthesia duration was associated with high risk of PONV. Thus, prolonged anesthesia and desflurane use should be avoided for patients at high risk of PONV, particularly those with high Apfel scores.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33250474",
+          "offsetInBeginSection": 525,
+          "offsetInEndSection": 1003
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Interpretation of the four risk factors for postoperative nausea and vomiting in the Apfel simplified risk score: an analysis of published studies.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33721198",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 147
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "PURPOSE: The Apfel simplified risk score, developed in 1999, is the most widely used tool for risk stratification of postoperative nausea and vomiting (PONV). I",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33721198",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 160
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Significant variation exists in how the Apfel risk factors are defined and applied in PONV research, particularly with respect to postoperative opioid use.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33721198",
+          "offsetInBeginSection": 1297,
+          "offsetInEndSection": 1465
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "METHODS: One hundred and twenty patients undergoing laparoscopic surgeries having 2 or more risk factors for PONV (simplified Apfel score) were randomised into 2 groups of 60 each. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33683710",
+          "offsetInBeginSection": 268,
+          "offsetInEndSection": 449
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In univariate analysis, female sex and Apfel scores of 2, 3, and 4 were associated with a higher POV incidence. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34067551",
+          "offsetInBeginSection": 650,
+          "offsetInEndSection": 762
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In multivariate logistic regression, sex, age, Apfel score, and intraoperative crystalloid infusion rate were POV predictive factors. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34067551",
+          "offsetInBeginSection": 870,
+          "offsetInEndSection": 1004
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We used the Apfel scoring system for evaluation of risk of post-operative nausea and vomiting (PONV) for each participant.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34041090",
+          "offsetInBeginSection": 594,
+          "offsetInEndSection": 716
+        }
+      ],
+      "id": "6200839bc9dfcb9c0900001d",
+      "type": "summary",
+      "body": "What is the use of the Apfel Score?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30957602",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31018725",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31272257",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31402735"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "preterm premature rupture of fetal membranes (PPROM)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30957602",
+          "offsetInBeginSection": 104,
+          "offsetInEndSection": 156
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "To examine the effect of aspirin, an anti-inflammatory agent, on the prevalence of preterm prelabor rupture of membranes (PPRoMs).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31018725",
+          "offsetInBeginSection": 171,
+          "offsetInEndSection": 301
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " preterm prelabor rupture of membranes (PPROM). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31272257",
+          "offsetInBeginSection": 228,
+          "offsetInEndSection": 276
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "preterm premature rupture of membranes (PPROM)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31402735",
+          "offsetInBeginSection": 169,
+          "offsetInEndSection": 215
+        }
+      ],
+      "id": "622a5a7c3a8413c653000090",
+      "type": "factoid",
+      "body": "Is PPROM a condition that occurs in males or females?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31752933"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "EpiMethylTag: simultaneous detection of ATAC-seq or ChIP-seq signals with DNA methylation.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31752933",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 90
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We developed a fast, low-input, low sequencing depth method, EpiMethylTag, that combines ATAC-seq or ChIP-seq (M-ATAC or M-ChIP) with bisulfite conversion, to simultaneously examine accessibility/TF binding and methylation on the same DNA. Here we demonstrate that EpiMethylTag can be used to study the functional interplay between chromatin accessibility and TF binding (CTCF and KLF4) at methylated sites.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31752933",
+          "offsetInBeginSection": 279,
+          "offsetInEndSection": 686
+        }
+      ],
+      "id": "6201a20cc9dfcb9c09000027",
+      "type": "summary",
+      "body": "What is EpiMethylTag?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34482398",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33512410",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33826820",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32176765"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Beyond PNH, complement inhibition has also shown efficacy and safety in cold agglutinin disease (CAD), primarily with the C1s inhibitor of the classical complement pathway, sutimlimab, but also with pegcetacoplan.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34482398",
+          "offsetInBeginSection": 805,
+          "offsetInEndSection": 1018
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " The complement C1s inhibitor sutimlimab is an emerging option in the second line and may also find its place in the first line in specific situations.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33512410",
+          "offsetInBeginSection": 1218,
+          "offsetInEndSection": 1369
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Sutimlimab, a humanized monoclonal antibody, selectively targets the C1s protein, a C1 complex serine protease responsible for activating this pathway.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33826820",
+          "offsetInBeginSection": 165,
+          "offsetInEndSection": 316
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Sutimlimab is a novel humanized monoclonal antibody directed against classical pathway complement factor C1s. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32176765",
+          "offsetInBeginSection": 113,
+          "offsetInEndSection": 223
+        }
+      ],
+      "id": "61f7cc0c882a024a1000002a",
+      "type": "factoid",
+      "body": "What is the target of Sutimlimab?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31496071",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28614408",
+        "http://www.ncbi.nlm.nih.gov/pubmed/26840774",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34703270"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Helminths and their products can shape immune responses by modulating immune cells, which are dysfunctional in inflammatory diseases such as asthm",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31496071",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 146
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Schistosoma japonicum peptide SJMHE1 suppresses airway inflammation of allergic asthma in mice.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31496071",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 95
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Schistosoma japonicum infection downregulates house dust mite-induced allergic airway inflammation in mice.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28614408",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 107
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "To our knowledge, it is the first study to reveal the impact of S. japonicum infection on house dust mite induced severe asthma. More in depth investigation is need to elucidate the underlying mechanisms",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28614408",
+          "offsetInBeginSection": 1091,
+          "offsetInEndSection": 1294
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Novel T-cell epitopes on Schistosoma japonicum SjP40 protein and their preventive effect on allergic asthma in mice.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26840774",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 116
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "hese results reveal a novel form of immune protective mechanism, which may play an important role in the modulating effect of helminth infection on allergic asthmatic reactions.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26840774",
+          "offsetInBeginSection": 845,
+          "offsetInEndSection": 1022
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Using a panel of overlapping peptides, we identified T-cell epitopes on SjP40 protein of Schistosoma japonicum, which can induce Th1 cytokine and inhibit the production of Th2 cytokines and airway inflammation in a mouse model of allergic asthma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26840774",
+          "offsetInBeginSection": 597,
+          "offsetInEndSection": 843
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Helminths and their products can regulate immune response and offer new strategies to control and alleviate inflammation, including asthma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34703270",
+          "offsetInBeginSection": 9,
+          "offsetInEndSection": 148
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "SJMHE1 Peptide from Schistosoma japonicum Inhibits Asthma in Mice by Regulating Th17/Treg Cell Balance via miR-155.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34703270",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 115
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We previously found that a peptide named as SJMHE1 from Schistosoma japonicum can suppress asthma in mice",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34703270",
+          "offsetInBeginSection": 149,
+          "offsetInEndSection": 254
+        }
+      ],
+      "id": "622f6ad13a8413c6530000aa",
+      "type": "yesno",
+      "body": "Can parasite infections by Schistosoma japonicum prevent or improve asthma?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30580288"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Genetic testing of hereditary cancer using comprehensive gene panels can identify patients with more than one pathogenic mutation in high and/or moderate-risk-associated cancer genes. This phenomenon is known as multilocus inherited neoplasia alleles syndrome (MINAS), which has been potentially linked to more severe clinical manifestations.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30580288",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 354
+        }
+      ],
+      "id": "62059190c9dfcb9c09000034",
+      "type": "summary",
+      "body": "Describe Multilocus Inherited Neoplasia Allele Syndrome (MINAS)"
+    }
+  ]
+}

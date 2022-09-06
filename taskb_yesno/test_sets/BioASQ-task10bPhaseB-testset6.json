@@ -1,0 +1,1877 @@
+{
+  "questions": [
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33999203",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31251384",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18463136",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23772049",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34265844"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "PredictProtein (https://predictprotein.org) is a one-stop online resource for protein sequence analysis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33999203",
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 114
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Jpred (http://www.compbio.dundee.ac.uk/jpred) is a secondary structure prediction server",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18463136",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 88
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The recently updated Jnet algorithm provides a three-state (alpha-helix, beta-strand and coil) prediction of secondary structure at an accuracy of 81.5%",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18463136",
+          "offsetInBeginSection": 203,
+          "offsetInEndSection": 355
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Porter 4.0 and PaleAle 4.0. Porter 4.0 predicts secondary structure correctly for 82.2% of residues",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23772049",
+          "offsetInBeginSection": 272,
+          "offsetInEndSection": 371
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Predicting the three-dimensional structure that a protein will adopt based solely on its amino acid sequence",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34265844",
+          "offsetInBeginSection": 577,
+          "offsetInEndSection": 685
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The PSIPRED Workbench is a web server offering a range of predictive methods",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31251384",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 76
+        }
+      ],
+      "id": "6278dd6156bf9aee6f000012",
+      "type": "list",
+      "body": "Are there any tools that could predict protein structure considering amino acid sequence?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26122737",
+        "http://www.ncbi.nlm.nih.gov/pubmed/25003191"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "p110α-p85α heterodimer",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26122737",
+          "offsetInBeginSection": 63,
+          "offsetInEndSection": 85
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "p110α-p85α dimer",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26122737",
+          "offsetInBeginSection": 691,
+          "offsetInEndSection": 707
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "p110α-p85α interface",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26122737",
+          "offsetInBeginSection": 1206,
+          "offsetInEndSection": 1226
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "RAS interaction with PI3K p110α",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25003191",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 31
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "interaction between RAS and p110α ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25003191",
+          "offsetInBeginSection": 294,
+          "offsetInEndSection": 328
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "functional interaction of RAS with p110α",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25003191",
+          "offsetInBeginSection": 529,
+          "offsetInEndSection": 569
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "RAS and p110α interaction",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25003191",
+          "offsetInBeginSection": 673,
+          "offsetInEndSection": 698
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "RAS interaction with PI3K p110α",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25003191",
+          "offsetInBeginSection": 1057,
+          "offsetInEndSection": 1088
+        }
+      ],
+      "id": "62793b1c56bf9aee6f00001e",
+      "type": "list",
+      "body": "Which proteins does p110α interact with?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26168008"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Our results show that STARD4 interacts with anionic membranes through a surface-exposed basic patch and that introducing a mutation (L124D) into the Omega-1 (Ω1) loop, which covers the sterol binding pocket, attenuates sterol transfer activity.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26168008",
+          "offsetInBeginSection": 750,
+          "offsetInEndSection": 994
+        }
+      ],
+      "id": "6278ca4a56bf9aee6f00000c",
+      "type": "factoid",
+      "body": "Which is the protein-membrane interface of the Cholesterol-regulated Start protein 4 protein (STARD4)?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/28434443",
+        "http://www.ncbi.nlm.nih.gov/pubmed/27741994",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22338211"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Aneurysmal subarachnoid hemorrhage (SAH) is associated with a mortality of more than 30%.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28434443",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 101
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Acute, severe headache, typically described as the worst headache of the patient\u0027s life, and meningismus are the characteristic manifestations of SAH. Computed tomog raphy (CT) reveals blood in the basal cisterns in the first 12 hours after SAH with approximately 95% sensitivity and specificity. If no blood is seen on CT, a lumbar puncture must be performed to confirm or rule out the diagnosis of SAH.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28434443",
+          "offsetInBeginSection": 306,
+          "offsetInEndSection": 710
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Aneurysmal subarachnoid hemorrhage (SAH) is a neurological emergency with high risk of neurological decline and death. Although the presentation of a thunderclap headache or the worst headache of a patient\u0027s life easily triggers the evaluation for SAH, subtle presentations are still missed. The gold standard for diagnostic evaluation of SAH remains noncontrast head computed tomography (CT) followed by lumbar puncture if the CT is negative for SAH.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/27741994",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 451
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Headache is the most common presenting symptom of subarachnoid hemorrhage (SAH), ranging from mild headache to the \"worst headache of my life\".",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22338211",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 155
+        }
+      ],
+      "id": "627a875a56bf9aee6f000023",
+      "type": "factoid",
+      "body": "What causes the \"worst headache\" of a patient\u0027s life?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33390842",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28741879",
+        "http://www.ncbi.nlm.nih.gov/pubmed/25306215"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "As a transcription factor and proto-oncogene, MYC is known to be deregulated in a variety of tumors, including breast cancer.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33390842",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 125
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "a tumor suppressor role of miR-376a in NSCLC by targeting c-Myc",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28741879",
+          "offsetInBeginSection": 1181,
+          "offsetInEndSection": 1244
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These results provide strong justification for eventual clinical evaluation of anti-Myc drugs as potential chemotherapeutic agents for the treatment of PDA.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25306215",
+          "offsetInBeginSection": 1833,
+          "offsetInEndSection": 1989
+        }
+      ],
+      "id": "62755c2a56bf9aee6f000001",
+      "type": "list",
+      "body": "Which are the types of cancer that c-Myc is associated with?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15743671",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33855023",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29608137"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The signaling pathways activated by these stresses are funneled to the p53 and Rb proteins, whose combined levels of activity determine whether cells enter senescence. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15743671",
+          "offsetInBeginSection": 935,
+          "offsetInEndSection": 1103
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Activation of the p53/p21WAF1/CIP1 and p16INK4A/pRB tumor suppressor pathways play a central role in regulating senescence. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33855023",
+          "offsetInBeginSection": 1242,
+          "offsetInEndSection": 1366
+        }
+      ],
+      "id": "621e2b7a54ca071a71a3bf9c",
+      "type": "list",
+      "body": "Which pathways are involved in cellular senescence?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20098710"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " A strong association between the risk of cognitive disability and the involvement of groups of DMD isoforms was found. In particular, improvements in the correlation of FSIQ with mutation location were identified when a new classification system for mutations affecting the Dp140 isoform was implemented.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20098710",
+          "offsetInBeginSection": 1039,
+          "offsetInEndSection": 1344
+        }
+      ],
+      "id": "6278dfe956bf9aee6f000016",
+      "type": "factoid",
+      "body": "Which disease phenotype has the worst prognosis in Duchenne Muscular Dystrophy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33835400",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34599308",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32236823"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mechanistic studies of key events in the formation of postganglionic sympathetic neurons during embryonic and early postnatal life, including axon growth, target innervation, neuron survival, and dendrite growth and synapse formation, have advanced the understanding of how neuronal development is shaped by interactions with peripheral tissues and organs",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34599308",
+          "offsetInBeginSection": 441,
+          "offsetInEndSection": 796
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "pharmacological BACE inhibition accelerates peripheral axon regeneration",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32236823",
+          "offsetInBeginSection": 1029,
+          "offsetInEndSection": 1101
+        }
+      ],
+      "id": "6273a2cae764a53204000046",
+      "type": "summary",
+      "body": "What links developmental pathways to ALS?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17168659"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Thalidomide (Thal) has antiangiogenic and immunomodulatory activity. Clinical research provided clear evidence that Thal is one of the most active drugs for the treatment of multiple myeloma leading to decrease of monoclonal protein of at least 50 % in 30 % of patients with relapsed or refractory multiple myeloma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17168659",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 315
+        }
+      ],
+      "id": "6278da4456bf9aee6f00000f",
+      "type": "yesno",
+      "body": "Is thalidomide used as an immunomodulatory drug nowadays?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26222500"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "homodimerized p85α",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26222500",
+          "offsetInBeginSection": 241,
+          "offsetInEndSection": 259
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "p110α-free p85α homodimerizes",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26222500",
+          "offsetInBeginSection": 319,
+          "offsetInEndSection": 348
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "homodimeric but not monomeric p85α",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26222500",
+          "offsetInBeginSection": 492,
+          "offsetInEndSection": 526
+        }
+      ],
+      "id": "6278d0a756bf9aee6f00000e",
+      "type": "yesno",
+      "body": "Does p85α homodimerize?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11259830"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In the discovery setting \u0027the rule of 5\u0027 predicts that poor absorption or permeation is more likely when there are more than 5 H-bond donors, 10 H-bond acceptors, the molecular weight (MWT) is greater than 500 and the calculated Log P (CLogP) is greater than 5 (or MlogP \u003e 4.15).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11259830",
+          "offsetInBeginSection": 135,
+          "offsetInEndSection": 414
+        }
+      ],
+      "id": "6278c73756bf9aee6f00000b",
+      "type": "list",
+      "body": "Which are the components that evaluate druglikeness?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34611496",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34599472",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33038021",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33222020",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33095513",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33085063"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These findings suggest that the use of ACE-I and ARB is not associated with adverse outcomes and may be associated with improved outcomes in COVID-19, which is immediately relevant to care of the many patients on these medications.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34611496",
+          "offsetInBeginSection": 1495,
+          "offsetInEndSection": 1726
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "There are theoretical concerns that angiotensin-converting enzyme inhibitors (ACEIs) and angiotensin receptor blockers (ARBs) could increase the risk of severe Covid-19.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34599472",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 181
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ACEIs and ARBs were associated with a slight reduction in Covid-19 hospitalization risk compared with treatment with other first-line antihypertensives (OR for ACEIs 0.95, 95% CI 0.92-0.98; OR for ARBs 0.94, 95% CI 0.90-0.97).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34599472",
+          "offsetInBeginSection": 1085,
+          "offsetInEndSection": 1311
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "There were no meaningful differences in risk for ACEIs compared with ARBs.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34599472",
+          "offsetInBeginSection": 1431,
+          "offsetInEndSection": 1505
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ACEIs and ARBs were not associated with an increased risk of Covid-19 hospitalization or with hospitalization involving ICU admission, invasive mechanical ventilation, or death.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34599472",
+          "offsetInBeginSection": 1795,
+          "offsetInEndSection": 1972
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In patients with HTN and COVID-19, neither ACEi nor ARBs were independently associated with mortality.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33222020",
+          "offsetInBeginSection": 1346,
+          "offsetInEndSection": 1448
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Our data confirm Specialty Societal recommendations, suggesting that treatment with ACEIs or ARBs should not be discontinued because of COVID-19.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33222020",
+          "offsetInBeginSection": 1542,
+          "offsetInEndSection": 1687
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Random-effects meta-analysis showed ACEI/ARB treatment was significantly associated with a lower risk of mortality in hypertensive COVID-19 patients (odds ratio [OR] \u003d 0.624, 95% confidence interval [CI] \u003d 0.457-0.852, p \u003d .003, I2  \u003d 74.3%).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33095513",
+          "offsetInBeginSection": 1016,
+          "offsetInEndSection": 1258
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In addition, the ACEI/ARB treatment was associated with a lower risk of ventilatory support (OR \u003d 0.682, 95% CI \u003d 0.475-1.978, p \u003d .037, I2  \u003d 0.0%). In conclusion, these results suggest that ACEI/ARB medications should not be discontinued for hypertensive patients in the context of COVID-19 pandemic.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33095513",
+          "offsetInBeginSection": 1562,
+          "offsetInEndSection": 1864
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Use of ACE-I or ARB medications was not associated with increased risk of hospitalization, intensive care unit admission, or death. Compared to patients with charted past medical history, there was a lower risk of hospitalization for patients on ACE-I (odds ratio (OR) 0.43; 95% confidence interval (CI) 0.19-0.97; P \u003d 0.0426) and ARB (OR 0.39; 95% CI 0.17-0.90; P \u003d 0.0270).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34611496",
+          "offsetInBeginSection": 942,
+          "offsetInEndSection": 1317
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The second analysis showed that the use of ACEI and/or ARB did not affect in-hospital mortality (risk ratio [RR] 95% [CI]] \u003d 0.88 [0.64-1.20], p \u003d 0.42). The subgroup analysis by limiting studies of patients with hypertension showed ACEI and/or ARB use was associated with a significant reduction of in-hospital mortality compared with no ACEI or ARB use (RR [CI] \u003d 0.66 [0.49-0.89], p \u003d 0.004). Our analysis demonstrated that ACEI and/or ARB use was associated neither with testing positive rates of COVID-19 nor with mortality of COVID-19 patients.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33038021",
+          "offsetInBeginSection": 1092,
+          "offsetInEndSection": 1642
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ACEIs/ARBs are protective factors against mortality in COVID-19 patients with HTN, and these agents can be considered potential therapeutic options in this disease.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33085063",
+          "offsetInBeginSection": 1349,
+          "offsetInEndSection": 1513
+        }
+      ],
+      "id": "6276d2d956bf9aee6f000002",
+      "type": "yesno",
+      "body": "Do angiotensin-converting-enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) increase the likelihood of severe COVID-19?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16873022",
+        "http://www.ncbi.nlm.nih.gov/pubmed/25306215",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18288422",
+        "http://www.ncbi.nlm.nih.gov/pubmed/26474287",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19432426",
+        "http://www.ncbi.nlm.nih.gov/pubmed/24859015",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23801058",
+        "http://www.ncbi.nlm.nih.gov/pubmed/25114221",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31679823"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We have identified two small molecules, dubbed Mycro1 and Mycro2, which inhibit the protein-protein interactions between the bHLHZip proteins c-Myc and Max. Mycros are the first inhibitors of c-Myc/Max dimerization, which have been demonstrated to inhibit DNA binding of c-Myc with preference over other dimeric transcription factors in vitro",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16873022",
+          "offsetInBeginSection": 344,
+          "offsetInEndSection": 686
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We tested the efficacy of Mycro3, a small-molecule inhibitor of Myc-Max dimerization",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25306215",
+          "offsetInBeginSection": 339,
+          "offsetInEndSection": 423
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Inhibition of MYC/MAX dimerization by a small-molecule antagonist (IIA6B17) has been shown to interfere with MYC-induced transformation of chick embryo fibroblasts, suggesting that the functional inhibitors of the MYC family of oncoproteins have potential as therapeutic agents.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18288422",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 278
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We report here that the naturally-occurring triterpenoid celastrol is an inhibitor of the c-Myc (Myc) oncoprotein, which is over-expressed in many human cancers. Most Myc inhibitors prevent the association between Myc and its obligate heterodimerization partner Max via their respective bHLH-ZIP domains",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26474287",
+          "offsetInBeginSection": 212,
+          "offsetInEndSection": 515
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "One approach to its inhibition has been to disrupt the dimeric complex formed between its basic helix-loop-helix leucine zipper (bHLHZip) domain and a similar domain on its dimerization partner, Max. As monomers, bHLHZip proteins are intrinsically disordered (ID). Previously we showed that two c-Myc-Max inhibitors, 10058-F4 and 10074-G5, bound to distinct ID regions of the monomeric c-Myc bHLHZip domain",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19432426",
+          "offsetInBeginSection": 149,
+          "offsetInEndSection": 555
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We have previously demonstrated that the small molecule 10058-F4, known to bind to the c-MYC bHLHZip dimerization domain and inhibiting the c-MYC/MAX interaction, also interferes with the MYCN/MAX dimerization in vitro and imparts anti-tumorigenic effects in neuroblastoma tumor models with MYCN overexpression",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24859015",
+          "offsetInBeginSection": 343,
+          "offsetInEndSection": 653
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We have recently reported a structure-activity relationship study of one such small molecule, 10074-G5, and generated an analog, JY-3-094, with significantly improved ability to prevent or disrupt the association between recombinant Myc and Max proteins. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23801058",
+          "offsetInBeginSection": 335,
+          "offsetInEndSection": 590
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In a fluorescence polarization screen for the MYC-MAX interaction, we have identified a novel small-molecule inhibitor of MYC, KJ-Pyr-9, from a Kröhnke pyridine library",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25114221",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 168
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We developed a series of small-molecule MYC inhibitors that engage MYC inside cells, disrupt MYC/MAX dimers, and impair MYC-driven gene expression. The compounds enhance MYC phosphorylation on threonine-58, consequently increasing proteasome-mediated MYC degradation. The initial lead, MYC inhibitor 361 (MYCi361), suppressed in vivo tumor growth in mice, increased tumor immune cell infiltration, upregulated PD-L1 on tumors, and sensitized tumors to anti-PD1 immunotherapy. However, 361 demonstrated a narrow therapeutic index. An improved analog, MYCi975 showed better tolerability.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31679823",
+          "offsetInBeginSection": 163,
+          "offsetInEndSection": 748
+        }
+      ],
+      "id": "6275199fe764a5320400004d",
+      "type": "list",
+      "body": "Which small molecules inhibit the c-Myc/Max dimerization?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32184340"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Modeling disease trajectory in Duchenne muscular dystrophy",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32184340",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 58
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Longitudinal changes in biomarkers were modeled with a cumulative distribution function using a nonlinear mixed-effects approach.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32184340",
+          "offsetInBeginSection": 589,
+          "offsetInEndSection": 718
+        }
+      ],
+      "id": "6278df3c56bf9aee6f000015",
+      "type": "list",
+      "body": "Which models are used for predicting disease progression in Duchenne Muscular Dystrophy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32986860",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34018075",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34357138",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34776863",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33661767",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15657392"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Strikingly, the recent observations of pathological changes in muscle occurring before disease onset and independent from MN degeneration have bolstered the interest for the study of muscle tissue as a potential target for delivery of therapies for ALS",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34357138",
+          "offsetInBeginSection": 301,
+          "offsetInEndSection": 553
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Skeletal muscle has just been described as a tissue with an important secretory function that is toxic to MNs in the context of ALS",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34357138",
+          "offsetInBeginSection": 555,
+          "offsetInEndSection": 686
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " In this sense, molecular mechanisms essential for cell and tissue homeostasis have been shown to be deregulated in the disease. These include muscle metabolism and mitochondrial activity, RNA processing, tissue-resident stem cell function responsible for muscle regeneration, and proteostasis that regulates muscle mass in adulthood.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32986860",
+          "offsetInBeginSection": 570,
+          "offsetInEndSection": 904
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ALS pathology originates at a single site and spreads in an organized and prion-like manner, possibly driven by extracellular vesicles",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34776863",
+          "offsetInBeginSection": 125,
+          "offsetInEndSection": 259
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here, we report on the identification of Itga7-expressing muscle-resident glial cells activated by loss of neuromuscular junction (NMJ) integrity",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33661767",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 145
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "muscle-restricted expression of a localized insulin-like growth factor (Igf) -1 isoform maintained muscle integrity and enhanced satellite cell activity in SOD1(G93A) transgenic mice",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15657392",
+          "offsetInBeginSection": 427,
+          "offsetInEndSection": 609
+        }
+      ],
+      "id": "6273a2fde764a53204000048",
+      "type": "summary",
+      "body": "What links muscle cellular pathways to ALS?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32176377",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33325140",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32956987"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mutations in KRAS - such as the G12C mutation - are found in most pancreatic, half of colorectal and a third of lung cancer cases and is thus responsible for a substantial proportion of cancer deaths",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32176377",
+          "offsetInBeginSection": 113,
+          "offsetInEndSection": 312
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "KRAS G12V mutation upregulates PD-L1 expression via TGF-β/EMT signaling pathway in human non-small-cell lung cancer.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33325140",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 116
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The most prevalent mutant subtype of KRAS in lung adenocarcinoma was G12C(9.88 %,56/567), followed by G12 V(5.82 %,33/567), G12D(3.00 %,17/567), G12A(3.00 %,17/567), respectively.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32956987",
+          "offsetInBeginSection": 1278,
+          "offsetInEndSection": 1457
+        }
+      ],
+      "id": "6278e49256bf9aee6f000017",
+      "type": "list",
+      "body": "For what known mutations is KRAS gene considered to be oncogenic?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21827948",
+        "http://www.ncbi.nlm.nih.gov/pubmed/26222500",
+        "http://www.ncbi.nlm.nih.gov/pubmed/26122737"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "p110δ interaction with p85α",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21827948",
+          "offsetInBeginSection": 42,
+          "offsetInEndSection": 69
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "regulatory interactions of p110δ with p85α",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21827948",
+          "offsetInBeginSection": 328,
+          "offsetInEndSection": 370
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "homodimerized p85α",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26222500",
+          "offsetInBeginSection": 241,
+          "offsetInEndSection": 259
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "p110α-free p85α homodimerizes",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26222500",
+          "offsetInBeginSection": 319,
+          "offsetInEndSection": 348
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "homodimeric but not monomeric p85α",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26222500",
+          "offsetInBeginSection": 492,
+          "offsetInEndSection": 526
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "p110α-p85α heterodimer",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26122737",
+          "offsetInBeginSection": 63,
+          "offsetInEndSection": 85
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "p110α-p85α dimer",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26122737",
+          "offsetInBeginSection": 691,
+          "offsetInEndSection": 707
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "p110α-p85α interface",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26122737",
+          "offsetInBeginSection": 1206,
+          "offsetInEndSection": 1226
+        }
+      ],
+      "id": "6279392856bf9aee6f00001d",
+      "type": "list",
+      "body": "Which proteins does the p85α interact with?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23742907",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20161451",
+        "http://www.ncbi.nlm.nih.gov/pubmed/27254668",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29750256",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28282132"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here, a Monte Carlo (MC) path generation approach is proposed and implemented to define likely allosteric pathways through generating an ensemble of maximum probability paths.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23742907",
+          "offsetInBeginSection": 181,
+          "offsetInEndSection": 356
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Overall, it is demonstrated that the communication pathways could be multiple and intrinsically disposed, and the MC path generation approach provides an effective tool for the prediction of key residues that mediate the allosteric communication in an ensemble of pathways and functionally plausible residues",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23742907",
+          "offsetInBeginSection": 808,
+          "offsetInEndSection": 1116
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We present a novel method, \"MutInf\", to identify statistically significant correlated motions from equilibrium molecular dynamics simulations",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20161451",
+          "offsetInBeginSection": 226,
+          "offsetInEndSection": 367
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The motion of residues and subunits underlies protein function; therefore, we hypothesized that the motions of allosteric and orthosteric sites are correlated. We utilized a data set of 24 known allosteric sites from 23 monomer proteins to calculate the correlations between potential ligand-binding sites and corresponding orthosteric sites using a Gaussian network model (GNM)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/27580047",
+          "offsetInBeginSection": 364,
+          "offsetInEndSection": 742
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " To facilitate its usage, we present here the principles and practice of the SCA and introduce new methods for sector analysis in a python-based software package (pySCA).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/27254668",
+          "offsetInBeginSection": 629,
+          "offsetInEndSection": 799
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CorrSite identifies potential allosteric ligand-binding sites based on motion correlation analyses between cavities.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29750256",
+          "offsetInBeginSection": 583,
+          "offsetInEndSection": 699
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here, we introduce the Correlation of All Rotameric and Dynamical States (CARDS) framework for quantifying correlations between both the structure and disorder of different regions of a protein",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28282132",
+          "offsetInBeginSection": 441,
+          "offsetInEndSection": 634
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We find that CARDS captures allosteric communication between the two cAMP-Binding Domains (CBDs)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28282132",
+          "offsetInBeginSection": 1054,
+          "offsetInEndSection": 1150
+        }
+      ],
+      "id": "6278cb6056bf9aee6f00000d",
+      "type": "list",
+      "body": "Computational tools for predicting allosteric pathways in proteins"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34236447",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30216260",
+        "http://www.ncbi.nlm.nih.gov/pubmed/717321"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Possible clinical signs are the presence of cerebrospinal fluid rhinorrhea or otorrhea, periorbital ecchymosis (raccoon eyes), retroauricular ecchymosis (battle sign) and cranial nerve injuries",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34236447",
+          "offsetInBeginSection": 329,
+          "offsetInEndSection": 522
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Although clinical signs for the diagnosis of basilar skull fracture (BSF) are ambiguous, they are widely used to make decisions on initial interventions involving trauma patients.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30216260",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 179
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The following signs of BSF were considered: raccoon eyes, Battle\u0027s sign, otorrhea, and rhinorrhea.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30216260",
+          "offsetInBeginSection": 597,
+          "offsetInEndSection": 695
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Included in the study were patients with hemotympanum alone or with hemotympanum plus additional clinical or roentgenographic signs of basilar skull fracture; patients with tympanic membrane perforation without otorrhea but with blood in the auditory canal; and children with either otorrhea or rhinorrhea.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/717321",
+          "offsetInBeginSection": 332,
+          "offsetInEndSection": 638
+        }
+      ],
+      "id": "62793bad56bf9aee6f00001f",
+      "type": "list",
+      "body": "What are the classic signs of a basilar skull fracture?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31892637",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31881125"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "MRI measurements can be used as biomarkers of disease severity in ambulant patients with DMD.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31892637",
+          "offsetInBeginSection": 1334,
+          "offsetInEndSection": 1427
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "malate dehydrogenase 2 as candidate prognostic biomarker for Duchenne muscular dystrophy",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31881125",
+          "offsetInBeginSection": 50,
+          "offsetInEndSection": 138
+        }
+      ],
+      "id": "6278dc0c56bf9aee6f000010",
+      "type": "list",
+      "body": "Which biomarkers are currently used for Duchenne Muscular Dystrophy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32656815",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34469619",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34518331",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34502460",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32962914",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33332650"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The meta-analyses identified few lipid metabolic pathways dysregulated early that were exacerbated at symptomatic stages",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34502460",
+          "offsetInBeginSection": 898,
+          "offsetInEndSection": 1018
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "abnormal level of cholesterol and other lipids in the circulation and central nervous system (CNS), has been reported in ALS patients",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34469619",
+          "offsetInBeginSection": 331,
+          "offsetInEndSection": 464
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Higher blood high density lipoprotein and apolipoprotein A1 levels are associated with reduced risk of developing amyotrophic lateral sclerosis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34518331",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 144
+        }
+      ],
+      "id": "6273a317e764a53204000049",
+      "type": "summary",
+      "body": "What links lipid metabolism pathways to ALS?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32631771",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34509326",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34507521",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34472807"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Recent reports have described a secondary Multisystem Inflammatory Syndrome in Children (MIS-C) after a prior COVID-19 infection that often has features of Kawasaki disease (KD).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32631771",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 178
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In conclusion, multisystem-inflammatory syndrome in children associated with COVID-19 (MIS-C) is a new entity describing a post-infectious inflammatory response in children with prior COVID-19 exposure. Cardiac involvement can include myopericarditis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34509326",
+          "offsetInBeginSection": 974,
+          "offsetInEndSection": 1225
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Multisystem inflammatory syndrome in children (MIS-C) is a novel, life-threatening hyperinflammatory condition that develops in children a few weeks after infection with severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). This disease has created a diagnostic challenge due to overlap with Kawasaki disease (KD) and KD shock syndrome. The majority of patients with MIS-C present with the involvement of at least four organ systems, and all have evidence of a marked inflammatory state. Most patients show an increase in the level of at least four inflammatory markers (C-reactive protein, neutrophil count, ferritin, procalcitonin, fibrinogen, interleukin-6, and triglycerides). Therapy is primarily with immunomodulators, suggesting that the disease is driven by post-infectious immune dysregulation. Most patients, even those with severe cardiovascular involvement, recover without sequelae. Since coronary aneurysms have been reported, echocardiographic follow-up is needed.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34507521",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 987
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Multisystem inflammatory syndrome in children (MIS-C) is a well described and documented condition that is associated with the active or recent COVID-19 infection. A similar presentation in adults is termed as Multisystem inflammatory syndrome in Adults (MIS-A).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34472807",
+          "offsetInBeginSection": 119,
+          "offsetInEndSection": 381
+        }
+      ],
+      "id": "627a989856bf9aee6f000024",
+      "type": "summary",
+      "body": "What is the multisystem inflammatory syndrome in children (MIS-C) associated with COVID-19?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34776418",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32611643"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Using data from the Muscular Dystrophy Surveillance, Tracking, and Research Network (MD STARnet)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34776418",
+          "offsetInBeginSection": 501,
+          "offsetInEndSection": 597
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Five sources of RWD/NHD were contributed by Universitaire Ziekenhuizen Leuven, DMD Italian Group, The Cooperative International Neuromuscular Research Group, ImagingDMD, and the PRO-DMD-01 study (n \u003d 430 patients, in total).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32611643",
+          "offsetInBeginSection": 511,
+          "offsetInEndSection": 735
+        }
+      ],
+      "id": "6278dd4c56bf9aee6f000011",
+      "type": "list",
+      "body": "What datasets are available related to Duchenne Muscular Dystrophy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27308305",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32594542"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Neuromuscular pathology in ALS involves the systemic regulation of inflammatory markers mostly active on T-cell immune responses.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/27308305",
+          "offsetInBeginSection": 1469,
+          "offsetInEndSection": 1598
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "At the sites of motor neuron injury, accumulation of activated microglia, the primary immune cells of the central nervous system, is commonly observed in both human post mortem studies and animal models of MND",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32594542",
+          "offsetInBeginSection": 150,
+          "offsetInEndSection": 359
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Microglial activation has been found to correlate with many clinical features and importantly, the speed of disease progression in humans.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32594542",
+          "offsetInBeginSection": 361,
+          "offsetInEndSection": 499
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Both anti-inflammatory and pro-inflammatory microglial responses have been shown to influence disease progression in humans and models of MND",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32594542",
+          "offsetInBeginSection": 500,
+          "offsetInEndSection": 641
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "microglia could both contribute to and protect against inflammatory mechanisms of pathogenesis in MND",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32594542",
+          "offsetInBeginSection": 652,
+          "offsetInEndSection": 753
+        }
+      ],
+      "id": "6273a2a0e764a53204000045",
+      "type": "summary",
+      "body": "What links immune response pathways to ALS?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31490402",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33231056",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28331457",
+        "http://www.ncbi.nlm.nih.gov/pubmed/8682350",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31094486",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33961285",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31837157",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22525460"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "There have been a few reported cases of subacute combined degeneration (SCD) associated with vitamin E deficiency, but the period of intestinal malabsorption was more than several years.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31490402",
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 197
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "This case suggests that if neurological symptoms occur in patients with intestinal obstruction, clinicians need to consider a deficiency of micronutrients such as vitamin E and vitamin B12.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31490402",
+          "offsetInBeginSection": 1528,
+          "offsetInEndSection": 1717
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "SCD associated with vitamin E deficiency was confirmed by laboratory investigations, electrophysiologic test, and whole spine magnetic resonance imaging scans.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31490402",
+          "offsetInBeginSection": 934,
+          "offsetInEndSection": 1093
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Vision loss resulting from thiamine deficiency is a recognized complication of bariatric surgery. Most patients with such vision loss have Wernicke encephalopathy with characteristic changes seen on neuroimaging. Other patients may have retinal hemorrhages, optic disc edema, and peripheral neuropathy without Wernicke encephalopathy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28331457",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 346
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Patients who undergo bariatric surgery and have a thiamine deficiency can present with visual symptoms and ophthalmologic findings only visible by fundoscopy prior to developing more severe and potentially irreversible complications from the vitamin deficiency.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28331457",
+          "offsetInBeginSection": 928,
+          "offsetInEndSection": 1189
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Children deficient in vitamin E have various neurologic symptoms.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8682350",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 65
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "A 15-year-old boy with fat malabsorption due to cystic fibrosis who was diagnosed as being vitamin E deficient (\u003c 0.5 mg/l), had typical neuropathies. On the other hand, a 12-year-old Beduin girl had isolated vitamin E deficiency, as well as neurological symptoms suggestive of Friedrich\u0027s ataxia.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8682350",
+          "offsetInBeginSection": 149,
+          "offsetInEndSection": 446
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The demands in vitamin B12 are particularly high in nervous tissue. Hypovitaminosis is accompanied by pathological lesions both in white and gray brain matter. Several types of neurological manifestations are described: subacute combined degeneration of spinal cord (funicular myelinosis), sensomotor polyneuropathy, optic nerve neuropathy, cognitive disorders.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31094486",
+          "offsetInBeginSection": 1302,
+          "offsetInEndSection": 1663
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "A 51-year-old female had been on vegetarian diet as a child, and on restrict vegan diet during the last 2 years, developing severe bilateral deterioration of visual function and polyneuropathy. Blood test revealed low levels of vitamin A, B6 and D.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33961285",
+          "offsetInBeginSection": 352,
+          "offsetInEndSection": 600
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Nutritional visual defects are apparently uncommon nowadays in developed nations. Retinal change-related visual defects caused by hypovitaminoses may be underdiagnosed.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33961285",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 180
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Cobalamin deficiency neuropathy is the exception, often presenting with a non-length-dependent sensory neuropathy. Patients with cobalamin and copper deficiency neuropathy characteristically have concomitant myelopathy, whereas vitamin E deficiency is uniquely associated with a spinocerebellar syndrome.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31837157",
+          "offsetInBeginSection": 215,
+          "offsetInEndSection": 519
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Epidemiological and clinical data show that the consequences of vitamin D deficiency are relevant to disease risk and can be observed in the progression of many diseases, especially AD, whereas higher serum levels of vitamin D are associated with better cognitive test performance.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31838171",
+          "offsetInBeginSection": 205,
+          "offsetInEndSection": 486
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Multifocal neurological dysfunction in our patient represented beriberi and Wernicke\u0027s encephalopathy related to vitamin B1 deficiency.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22525460",
+          "offsetInBeginSection": 526,
+          "offsetInEndSection": 661
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We report a 25-year-old woman who developed subacute progressive weakness and areflexia followed by confusion, ophthalmoplegia, and nystagmus following bariatric surgery.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22525460",
+          "offsetInBeginSection": 156,
+          "offsetInEndSection": 326
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Vitamin B12 deficiency is one of the main complications of vegetarianism.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33231056",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 73
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We describe the case of a 1 month 20 days-old infant who consulted due to paroxysmal episodes of epileptogenic mechanism; laboratory tests identified a deficiency in vitamin B12 as the cause.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33231056",
+          "offsetInBeginSection": 222,
+          "offsetInEndSection": 413
+        }
+      ],
+      "id": "62784f9756bf9aee6f00000a",
+      "type": "list",
+      "body": "Which vitamin deficiencies may present with neurologic signs or symptoms?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34071811"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Deep Learning of Ultrasound Imaging for Evaluating Ambulatory Function of Individuals with Duchenne Muscular Dystrophy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34071811",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 119
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The results show that each deep learning model endows muscle ultrasound imaging with the ability to enable DMD evaluations.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34071811",
+          "offsetInBeginSection": 907,
+          "offsetInEndSection": 1030
+        }
+      ],
+      "id": "6278de8e56bf9aee6f000014",
+      "type": "summary",
+      "body": "Which are the uses of deep learning models in Duchenne Muscular Dystrophy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34580069",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34485849",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33786465",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34068009"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "While it is now apparent clinical sequelae (long COVID) may persist after acute COVID-19, their nature, frequency and aetiology are poorly characterised.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34580069",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 165
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Long COVID is a complex condition with prolonged heterogeneous symptoms. The nature of studies precludes a precise case definition or risk evaluation. There is an urgent need for prospective, robust, standardised, controlled studies into aetiology, risk factors and biomarkers to characterise long COVID in different at-risk populations and settings.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34580069",
+          "offsetInBeginSection": 1716,
+          "offsetInEndSection": 2066
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Over 60 physical and psychological signs and symptoms with wide prevalence were reported, most commonly weakness (41%; 95% CI 25% to 59%), general malaise (33%; 95% CI 15% to 57%), fatigue (31%; 95% CI 24% to 39%), concentration impairment (26%; 95% CI 21% to 32%) and breathlessness (25%; 95% CI 18% to 34%). 37% (95% CI 18% to 60%) of patients reported reduced quality of life; 26% (10/39) of studies presented evidence of reduced pulmonary function.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34580069",
+          "offsetInBeginSection": 1252,
+          "offsetInEndSection": 1704
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The most frequently reported long-COVID symptoms were mental health-related symptoms (55.2%), fatigue (51.2%), general ache/pain (48.4%), brain fog/confusion (32.8%), and dyspnea (28.9%) among users reporting at least 1 symptom.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34485849",
+          "offsetInBeginSection": 567,
+          "offsetInEndSection": 795
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "\"Long COVID\" is the condition whereby affected individuals do not recover for several weeks or months following the onset of symptoms suggestive of COVID-19, whether tested or not.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33786465",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 180
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Emerging aspects of the Covid-19 clinical presentation are its long-term effects, which are characteristic of the so-called \"long COVID\".",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34068009",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 149
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The main symptoms associated with \"long COVID\" were headache, fatigue, muscle aches/myalgia, articular pains, cognitive impairment, loss of concentration, and loss of smell. Additionally, the subjects showed significant levels of insomnia (p \u003c 0.05) and an overall reduced quality of life (p \u003c 0.05).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34068009",
+          "offsetInBeginSection": 757,
+          "offsetInEndSection": 1057
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Further studies are needed in order to better define the clinical presentation of the \"long COVID\" condition and related targeted treatments.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34068009",
+          "offsetInBeginSection": 1224,
+          "offsetInEndSection": 1365
+        }
+      ],
+      "id": "62792bb156bf9aee6f00001c",
+      "type": "summary",
+      "body": "What is \"long-COVID\"?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21954141"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "North Star Ambulatory Assessment is practical and reliable.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21954141",
+          "offsetInBeginSection": 934,
+          "offsetInEndSection": 993
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "allow assessment of high-functioning boys with Duchenne muscular dystrophy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21954141",
+          "offsetInBeginSection": 1120,
+          "offsetInEndSection": 1195
+        }
+      ],
+      "id": "6278ddfe56bf9aee6f000013",
+      "type": "yesno",
+      "body": "Are functional tests a good biomarker for Duchenne Muscular Dystrophy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8164014",
+        "http://www.ncbi.nlm.nih.gov/pubmed/1449838",
+        "http://www.ncbi.nlm.nih.gov/pubmed/3208208",
+        "http://www.ncbi.nlm.nih.gov/pubmed/6830166"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The initial MRI was strongly suggestive of MS in 19 of these (68%), while 27 (96%) had at least one MS-like abnormality in the initial MRI.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8164014",
+          "offsetInBeginSection": 704,
+          "offsetInEndSection": 843
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These results support previous conclusions that MRI is the most sensitive test for detecting white matter asymptomatic lesions, and the most predictive for the diagnosis of CDMS.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8164014",
+          "offsetInBeginSection": 1059,
+          "offsetInEndSection": 1237
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The most sensitive test was MRI (93%) followed by VEP (83%) and BAEP (60%) and the sensitivity of the study with high resolution CT including 59 patients explored by double enhancement and delayed cut off was very low (33%).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/1449838",
+          "offsetInBeginSection": 639,
+          "offsetInEndSection": 863
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " In diagnosis, MRI is the most sensitive test for the demonstration of dissemination of lesions in space.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/3208208",
+          "offsetInBeginSection": 200,
+          "offsetInEndSection": 305
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "MRI also is a reliable measure of the extent of the MS process, serial MRI scans detect evidence of disease activity in MS not always disclosed by clinical evaluation.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/3208208",
+          "offsetInBeginSection": 508,
+          "offsetInEndSection": 675
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These results indicate that the presence of oligoclonal bands provides sensitive supporting evidence for the diagnosis of MS but that bands may be present in other disorders, including those not directly related to infection or abnormal immune response. The data suggest that oligoclonal bands may represent an immune response to neurological injury that is prominent in disorders with a particularly intense or continuous antigenic stimulus.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/6830166",
+          "offsetInBeginSection": 1149,
+          "offsetInEndSection": 1591
+        }
+      ],
+      "id": "6277de0d56bf9aee6f000006",
+      "type": "factoid",
+      "body": "What is the most sensitive test for the diagnosis of multiple sclerosis?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11240545",
+        "http://www.ncbi.nlm.nih.gov/pubmed/26444398"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Benign intracranial hypertension (BIH) is characterized by an elevation of the intracranial pressure not associated with an intracranial process or hydrocephaly, and with normal cerebrospinal fluid (CSF) contents. The elevation of the intracranial pressure is isolated; therefore, diseases such as cerebral venous thrombosis or dural fistulas should not be considered as etiologies of BIH. The exact definition of BIH remains debated, and other terms such as \"pseudotumor cerebri\" or \"idiopathic intracranial hypertension\" are often used in the literature.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11240545",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 556
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The management of patients with BIH depends mainly on the presence and severity of ocular symptoms and signs on which the prognostic of the disease is based. Repeated lumbar punctures associated with acetazolamide and weight loss are usually efficient enough. However a surgical treatment (optic nerve sheath fenestration or lumboperitoneal shunt) is required when appropriate medical management does not prevent progressive alteration of vision (visual loss or visual field defect), or when the patients complains of severe, refractory headaches. Careful follow-up with repeated formal visual field testing may help preventing a devastating visual loss in these patients.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11240545",
+          "offsetInBeginSection": 985,
+          "offsetInEndSection": 1657
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Idiopathic intracranial hypertension (IIH) is a rare disorder occurring more frequently in obese women of childbearing age, resulting in increased intracranial pressure (ICP) from an unknown cause.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26444398",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 197
+        }
+      ],
+      "id": "627aa17156bf9aee6f000026",
+      "type": "summary",
+      "body": "Define pseudotumor cerebri. How is it treated?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/7316680",
+        "http://www.ncbi.nlm.nih.gov/pubmed/9658274",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32318620",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21995351",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12910854"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "It is defined as an intellectual impairment in patients with a primary psychiatric disorder, in which the features of intellectual abnormality resemble, at least in part, those of a neuropathologically induced cognitive deficit. This neuropsychological impairment is reversible, and there is no apparent primary neuropathological process that leads to the genesis of this disturbance.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/7316680",
+          "offsetInBeginSection": 121,
+          "offsetInEndSection": 505
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "A new definition has been introduced for \u0027pseudodementia\u0027 as a syndrome of reversible subjective or objective cognitive problems caused by non-organic disorder. Thus depressive pseudodementia may be classified into two subtypes. Type I is a group of patients who have depressive symptoms with subject complaint of dysmnesia without measurable intellectual deficits. Type II is a group of patients who have depressive symptoms and show poor cognitive performance based on poor concentration not due to organic disorder.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/9658274",
+          "offsetInBeginSection": 1251,
+          "offsetInEndSection": 1769
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Dementia has a wide range of reversible causes. Well known among these is depression, though other psychiatric disorders can also impair cognition and give the appearance of neurodegenerative disease. This phenomenon has been known historically as \"pseudodementia.\"",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32318620",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 265
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The term \"pseudodementia\" had been used previously. However, Kiloh\u0027s paper gave impetus to psychiatrists to focus on the potential reversibility of cognitive impairments that might be attributable to psychiatric disorders (depression, schizophrenia and conversion disorder among them).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21995351",
+          "offsetInBeginSection": 361,
+          "offsetInEndSection": 646
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Cognitive dysfunctions in elder depressive patients (so called pseudodementia) as well as comorbidity of dementia with depression are special diagnostic problems.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12910854",
+          "offsetInBeginSection": 77,
+          "offsetInEndSection": 239
+        }
+      ],
+      "id": "6277d7f356bf9aee6f000004",
+      "type": "summary",
+      "body": "What is pseudodementia?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32460369",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33824640",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32505846",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32447629"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Although based on existing evidence, NSAIDs have been effective in treating respiratory infections caused by influenza and rhinovirus, since there is no clinical trial on COVID-19 and case-reports and clinical experiences are indicative of elongation of treatment duration and exacerbation of the clinical course of patients with COVID-19, it is recommended to use substitutes such as acetaminophen for controlling fever and inflammation and be cautious about using NSAIDs in management of COVID-19 patients until there are enough evidence.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32460369",
+          "offsetInBeginSection": 1136,
+          "offsetInEndSection": 1676
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Pharmacological approaches like acetaminophen, NSAIDS, spasmolytics etc. can be used if non-pharmacological therapy is inadequate. As per the current strength of evidence, acetaminophen and ibuprofen can be safely administered for pain management in children with COVID-19.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33824640",
+          "offsetInBeginSection": 1230,
+          "offsetInEndSection": 1503
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Recently, the safety of ibuprofen in COVID-19 patients has been questioned due to anecdotal reports of worsening symptoms in previously healthy young adults.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32505846",
+          "offsetInBeginSection": 207,
+          "offsetInEndSection": 364
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Paracetamol (acetaminophen) has been proposed as an alternative to NSAIDs but there are issues with liver toxicity at high doses. There are clearly COVID-19 cases where NSAIDs should not be used, but there is no strong evidence that NSAIDs must be avoided in all patients with COVID-19; clinicians must weigh these choices on an individual basis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32447629",
+          "offsetInBeginSection": 1055,
+          "offsetInEndSection": 1401
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Concern about the appropriate role of nonsteroidal anti-inflammatory drugs (NSAIDs) in COVID-19 speculate that NSAIDs, in particular ibuprofen, may upregulate the entry point for the virus, the angiotensin-converting enzyme (ACE) 2 receptors and increase susceptibility to the virus or worsen symptoms in existing disease.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32447629",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 322
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The Expert Working Group on the Commission of Human Medicines in the UK and other organizations have stated that there is insufficient evidence to establish a link between ibuprofen and susceptibility to or exacerbation of COVID-19.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32447629",
+          "offsetInBeginSection": 485,
+          "offsetInEndSection": 717
+        }
+      ],
+      "id": "6277e4ee56bf9aee6f000008",
+      "type": "factoid",
+      "body": "Should acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs) be used when providing supportive care for COVID-19?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33537361",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32445165",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32881022"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Findings indicate that clinical symptoms alone would be insufficient to distinguish between coronavirus disease 2019 and other respiratory infections (eg, influenza) and/or to evaluate the effects of preventive interventions (eg, vaccinations).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33537361",
+          "offsetInBeginSection": 166,
+          "offsetInEndSection": 410
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Our reasoning highlights how challenging a balanced approach to a patient with fever and flu-like symptoms can be. At present, clinical workup of COVID-19 remains a hard task to accomplish.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32445165",
+          "offsetInBeginSection": 778,
+          "offsetInEndSection": 967
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In our retrospective cohort study comparing the clinical presentation of COVID-19 and other respiratory viral infections, we found that anosmia and dysgeusia were symptoms independently associated with COVID-19 and can be important differentiating symptoms in patients presenting with acute respiratory illness. On the other hand, laboratory abnormalities and radiological findings were not statistically different between the two groups.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32881022",
+          "offsetInBeginSection": 579,
+          "offsetInEndSection": 1017
+        }
+      ],
+      "id": "627926bc56bf9aee6f00001a",
+      "type": "yesno",
+      "body": "Is there a way to distinguish COVID-19 clinically from other respiratory illnesses, particularly influenza?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34535192",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33024342",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34541481",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34579681",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34131198",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33832511"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We find that the incubation period has a median of 8.50 days (95% confidence interval [CI] [7.22; 9.15]).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32627172",
+          "offsetInBeginSection": 1199,
+          "offsetInEndSection": 1304
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The pooled mean incubation period of COVID-19 was 6.0 days (95% confidence interval [CI] 5.6-6.5) globally, 6.5 days (95% CI 6.1-6.9) in the mainland of China, and 4.6 days (95% CI 4.1-5.1) outside the mainland of China (P \u003d 0.006). The incubation period varied with age (P \u003d 0.005). Meanwhile, in 11 545 patients, the mean incubation period was 7.1 days (95% CI 7.0-7.2), which was similar to the finding in our meta-analysis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34535192",
+          "offsetInBeginSection": 829,
+          "offsetInEndSection": 1256
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "For COVID-19, the mean incubation period was 6.0 days globally but near 7.0 days in the mainland of China, which will help identify the time of infection and make disease control decisions.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34535192",
+          "offsetInBeginSection": 1269,
+          "offsetInEndSection": 1458
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The mean incubation period ranged from 5.6 (95% CI: 5.2 to 6.0) to 6.7 days (95% CI: 6.0 to 7.4) according to the statistical model. The 95th percentile was 12.5 days when the mean age of patients was 60 years, increasing 1 day for every 10 years.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33024342",
+          "offsetInBeginSection": 1009,
+          "offsetInEndSection": 1256
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The Delta VOC yielded a significantly shorter incubation period (4.0 vs. 6.0 days), higher viral load (20.6 vs. 34.0, cycle threshold of the ORF1a/b gene), and a longer duration of viral shedding in pharyngeal swab samples (14.0 vs. 8.0 days) compared with the wild-type strain.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34541481",
+          "offsetInBeginSection": 823,
+          "offsetInEndSection": 1101
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We estimated that the 0.95-th quantile related to people in the age group 23 ∼55 is less than 15 days.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34579681",
+          "offsetInBeginSection": 1429,
+          "offsetInEndSection": 1531
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Based on the collected data, we found that the conditional quantiles of the incubation period distribution of COVID-19 vary by age.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34579681",
+          "offsetInBeginSection": 1129,
+          "offsetInEndSection": 1260
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The estimated mean incubation period we obtain is 6.74 days (95% Confidence Interval(CI): 6.35 to 7.13), and the 90th percentile is 11.64 days (95% CI: 11.22 to 12.17), corresponding to a good agreement with statistical supported studies.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34131198",
+          "offsetInBeginSection": 343,
+          "offsetInEndSection": 581
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The mean and median incubation period were of maximum 8 days and 12 days respectively. In various parametric models, the 95th percentiles were in the range 10.3-16 days. The highest 99th percentile would be as long as 20.4 days.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33832511",
+          "offsetInBeginSection": 693,
+          "offsetInEndSection": 921
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The mean incubation period ranged from 5.2 (95% CI 4.4 to 5.9) to 6.65 days (95% CI 6.0 to 7.2).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33832511",
+          "offsetInBeginSection": 1260,
+          "offsetInEndSection": 1356
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "This work provides additional evidence of incubation period for COVID-19 and showed that it is prudent not to dismiss the possibility of incubation periods up to 14 days at this stage of the epidemic.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33832511",
+          "offsetInBeginSection": 1369,
+          "offsetInEndSection": 1569
+        }
+      ],
+      "id": "6277e52256bf9aee6f000009",
+      "type": "factoid",
+      "body": "What is the incubation period for COVID-19?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16206698"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Guillain-Barré syndrome (GBS) is an acute immune mediated neuropathy, polyradiculoneuritis, characterized by rapid onset of symmetric extremity muscle paralysis, areflexia and albuminocytological dissociation in the cerebrospinal fluid (CSF). Recently, the heterogeneity of GBS has been noticed with definition of several GBS variants.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16206698",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 335
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The diagnosis of GBS has been established in 17 patients according to clinical, electrophysiological and laboratory (CSF) criteria.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16206698",
+          "offsetInBeginSection": 750,
+          "offsetInEndSection": 881
+        }
+      ],
+      "id": "627a9ff356bf9aee6f000025",
+      "type": "summary",
+      "body": "What is Guillain-Barre syndrome (GBS)?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/3520526",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11985377",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21129599",
+        "http://www.ncbi.nlm.nih.gov/pubmed/10608260",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28965126"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "As an emergency diagnostic procedure, spinal puncture is indicated when CNS infection is suspected or to establish the diagnosis of subarachnoid hemorrhage when results of cranial computed tomography are normal. The major contraindication is elevated intracranial pressure with evidence of a mass lesion.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/3520526",
+          "offsetInBeginSection": 158,
+          "offsetInEndSection": 462
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Brain shift is a contraindication to LP, whether CSF pressure is raised or not, and whether papilloedema is present or not. Subsequently, recommendations are offered for indications to perform CT before LP, grouped according to the safety and clinical utility of LP.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11985377",
+          "offsetInBeginSection": 583,
+          "offsetInEndSection": 849
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Death following lumbar puncture (LP) is feared by physicians. Many opinions are found in literature on the question whether computed cranial tomography (CT) should be performed before LP, to prevent herniation.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11985377",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 210
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Headache, caused by cerebrospinal fluid (CSF) hypotension, is a frequent complication of lumbar puncture; hematic patch is a therapeutic option for severe cases. The most serious complication is cerebral herniation and, for its prevention, computed tomography (CT) or cerebral magnetic resonance imaging (MRI) must always be performed before lumbar puncture: a lesion with evident mass effect is a contraindication.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21129599",
+          "offsetInBeginSection": 210,
+          "offsetInEndSection": 625
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Lumbar puncture (LP) is usually contra-indicated in situations where the ICP is suspected to be high.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/10608260",
+          "offsetInBeginSection": 238,
+          "offsetInEndSection": 339
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Low-dose cranial computed tomography (LD-CCT) based on iterative reconstruction has been shown to have sufficient image quality to assess cerebrospinal fluid spaces (CSF) and midline structures but not to exclude subtle parenchymal pathologies. Patients without focal neurological deficits often undergo CCT before lumbar puncture (LP) to exclude contraindications to LP including brain herniation or increased CSF pressure.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28965126",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 436
+        }
+      ],
+      "id": "627a6ef856bf9aee6f000020",
+      "type": "yesno",
+      "body": "Is lumbar puncture the first test that should be performed on a patient with increased intracranial pressure?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33548996",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33407543",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33973190",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32352401"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Increased serum ferritin (74.2%), high C-reactive protein (73.3%), and high erythrocyte sedimentation rate (ESR) (72.2%) were the most frequently reported laboratory abnormalities.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33548996",
+          "offsetInBeginSection": 819,
+          "offsetInEndSection": 999
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Some specific laboratory indicators implied the deterioration of disease, such as leucocytosis, lymphopenia, platelet, alanine aminotransferase (ALT), aspartate aminotransferase (AST), albumin, creatinine, creatine kinase (CK), lactic dehydrogenase (LDH), C-reactive protein, procalcitonin (PCT), and D-dimer.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33548996",
+          "offsetInBeginSection": 1674,
+          "offsetInEndSection": 1983
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Most COVID-19 patients have fever and cough with lymphopenia and increased inflammatory indices, and the main CT feature is GGO involved bilateral lung. Patients with comorbidities and worse clinical symptoms, laboratory characteristics, and CT findings tend to have poor disease progression.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33548996",
+          "offsetInBeginSection": 2130,
+          "offsetInEndSection": 2422
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Multivariate logistic regression analysis showed that lymphopenia, elevated level of d-dimer, hypersensitive cardiac troponin I (hs-CTnI) and high sensitivity C-reactive protein (hs-CRP) were independent predictors of mortality in young adults with severe COVID-19.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33407543",
+          "offsetInBeginSection": 757,
+          "offsetInEndSection": 1022
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Lymphopenia, elevated level of d-dimer, hs-CTnI and hs-CRP predicted clinical outcomes of young adults with severe COVID-19.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33407543",
+          "offsetInBeginSection": 1272,
+          "offsetInEndSection": 1396
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Compared to patients with a non-severe form of COVID-19, patients who had a severe form of disease revealed higher values for white blood cells (WBC), polymorphonuclear leukocytes (PMN), total bilirubin, alanine aminotransferase (ALT), creatinine, troponin, procalcitonin, lactate dehydrogenase (LDH), and D-dimer. By contrast, platelet count, lymphocyte count, and albumin levels were decreased in patients with a severe form of COVID-19.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33973190",
+          "offsetInBeginSection": 726,
+          "offsetInEndSection": 1165
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Hyponatremia (50%), elevated C-reactive protein (CRP; 100%), and lactate dehydrogenase (LDH; 80%) were common. Acute renal failure, myocardial injury, and elevation in aminotransferases occurred in 69%, 19%, and 38% patients, respectively.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32352401",
+          "offsetInBeginSection": 1277,
+          "offsetInEndSection": 1516
+        }
+      ],
+      "id": "627a70e656bf9aee6f000021",
+      "type": "list",
+      "body": "What laboratory abnormalities are commonly seen in patients with COVID-19?"
+    }
+  ]
+}
